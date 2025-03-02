@@ -1,0 +1,25 @@
+================================ 
+LOG OPERAZIONI - Sublime Text Backup 
+================================ 
+=== Operazione avviata: 02/03/2025 21:03:08,16 === 
+[OK] Cartella di destinazione esistente: "C:\CASA\GE_CASA\GE_MARINO\BANCA\POCKET_OPTION\IMPOSTAZIONI_SUBLIMETXT" 
+--- Inizio copia file --- 
+[OK] File trovato: "C:\Users\icivi\AppData\Roaming\Sublime Text\Packages\User\Preferences.sublime-settings" 
+[OK] Copia riuscita: "Preferences.sublime-settings" 
+[INFO] File copiato in: "C:\CASA\GE_CASA\GE_MARINO\BANCA\POCKET_OPTION\IMPOSTAZIONI_SUBLIMETXT\Preferences.sublime-settings" 
+[OK] File trovato: "C:\Users\icivi\AppData\Roaming\Sublime Text\Packages\User\Mariana.sublime-color-scheme" 
+[OK] Copia riuscita: "Mariana.sublime-color-scheme" 
+[INFO] File copiato in: "C:\CASA\GE_CASA\GE_MARINO\BANCA\POCKET_OPTION\IMPOSTAZIONI_SUBLIMETXT\Mariana.sublime-color-scheme" 
+=== Operazione COMPLETATA: 02/03/2025 21:03:08,26 === 
+-------------------- 
+=== Operazione avviata: 02/03/2025 21:13:24,46 === 
+[OK] Cartella di destinazione esistente: "C:\CASA\GE_CASA\GE_MARINO\BANCA\POCKET_OPTION\IMPOSTAZIONI_SUBLIMETXT" 
+--- Inizio copia file --- 
+[OK] File trovato: "C:\Users\icivi\AppData\Roaming\Sublime Text\Packages\User\Preferences.sublime-settings" 
+[OK] Copia riuscita: "Preferences.sublime-settings" 
+[INFO] File copiato in: "C:\CASA\GE_CASA\GE_MARINO\BANCA\POCKET_OPTION\IMPOSTAZIONI_SUBLIMETXT\Preferences.sublime-settings" 
+[OK] File trovato: "C:\Users\icivi\AppData\Roaming\Sublime Text\Packages\User\Mariana.sublime-color-scheme" 
+[OK] Copia riuscita: "Mariana.sublime-color-scheme" 
+[INFO] File copiato in: "C:\CASA\GE_CASA\GE_MARINO\BANCA\POCKET_OPTION\IMPOSTAZIONI_SUBLIMETXT\Mariana.sublime-color-scheme" 
+=== Operazione COMPLETATA: 02/03/2025 21:13:24,56 === 
+-------------------- 
