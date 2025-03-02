@@ -1,5 +1,46 @@
 README.MD
 
+# DIFFERENZA TRA BINANCE E BINANCE PAY
+					La differenza tra Binance Coin (BNB BSC) e Binance Pay è sostanziale, in quanto riguardano due concetti diversi nel mondo delle criptovalute. Ecco un riepilogo delle differenze:
+
+			Binance Coin (BNB BSC):
+					Cos'è: Binance Coin (BNB) è la criptovaluta nativa dell'exchange di Binance. Viene utilizzata principalmente per pagare le commissioni di trading su Binance, ma ha anche una varietà di altri usi.
+
+					Blockchain: Binance Coin (BNB) è originariamente basato sulla Binance Chain, ma può essere anche utilizzato sulla Binance Smart Chain (BSC), che è una blockchain progettata per applicazioni decentralizzate (dApp) e contratti intelligenti.
+
+					Funzione: È una moneta digitale che può essere usata per diverse attività, come pagare le commissioni su Binance, partecipare a lanci di token (Launchpad), fare staking o interagire con applicazioni su Binance Smart Chain (come giochi, finanza decentralizzata, etc.).
+
+					Utility: Oltre a essere utilizzato per scopi all'interno dell'ecosistema Binance, il BNB viene anche usato in vari progetti e dApp costruiti sulla Binance Smart Chain.
+
+			Binance Pay:
+					Cos'è: Binance Pay è un sistema di pagamento sviluppato da Binance che consente agli utenti di effettuare pagamenti e trasferimenti in criptovalute in modo rapido e sicuro. Può essere utilizzato per pagare beni e servizi o trasferire fondi tra amici e familiari.
+
+					Funzione: Binance Pay permette agli utenti di inviare e ricevere criptovalute senza commissioni. Può essere utilizzato anche nei negozi o online per effettuare acquisti, pagando tramite un portafoglio di criptovalute.
+
+					Criptovalute Supportate: Binance Pay supporta molte criptovalute, non solo BNB, ma anche Bitcoin (BTC), Ethereum (ETH), e altre monete. Quindi non è limitato a un'unica criptovaluta, ma supporta molte diverse, a differenza del BNB che è una moneta specifica.
+
+					Utility: È simile a un sistema di pagamento come PayPal, ma con la differenza che usa criptovalute anziché valuta tradizionale. Può essere utilizzato sia online che in negozi fisici che accettano criptovalute.
+
+			In Sintesi:
+					Binance Coin (BNB) è una criptovaluta, mentre Binance Pay è un servizio di pagamento che permette di trasferire o pagare beni utilizzando criptovalute.
+					BNB può essere utilizzato su Binance e nella Binance Smart Chain, mentre Binance Pay permette di fare pagamenti in criptovalute in modo facile e sicuro.
+					Spero che ora la differenza ti sia più chiara! Se hai altre domande, fammi sapere!
+
+			Come funziona Binance Pay all'interno di Binance:
+				Accesso a Binance Pay: Una volta che hai un account Binance, puoi accedere a Binance Pay direttamente dall'app Binance o dal sito web, tramite la sezione apposita. Non devi fare nulla di separato per usarlo, basta avere il tuo account Binance attivo.
+
+				Funzione di pagamento: Binance Pay ti consente di inviare e ricevere pagamenti in criptovalute in modo facile e veloce. Puoi trasferire criptovalute ad altri utenti Binance o a chiunque abbia un indirizzo di wallet compatibile, senza commissioni. Puoi anche fare acquisti online o in negozi fisici che accettano Binance Pay come metodo di pagamento.
+
+				Semplicità: È molto simile a usare un sistema di pagamento tradizionale come PayPal, ma con criptovalute. Una volta configurato, puoi semplicemente scegliere l'importo da inviare e il destinatario, il tutto direttamente dall'interfaccia Binance.
+
+				Supporto per più criptovalute: Binance Pay supporta numerose criptovalute, non solo Binance Coin (BNB), ma anche Bitcoin (BTC), Ethereum (ETH), e molte altre. Puoi scegliere quale criptovaluta usare per il pagamento, a seconda delle tue preferenze e della disponibilità nel tuo wallet.
+
+				In sintesi:
+				Binance Pay è una funzione integrata in Binance che ti permette di fare pagamenti in criptovalute.
+				Non è un'app separata: basta usare il tuo account Binance per accedere a Binance Pay.
+				Puoi inviare criptovalute a chiunque, fare acquisti online o in negozi fisici che supportano questo metodo di pagamento.
+
+
 # REPOSITORY
 				
 		CREARE_REPOSITORY
