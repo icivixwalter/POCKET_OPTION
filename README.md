@@ -1,6 +1,7 @@
 README.MD
 
 # DIFFERENZA TRA BINANCE E BINANCE PAY
+		BINANCE COIN E BINANCE PAY
 					La differenza tra Binance Coin (BNB BSC) e Binance Pay è sostanziale, in quanto riguardano due concetti diversi nel mondo delle criptovalute. Ecco un riepilogo delle differenze:
 
 			Binance Coin (BNB BSC):
@@ -3272,3 +3273,291 @@ README.MD
 
 					12:33
 					Ciao con binance il deposito è istantaneo invece il ritiro non supera quasi un ora
+
+#### 2025.03.08
+		T1
+			T2
+		GEMME E TRADING FINE SETTIMANA - ENGLISH
+
+				Nirmal R
+						13:19
+						Shafqat U
+								It's an feature you can say it is available in weekend for below guru level accounts and it's free ... When you trade on weekends any trade of your can be selected for the lottery and you win the gems . Higher the amount there's more chances of winning gems
+
+						È una funzionalità che puoi dire che è disponibile nel fine settimana per account di livello inferiore al guru ed è gratuita ... Quando si fa trading nei fine settimana, qualsiasi commercio del tuo può essere selezionato per la lotteria e si vincono le gemme. Più alto è l'importo, ci sono più possibilità di vincere gemme
+
+		VERIFICA DOCUMENTI 48 ORE - ENGLISH
+
+				Nirmal R
+							13:19
+							Raphael Sylvanus D
+							How long does it takes for them to verify your card
+
+							The documents are reviewed between 24-48 hours ...
+
+							Raffaello Silvano D
+							Quanto tempo impiegano a verificare la tua carta
+
+							I documenti vengono esaminati tra le 24 e le 48 ore
+
+		VERIFICA DOCUMENTI - RIFIUTO CARTA - ENGLISH
+
+			Raphael Sylvanus D
+
+					Quando vado ad aggiungere la carta questo viene: (VEDI FIGURA PDF)
+
+					START "APRI CARTA RIFIUTATA " "C:\CASA\GE_CASA\GE_MARINO\BANCA\POCKET_OPTION\PDF\CARTA_RIUFIUTATA_AVVISO.pdf"
+
+
+
+		PRELEVARE IN ETHERUM -DEOPSITO E PRELIEVO IL FLAT
+
+			Domenico pio V
+
+					Ieri, 17:10
+					Scusate ma ho prelevato in ethereum tramite erc20, con revolut , ho fatto giusto?
+
+
+				Stefania A
+
+						Ieri, 17:17
+						Domenico pio V
+						Credo che sia l unico modo per prelevare, pero non ho mai ricaricato in ethereum allora devo verificare lo stesso o no?
+
+						Ciao, in precedenza avevo chiesto all'assistenza dei chiarimenti sui depositi e prelievi con fiat e crypto con Revolut, e la loro risposta è stata la seguente
+
+				Stefania A
+
+						Ieri, 17:21
+						Se si deposita in Fiat il prelievo avverrà ugualmente in fiat. Depositi fiat e prelievi crypto non sono supportati.
+
+		PIATTAFORMA NO EXCHANGE DEPOSITO E PRELIEVO IN CRIPTO
+
+			Domenico pio V
+
+					Ieri, 17:23
+					Devo fare prima la ricarica in euro( le fiat intendi euro dollaro ecc) , e poi una volta accettata la carta , il prelievo come lo devo fare?
+
+
+			Domenico pio V
+
+					Ieri, 17:24
+					Cioe perche uscira poi la carta di revoulut oppure potro solo prelevare in crypto ma non so
+
+
+			Stefania A
+
+					Ieri, 17:25
+					Se vuoi utilizzare le crypto dovresti depositare in crypto anche con Revolut, altrimenti avrai problemi perchè utilizzi la piattaforma con un exchange e questo è vietato da regolamento.
+
+
+		PRELIEVO IN EURO CON PORTAFOGLIO ELETTRONICO - VOLET + REVOLUT
+
+			Domenico pio V
+
+						Ieri, 17:26
+						Si ma in caso in euro si puo prelevare
+
+
+
+			Stefania A
+
+					Ieri, 17:26
+					Si utilizzando un portafoglio elettronico
+
+
+
+			Domenico pio V
+
+					Ieri, 17:28
+					Dimmi tu quale tipo posso utilizzare
+
+
+
+			Stefania A
+
+					Ieri, 17:28
+					Ad esempio Volet
+
+
+
+			Domenico pio V
+
+					Ieri, 17:30
+					Ha intendo volet.com
+
+
+
+			Domenico pio V
+
+					Ieri, 17:30
+					Ma è sicuro? E si può utilizzare in italia
+
+
+
+			Stefania A
+
+					Ieri, 17:30
+					prelevare in euro con Revolut non è possibile ,perchè in Italia non è consentito il prelievo con il circuito mastercard o visa. Con revolut puoi usare i circuiti crypto e quindi versare in crypto e prelevare in crypto.
+
+
+
+			Stefania A
+
+					Ieri, 17:32
+					Domenico pio V
+					Ha intendo volet.com
+
+					Io mi trovo bene utilizzo sia Revolut e a volte anche volet è veloce e efficiente .
+
+
+		PASSAGGI 1) CARICO REVOLUT 2) TRASFORMO IN ETHERUN 3) PAGO ETHERUM
+
+
+
+						Domenico pio V
+
+									Ieri, 17:36
+									Allora quinid io adesso , 
+									01) carico esempio 100 euro su revulut, 
+									02) poi compro ethereum , 
+									03) da li metto dalla carta le uscite in crypto e seleziono ethereum come principale. 
+									04) Poi faccio la ricarica con revoulut e pago con ethereum, 
+									05) da lo faccio verificare la carta . 
+									06) Poi una volta verificata la carta , prelevo in erc20 in ethereum mettendo l indirizzo di revolut
+
+
+						Domenico pio V
+
+									Ieri, 17:36
+									Ho sbagliato qualcosa?
+
+
+		CONVERTIRE 100 IN ETHERUM IN ERC20 CON REVOLUTO AUTOMATICO
+			Domenico pio V
+
+						Ieri, 17:36
+						Una domanda quando converto i 100 in ethereum come faccio a scegliere erc20 ? O non serve ancora li
+
+
+			Stefania A
+
+						Ieri, 17:37
+						Esatto .
+
+
+			Stefania A
+
+						Ieri, 17:38
+						Domenico pio V
+						Una domanda quando converto i 100 in ethereum come faccio a scegliere erc20 ? O non serve ancora li
+
+						Sulla piattaforma di Revolut la rete te la imposta automaticamente
+
+
+		METODO PER PRELEVARE: 01) PER SPEDERE MEGLIO VOLET 02) PER TRASFERIRE CRIPTO BINANCE
+
+			Edoardo R
+
+					Ieri, 17:45
+					secondo voi qual’é il miglior metodo per prelevare
+
+
+			Christian A
+
+					Ieri, 18:18
+					Btc con revolut
+
+
+			Fabio E
+
+					Ieri, 20:34
+					Esatto
+
+
+			Fabio E
+
+					Ieri, 20:50
+					Edoardo R
+					secondo voi qual’é il miglior metodo per prelevare
+
+					Dipende da cosa ci devi fare..... 01)Se prelevi per spendere, ti conviene wallet di Volet.com, 02) se devi spostare somme per investire in altro, puoi trasferire in cripto. Binance va bene e anche Revolut se hai abilitato la negoziazione delle cripto.
+
+		CONFERMA DELLA CARTA DI CREDITO VIRTUALE - UTILIZZO VOLET
+
+
+			Andrea M
+
+					Ieri, 21:02
+					Buonasera qualcuno di voi ha confermato l'identità della carta di credito virtuale, sapete come funziona ?
+
+
+			Fausto S
+					Ieri, 23:24
+					Andrea M
+					Buonasera qualcuno di voi ha confermato l'identità della carta di credito virtuale, sapete come funziona ?
+
+					Ciao, devi caricare un estratto conto con il tuo nome completo numero della carta e transazione di deposito effettuata a pocket option
+
+
+			Fausto S
+					Ieri, 23:24
+					Edoardo R
+					secondo voi qual’é il miglior metodo per prelevare
+
+					Io mi trovo bene con volet
+
+
+
+		CONTO BINANCE O BYBIT DEPOSITO I USDT E STESSO PRELIEVO 20 MINUTI ARRIVANO
+
+			Andrea B
+
+			Ieri, 20:37
+			Tutti questi giri li risolvereste con un conto binance o bybit e deposito in usdt e prelevando allo stesso modo , 20 minuti e arrivano
+
+		NO CARTE PRELIEVO CON PRIMO DEPOSITO IN CRIPTO O VALLET ELETTRONICI - ATTIVAZIONE
+
+
+				Denis I
+
+						Ieri, 19:00
+						Non ho ancora prelavato dopo 1 settimana
+
+
+				Otman M
+
+						Ieri, 19:09
+						ma quali sarebbero questi "problemi" ?
+								
+
+
+				Otman M
+
+						Ieri, 19:14
+						so che è palloso fare più verifiche per i documenti ma non deve essere visto come una tragedia
+
+
+				Fausto S
+			Ieri, 22:53
+			Marco S
+			Una domanda perche non riesco a prelevare con revolut mi dà errore
+
+			da default puoi ritirare solo con il metodo che hai depositato precedentemente (Sono gli stessi metodi Che Vedi Nella sezione depositi), ma le carte non sono disponibili per i ritiri nella nostra regione. 
+			Per prelevare si possono usare solo o le crypto o i wallet elettronici. 
+			01) Per attivare questi metodi alternativi di ritiro, puoi o depositare nuovamente usando uno di questi come le crypto, cosi lo vedi nei ritiri come metodo da scegliere per ritirare, 
+			02) oppure puoi comunicare al supporto l'indirizzo del tuo wallet crypto o e-wallet tramite questo ticket https://po.life/it/cabinet/support/create/?o=12,51,174 in modo poi da poterlo vedere e selezionare dai ritiri.
+
+		VERIFICA CARTA DI DEPOSITO SENZA  NOME 
+
+			Luigi L
+
+					Ieri, 14:36
+					Scusate ragazzi, ho versato con la carta bancoposta e adesso vorrei prelevare però non c'è il mio nome sulla carta e non posso dimostrare che è mia, come si fa?
+
+			Fausto S
+			Ieri, 14:46
+			Luigi L
+			Scusate ragazzi, ho versato con la carta bancoposta e adesso vorrei prelevare però non c'è il mio nome sulla carta e non posso dimostrare che è mia, come si fa?
+
+			Ciao, per verificare una carta virtuale o senza il nome sopra, devi caricare un estratto conto con il tuo nome completo, numero della carta e transazione di deposito effettuata a pocket option
