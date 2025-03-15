@@ -3454,7 +3454,6 @@ README.MD
 
 						Sulla piattaforma di Revolut la rete te la imposta automaticamente
 
-
 		METODO PER PRELEVARE: 01) PER SPEDERE MEGLIO VOLET 02) PER TRASFERIRE CRIPTO BINANCE
 
 			Edoardo R
@@ -3506,7 +3505,6 @@ README.MD
 					secondo voi qual’é il miglior metodo per prelevare
 
 					Io mi trovo bene con volet
-
 
 
 		CONTO BINANCE O BYBIT DEPOSITO I USDT E STESSO PRELIEVO 20 MINUTI ARRIVANO
@@ -3561,3 +3559,202 @@ README.MD
 			Scusate ragazzi, ho versato con la carta bancoposta e adesso vorrei prelevare però non c'è il mio nome sulla carta e non posso dimostrare che è mia, come si fa?
 
 			Ciao, per verificare una carta virtuale o senza il nome sopra, devi caricare un estratto conto con il tuo nome completo, numero della carta e transazione di deposito effettuata a pocket option
+
+****
+
+#### 2025.03.11
+		T1
+			T2
+				T3
+		VPN PER PRELEVARE NESSUN PROBLEMA
+
+			Paola G
+
+				11 Mar, 20:25
+				ma se uso una VPN per prelevare cambia qualcosa?sul fatto del cash in carta?
+
+			Fausto S
+				11 Mar, 22:37
+				Paola G
+				ma se uso una VPN per prelevare cambia qualcosa?sul fatto del cash in carta?
+
+				no, non cambia
+
+		REVOLUT PRELIEVO IN CRIPTO
+			Mirko C
+
+				12 Mar, 02:57
+				qualcuno ha mai prelevato crypto con Revolut?
+
+
+			Fabio E
+
+				12 Mar, 07:04
+				Info, per chi è nella ns regione e utilizza Binance, dopo il 31.03 non sarà più disponibile USDT, ma si può sempre prelevare o depositare con USDC. Solo info su normativa che entra in vigore per Binance dal 31.03.2025. Se avete USDT, convertite in USDC. Invece per la piattaforma Pocket, prima di fare il prelievo in USDC, fate prima un piccolo deposito, così non si incorre in errori. Saluti.
+
+		BINANCE DA MARZO 2025 SOLO USDC NO USDT
+			Fabio E
+				12 Mar, 07:04
+				Info, per chi è nella ns regione e utilizza Binance, dopo il 31.03 non sarà più disponibile USDT, ma si può sempre prelevare o depositare con USDC. Solo info su normativa che entra in vigore per Binance dal 31.03.2025. Se avete USDT, convertite in USDC. Invece per la piattaforma Pocket, prima di fare il prelievo in USDC, fate prima un piccolo deposito, così non si incorre in errori. Saluti.
+
+		REVOLUT PRELIEVO CRIPT 2 GG SU 100 EURO 6 DI SPESE = 94,00
+			Nicola L
+					12 Mar, 07:19
+					Mirko C
+					qualcuno ha mai prelevato crypto con Revolut?
+
+					Io sto aspettando un prelievo che ho fatto in crypto con revolut ! Due giorni e ancora niente!
+
+			Emanuele B
+	12 Mar, 11:03
+	Mirko C
+	qualcuno ha mai prelevato crypto con Revolut?
+
+	yess, arrivano in circa 2 giorni. poi sull'app li converti e apposto. ci sarà un minimo di trattenuta, per esempio se ritiri 100 di netti ne avrai 94.
+
+
+		PRELIEVO CON BINANCE STEP_01=DEPOSITO STEP_P02_PRELIEVO STEP_03_CONVERSIONE EURO
+			Hind E
+
+				12 Mar, 13:15
+				per il prelievo con binance devo prima depositare con esso per poi prelevare una volta che i soldi son su binnance li converto in eur e poi posso trasferirli nella mia carta mastercard tramite sepa?
+
+
+			Andrej C
+
+				12 Mar, 16:11
+				una domanda: se deposito con litecoin tramite coinbase, posso prelevare in eth su un altro wallet
+
+		INZIO CON 50 EURO
+
+			Hajjaj L
+				12 Mar, 22:58
+				ciao sono nuovo, ho iniziato con 50€ secondo voi va bene?		
+
+		COME GESTIRE BENE 65,00 EURO - USA IL 3% E OGNI VOLTA CHE PERDI RADDOPPIA
+
+			Constantin pietro F
+	13 Mar, 17:58
+	Ho 65 euro sul conto, come posso gestirli al meglio?
+			
+			Maciej D
+				13 Mar, 18:03
+				usa solo il tuo 2-3 percento per fare trading e ogni volta che perdi raddoppia la puntata. A me sta andando benissimo per il momento
+
+		VERIFICA VA NELLO SPAM
+
+
+			Constantin pietro F
+				13 Mar, 20:46
+				Non riesco ad effettuare la verifica della carta di credito per effettuare i prelievi, come devo fare?
+
+
+			Constantin pietro F
+		13 Mar, 20:46
+		Non riesco ad effettuare la verifica della carta di credito per effettuare i prelievi, come devo fare?
+
+
+		
+
+#### 2025.03.13
+		
+		BONUS 20 GIORNI PER RECUPERARLO
+			Mattia N
+
+				12 Mar, 12:02
+				mi consigliate di tenere il bonus in cui dovrei raggiungere 10k per ritirare, oppure cancellarlo? perché col bonus praticamente adesso ogni profitto viene dimezzato mettendo metà nel mio saldo e metà nel saldo bonus, sicche fino a che non raggiungo i 10k del bonus, farei profitto dimezzato. Cosa consigliate?
+		REVOLUT PER RITIRARE PROCEDIMENTO - USA CRITPO PRELIEVI IN BTC NON USARE MASTERCARD
+
+
+			Mattia B
+				Ieri, 16:28
+				Ciao qualcuno usa revolut per ritirare soldi da questa app?
+
+
+			Ali A
+				Ieri, 16:34
+				Ciao qualcuno ha gia ritirato?
+
+			Dario M
+				Ieri, 16:40
+				Non si riesce anche io ho revolut
+
+
+			Stefania A
+				Ieri, 16:47
+					Per ritirare con Revolut dovete utilizzare le cripto; quindi per esempio prelievi in BTC e inserire l'indirizzo BTC che compare sull'app. In Italia per il prelievo non si possono utilizzare le carte.
+
+
+
+			Stefania A
+				Ieri, 16:53
+					Gianluca non sono cavolate dovresti solo informarti.... Si utilizzano criptovalute e portafogli elettronici. Quindi in pratica con la carta Revolut puoi prelevare ,ma , come metodo di prelievo utilizzerai le cripto e non il circuito mastercard o visa poi all'interno dell'app Revolut in un secondo momento richiedi il cambio da cripto a euro
+
+		VOLET PRELIEVO ISTANTANEO - CREI ACCAUNT E DEPOSITI E PRELIEVI
+
+			Francesco N
+	Ieri, 17:04
+	Oggi ho prelevato istantaneamente con volet senza problemi
+
+			Francesco N
+				Ieri, 17:05
+				Consiglio di aprire un account e di effettuare i depositi e prelievi con questa piattaforma
+
+
+		TRUST VALLET PRELIEVO SENZA PROBLEMI
+
+					Nino russel M
+						Ieri, 17:15
+						AVETE MAI PRELEVATO TRAMITE BINANCE? COL TETHER (USDT) BEP20??
+
+					Alexandru B
+
+						Ieri, 18:14
+						Nino russel M
+						AVETE MAI PRELEVATO TRAMITE BINANCE? COL TETHER (USDT) BEP20??
+
+						io prelevo sempre tramite trust wallet non mi ha dato mai problemi!		
+
+#### 2025.03.15
+		T1
+			T2
+				T3
+
+		PRELEVARE IN CRIPTO CREATEVI UN CONTO BINANCE O CON BYBIT CIRCUITIO: usdt circuito trc20
+
+
+			Ali E
+
+				Ieri, 21:49
+				Sabatino M
+				prelevate in crypto ragazzi createvi un conto binance o bybit.
+
+				+1
+
+
+
+			Andrea B
+				04:49
+				David A
+				ma non mi fa scegliere l'opzione di prelevare in crypto
+
+				Perche devi prima depositare in cripto poi trovi l'opzione del prelievo, ti consiglio usdt circuito trc20, zero problemi
+
+
+			Andrea B
+
+				04:49
+				David A
+				ma non mi fa scegliere l'opzione di prelevare in crypto
+
+				Perche devi prima depositare in cripto poi trovi l'opzione del prelievo, ti consiglio usdt circuito trc20, zero problemi
+
+
+			Andrea B
+
+				04:51
+
+					Vedi a me viene fuori in automatico perché ho usato il deposito in cripto		
+
+						START "APRI CIRCUITO AUTOMATICO PDF" "c:\CASA\GE_CASA\GE_MARINO\BANCA\POCKET_OPTION\PDF\DEPOSITO_CRIPTO_PRELIEVO_CRIPTO.pdf"
+
