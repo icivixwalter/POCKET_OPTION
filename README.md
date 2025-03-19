@@ -3758,3 +3758,71 @@ README.MD
 
 						START "APRI CIRCUITO AUTOMATICO PDF" "c:\CASA\GE_CASA\GE_MARINO\BANCA\POCKET_OPTION\PDF\DEPOSITO_CRIPTO_PRELIEVO_CRIPTO.pdf"
 
+Open Default Shell in Panel
+
+
+#### 2025.03.18
+		T1
+			T2
+				T3
+
+
+		COME VERIFICARE LA CARTA
+
+
+
+			Essi I
+
+					Ieri, 17:23
+					Filippo F
+					ragazzi, a me chiede la verifica della carta di credito ma io non ho il nome e cognome sopra, qualcuno ha riscontrato questo problema?
+
+					Io, basta che mandi un documento che verifica il titolare della carta… tipo un estratto conto
+
+
+
+
+			Stefania A
+
+					Ieri, 20:24
+					Antonio C
+
+					Ragazzi mi serve aiuto, non posso prelevare senza Mastercard, ed ho solo quella per riuscire a prelevare, cosa faccio ora?
+
+					Ciao, puoi aprire un portafoglio elettronico per i prelievi ti basterà inviare un ticket all'assistenza dove specifichi il nome dello stesso, valuta e numero di conto.
+
+
+
+			Fausto S
+					Ieri, 23:15
+					Salvatore O
+					Ciao ragazzi, volevo chiedervi, ma come funzionano i bonus di deposito?
+					Ho un codice promo di un deposito di 93$ con un bonus max di 930 ma come funziona ?
+
+					regole del bonus:
+					1. Il bonus ti dà 50% sull'importo del deposito nel saldo del conto reale.
+					2. È possibile annullare il bonus in qualsiasi momento, l'importo del bonus e il profitto del bonus saranno dedotti dal saldo del conto reale.
+					3. Profitto da bonus = 50% / (100 + 50%) * profitto da trading ottenuto durante il trading mentre si usa il bonus.
+					4. Profitto disponibile = Profitto del trading - Profitto del bonus. Come se si operasse senza fondi bonus.
+					5. È possibile ritirare l'importo depositato e il profitto disponibile in qualsiasi momento se si dispone di fondi sufficienti sul saldo del conto reale.
+					6. In caso di prelievo, il Bonus attivo, il Bonus non eseguito e il profitto del Bonus saranno detratti dal saldo del conto reale.
+					7. Il bonus e il profitto del bonus vengono eseguiti e diventano disponibili per il prelievo una volta che il tuo fatturato netto di trading raggiunge 50 dell'importo del bonus.
+					8. La Società ha il diritto di modificare i termini del bonus o di terminare questa promozione in qualsiasi momento senza preavviso.
+
+
+
+TRUFFA CHIEDE LE CREDENZIALE DEL CONTO TRADA E VI PROMETTO IL 50%
+
+
+
+				Alessandro V
+
+						17:13
+						Vi chiederà di darvi credenziali del vostro account dove lui depositerà e farà trade per conto vostro dandovi il 50% dei “profitti”
+
+
+
+				Alessandro V
+
+						17:14
+						Occhio perché anche se sembra legit. Penserete cosa può fare di male se usa il mio account non può nemmeno prelevare giusto? Anzi potrei tenermi anche tutto! Però potrebbe usare carte di credito rubate lasciandovi in negativo l account o chissà cos altro
