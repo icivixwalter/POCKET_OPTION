@@ -3810,19 +3810,409 @@ Open Default Shell in Panel
 					8. La Società ha il diritto di modificare i termini del bonus o di terminare questa promozione in qualsiasi momento senza preavviso.
 
 
+		TRUFFA CHIEDE LE CREDENZIALE DEL CONTO TRADA E VI PROMETTO IL 50% SI TROVA SU TELEGRAM
 
-TRUFFA CHIEDE LE CREDENZIALE DEL CONTO TRADA E VI PROMETTO IL 50%
 
+
+							Alessandro V
+
+									17:13
+									Vi chiederà di darvi credenziali del vostro account dove lui depositerà e farà trade per conto vostro dandovi il 50% dei “profitti”
+
+
+
+							Alessandro V
+
+									17:14
+									Occhio perché anche se sembra legit. Penserete cosa può fare di male se usa il mio account non può nemmeno prelevare giusto? Anzi potrei tenermi anche tutto! Però potrebbe usare carte di credito rubate lasciandovi in negativo l account o chissà cos altro
+
+
+
+							Alessandro V
+
+										17:16
+										Se come te divertirvi ho la chat Telegram dove rosica xD che non è riucito
+
+
+		ATTENZIONE ALLO SLIPPAGE DISTRUGGE LE BANDE DI BOOLLINGER ED RSI 
 
 
 				Alessandro V
 
-						17:13
-						Vi chiederà di darvi credenziali del vostro account dove lui depositerà e farà trade per conto vostro dandovi il 50% dei “profitti”
+							17:22
+							Sicuramente anzi quando abbiamo parlato mi sei sembrata una persona Smart ma in ogni caso speculare su persone che magari non ci capiscono molto dandogli qualche info non è per me . Nel senso che alcune persone qui sono proprio neofite ed il 80/90% usa time frame a 1 minuti 30 e 15 secondi anche 5 . Aprire un trade come tu mi hai scritto a 5 min per me è gambling . Io pure lo faccio attenzione no dico che è sbagliato ognuno fa quello che vuole ma parlare di stategie bande di booinger ed rsi su time frame così bassi e praticamente gambling può funzionare a volte con liquidità ma lo slippage sui 2 minuti ti si magna
+
+
+#### 2025.03.20
+		T1
+			T2
+				T3
+
+		NON DEPOSITARE CON CARTA MA CON BINANCE - SICURO CARTA NO -
+					Ciprian petru B
+
+								04:47
+								Ragazzi mi aiutate per favore
+
+
+					Ciprian petru B
+
+								04:48
+								Ho depositato con la carta di mia moglie, ora devo fare la verifica della mia carta, ma non me la verificano, non mi accettano la verifica, cosa devo fare l'assistenza non mi risponde
+
+
+					Federico S
+
+								09:36
+								nella piattaforma bisogna depositare con binance e il modo piu sicuro per poter prelevare i vostri soldi con le carte di credito potreste avere seri problemi
 
 
 
-				Alessandro V
 
-						17:14
-						Occhio perché anche se sembra legit. Penserete cosa può fare di male se usa il mio account non può nemmeno prelevare giusto? Anzi potrei tenermi anche tutto! Però potrebbe usare carte di credito rubate lasciandovi in negativo l account o chissà cos altro
+			Andrea antonio B
+
+					10:52
+					io ho depositato tramite revolut, ma non la vedo come opzioni di prelievo, qualcuno sa dirmi cosa devo fare?
+
+
+			Ciprian petru B
+
+					10:55
+					Fai prelievo tramite crypto
+
+
+			Giorgio S
+
+					12:44
+					Ciao ragazzi io devo verificare la carta ma ho revolut e non la ho fisica come posso fare?
+
+
+			Shairan V
+
+					13:02
+					quando chiedo il prelievo mi dice carica i documenti ma e' tutto ok la documentazioen
+
+
+			Ali E
+
+					13:19
+					Giorgio S
+					Ciao ragazzi io devo verificare la carta ma ho revolut e non la ho fisica come posso fare?
+
+					gli mandi la virtuale
+					
+
+
+
+#### 2025.03.25
+
+	T1
+			T2
+				T3
+
+	GUADAGNATO E POI PERSO TUTTO
+			Annamaria Z
+
+				24 Mar, 14:55
+				Io ho guadagnato e poi perso tutto dinuovo
+
+
+			Annamaria Z
+
+					24 Mar, 14:55
+					Per questo mi fermo
+
+
+
+
+			Foster Boare T
+
+					24 Mar, 15:06
+					Annamaria Z
+					Per questo mi fermo
+
+					Per quasi cinque anni ho studiato e imparato a fare trading da solo. Non dipendevo né credevo in nessun altro. Ora so che posso fare soldi in modo costante ogni giorno facendo trading e seguendo la mia strategia di trading. Ecco perché non voglio che tu rinunci perché credo che tu possa farcela.
+
+			Foster Boare T
+
+				24 Mar, 15:16
+				Annamaria Z
+				Soldi fanno soldi .. e non continuo con la frase. Bisogna nascere fortunati. Qui si rischia sempre
+
+				Sto solo cercando di aiutarti il più possibile, perché non voglio davvero che tu ti arrenda a causa di piccole sfide ora.
+				ma dipende tutto da te, se non vuoi fare trading non possiamo obbligarti a restare, ma non voglio che tu ti fermi.
+
+
+	PRELIEVO DI DOMENICA IN USDC POCHE ORE
+			Andrea Z
+
+				24 Mar, 20:07
+				Andrea C
+				Ciao sapete se i prelievi vengono elaborati anche di domenica? O forse meglio se aspetto domani
+
+				Ciao, io prelevo sempre la domenica in USDC e la maggior parte delle volte ricevo il pagamento entro poche ore o al massimo il lunedì mattina ;)
+
+
+
+			Marianna G
+
+				24 Mar, 22:23
+				Andrea Z
+				Ciao, io prelevo sempre la domenica in USDC e la maggior parte delle volte ricevo il pagamento entro poche ore o al massimo il lunedì mattina ;)
+
+				Confermo. Era il primo, già ricevuto stasera
+
+
+	DEPOSITO CRIPTO CON REVOLUTO DEVI COMUNICARE L'INDIRIZZO PER IL PRELIEVO
+
+
+
+			Eric G
+
+				25 Mar, 10:30
+				io ho depositato son revolut, ma ora nei metodi di prelievo non c’è revolut, cosa faccio?
+
+
+			Fausto S
+				25 Mar, 10:35
+				Eric G
+				io ho depositato son revolut, ma ora nei metodi di prelievo non c’è revolut, cosa faccio?
+
+				si preleva solo o con crypto o con portafogli elettronici, quindi puoi prelevare con le crypto tramite revolut. Comunica al supporto l'indirizzo del tuo wallet crypto tramite questo ticket https://po.life/it/cabinet/support/create/?o=12,51,174 in modo poi da poterlo vedere e selezionare dai ritiri.
+
+
+			Fausto S
+					25 Mar, 11:29
+					Eric G
+
+					quale di questi devo usare?
+
+					devi scegliere la crypto con la quale vuoi prelevare e dev'essere una crypto disponibile anche su revolut. puoi contattare il supporto per maggiori chiarimenti al link che ti ho fornito
+
+
+
+
+			Emiliano A
+
+				25 Mar, 11:30
+				Per esempio se scegli sul tuo deposito wallet Revolut USDT (TetherUS) CON RETE BSC
+				BNB Smart Chain (BEP20), quando farai il prelievo da P.O. scegli lo stesso e metti l'indirizzo di deposito (quello che hai copiato da Revolut)
+
+
+	REVOLUT PUOI UTILIZZARLO COME METODO DI DEPOSISTO NON DI PRELIEVO
+
+				Stefano F
+
+					25 Mar, 13:34
+					si il prelievo con revolut io lo utilizzo con USDT
+
+
+
+				Stefano F
+
+					25 Mar, 13:34
+					il quale comunque è molto comodo
+
+
+
+				Stefano F
+
+						25 Mar, 13:34
+						e devo dire abbastanza rapido
+
+
+			REVOLUT NON MI FA PRELEVARE ??
+				Eric G
+
+					25 Mar, 13:35
+					stefano mi spieghi perché io ho depositato con revolut e non mi fa 
+					prelevare con questo
+
+
+
+			Eric G
+
+				25 Mar, 13:35
+				mi aiuti a prelevare con revolut per piacere
+
+
+			Stefano F
+
+				25 Mar, 13:37
+				revolut lo puoi utilizzare come metodo di deposito tramite bonifico, ma come metodo di prelievo non ti da' l'opzione
+
+
+				Eric G
+
+					25 Mar, 13:37
+					eh e come faccio allora
+
+
+				Stefano F
+
+					25 Mar, 13:37
+					se hai revolut, ti consiglio di prelevare in USDT TRON/TRC- 20
+
+
+				Stefano F
+
+					25 Mar, 13:38
+					scrivi in DM
+
+
+
+				Gabriel B
+
+					25 Mar, 13:49
+					Ma poi in che senso la carta deve essere firmata dietro ?
+
+
+	CARTA DIGITALE REVOLUT
+
+		
+				Stefano F
+
+					25 Mar, 13:50
+					ragazzi usate la carta digitale revolut, che serve solamente un documento che di rilascia revolut stesso
+
+				Stefano F
+
+					25 Mar, 13:50
+					caricate il PDF nella sezione della foto e siete a posto
+
+
+	SE DEPOSITI CON CARTA MASTERCARD VERIFICALA
+				Gabriel B
+
+					25 Mar, 13:50
+					Eh ma ormai io ho depositato con la mia carta
+
+
+
+				Gabriel B
+
+					25 Mar, 13:50
+					Non quella di Revolut
+
+
+				Stefano F
+
+					25 Mar, 13:51
+					anche io avevo depositato e comunque l'ho verificata, non è firmata dietro la mia carta
+
+
+
+				Stefano F
+
+					25 Mar, 13:51
+					voi coprite i dati sensibili con del nastro, le prime 6 cifre devono essere visibili come le ultime 4
+
+
+
+				Stefano F
+
+					25 Mar, 13:52
+					come indicato, la foto non deve tagliare la carta su nessuno degli angoli e il vostro nome sulla carta deve essere ben visibile.
+
+
+
+				Gabriel B
+
+					25 Mar, 13:52
+					Io spero che accettino la mia perché ha i numeri in rilievo
+
+
+
+				Stefano F
+
+					25 Mar, 13:52
+					a volte ci sono i nomi scritti in rilievo cromato, e con molta luce, potrebbero non essere leggibili dalla foto
+
+
+				Stefano F
+
+					25 Mar, 13:53
+					la mia era così ma ho risolto, tenendo un po' più di distanza dalla carta, mettendo bene a fuoco e zoomando con la camera
+
+	PRELIEVO CON REVOLUT UTILIZZARE TRON
+
+
+				Stefano F
+
+					25 Mar, 13:54
+					per la questione prelievo, una volta verificato il profilo, utilizzare Revolut TRC-20 o TRON
+
+
+				Nino russel M
+
+					25 Mar, 14:52
+					Ma su revolut posso prelevare con Ethereum oppure Litecoin ?
+
+
+
+				Gabriel B
+
+					25 Mar, 15:52
+					Qualcuno sa come visualizzare l’indirizzo per farsi arrivare i soldi in ethereum ?
+
+				Stefano F
+
+						25 Mar, 16:04
+						vi conviene usare la rete TRON
+
+
+				Stefano F
+
+					25 Mar, 16:04
+					per facilità di utilizzo
+
+
+	REVOLUT E' VALLET?
+
+
+				Gabriele R
+
+					Ieri, 15:26
+					Cosa intendi per e-wallet ? Revolut è considerato e-wallet?
+
+
+				Fausto S
+					Ieri, 15:55
+					Gabriele R
+					Cosa intendi per e-wallet ? Revolut è considerato e-wallet?
+
+					no con Revolut puoi prelevare solo tramite crypto
+
+
+
+	VOLET NUMERO DELL'ACCOUNT DOVE SI TROVA - INIZIA CON LA U -
+
+				Fausto S
+
+					Ieri, 20:36
+					Zakaria A
+					su volet dove si trova il numero dell’account
+
+					E` quello che inizia con la U
+
+
+	VOLET DEVI CREARE E VERIFICARE IL TUO CONTO
+
+					Fausto S
+						Ieri, 23:19
+						Zakaria A
+						dove si trova pero
+
+						hai creato e verificato il tuo conto di volet? se lo hai fatto lo trovi nella dashboard
+
+
+	UTILIZZO SEMPRE BINANCE
+
+
+			Vadzim Z
+
+				Ieri, 23:10
+				Nadya E
+				A me mi hanno consigliato binance ma non l'ho ancora provato, non sono riuscita ancora a prelevare
+
+				Ho fatto sempre con binace
