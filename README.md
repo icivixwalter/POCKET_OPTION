@@ -4216,3 +4216,91 @@ Open Default Shell in Panel
 				A me mi hanno consigliato binance ma non l'ho ancora provato, non sono riuscita ancora a prelevare
 
 				Ho fatto sempre con binace
+
+
+#### 2025.03.28
+	OPZIONI BINARIE SEMPLICI DA CAPIRE DIFFICILE DA EFFETTUARE
+
+
+		Federico S
+
+			Ieri, 11:08
+			le opzioni binarie sono semplici da capire ma molto difficili da effettuare.. io ci ho messo un anno prima di essere profittevole. bisogna studiare le strutture di mercato su tutti i timeframe molti video su youtube ti fanno credere che con 2 indicatori sulla chart tu possa essere profittevole ma non e cosi..
+
+
+		Federico S
+
+			Ieri, 11:09
+			oltre il 90% delle persone che operano sulle opzioni binarie perdono soldi perche non sanno che cosa stanno facendo
+
+
+	BINANCE VA BENE PRELIEVO
+			Luca G
+
+				Ieri, 11:14
+				cosa usi per prelevare tu federico?
+
+
+			Federico S
+
+				Ieri, 11:15
+					binance
+
+
+
+			Federico S
+
+				Ieri, 11:15
+				e i soldi mi arrivano sempre sul mio wallet
+
+			Luca G
+
+				Ieri, 11:17
+				e ti continua a funzionare perché in molti dicono che dopo il primo prelievo non riescono piu ad usarlo come metodo
+
+
+			Federico S
+
+				Ieri, 11:17
+				a me va benissimo ti ho scritto in privato quo su pocket
+
+
+
+	SE CAMBI IP RIFARE IL SELFIE CON LA CARATA IN MANO
+
+
+			Ioana tanta M
+
+				13:26
+				Che ho cambiato IP, e mi hanno chiesto selfie con la carta în mano.. Ho inviato tutto, ma ancora nulla.. Ma se io uso sia dati mobili che WiFi? Mica è vietato?
+
+
+			Gabriele R
+
+				13:33
+				Ioana tanta M
+				Che ho cambiato IP, e mi hanno chiesto selfie con la carta în mano.. Ho inviato tutto, ma ancora nulla.. Ma se io uso sia dati mobili che WiFi? Mica è vietato?
+
+				Anche a me ha chiesta la foto con in mano foglio e documento
+
+
+	
+
+
+
+
+
+#### 2025.03.29
+	T1
+			T2
+				T3
+
+
+	MOVIMENTI DELLE CANDELE BRUSCHI - PERDITE CERTE -
+
+		Marco P
+
+			12:57
+			Il grafico non ridà con altri a parte questo ma le maggior parti delle perdite con candele che ultimo secondo salgono a razzo o scendono a razzo e perdi per 1 punto bah, grafico in salita appena punti la candela scende e questo per le opzioni brevi non mi sembra regolare sta cosa
+
+
