@@ -1,5 +1,18 @@
 README.MD
 
+# REVOLUT
+	CONTO DEMO
+		 Non offre il conto demo
+
+
+# BINANCE
+		CONTO DEMO
+		 	OFFRE IL CONTO DEMO
+
+# NEXO
+		CONTO DEMO
+		 	OFFRE IL CONTO DEMO
+
 # DIFFERENZA TRA BINANCE E BINANCE PAY
 		BINANCE COIN E BINANCE PAY
 					La differenza tra Binance Coin (BNB BSC) e Binance Pay è sostanziale, in quanto riguardano due concetti diversi nel mondo delle criptovalute. Ecco un riepilogo delle differenze:
@@ -41,6 +54,80 @@ README.MD
 				Non è un'app separata: basta usare il tuo account Binance per accedere a Binance Pay.
 				Puoi inviare criptovalute a chiunque, fare acquisti online o in negozi fisici che supportano questo metodo di pagamento.
 
+			CONTO DEMO
+				Binance offre un conto demo di test accanto a quello reale
+
+# DIFFERENZA TRA NEXO E REVOLUT
+	
+			Nexo e Revolut sono due piattaforme finanziarie che offrono servizi legati alle criptovalute, ma presentano differenze significative nelle loro funzionalità e approcci.
+	NEXO
+		
+		SERVIZI
+
+			Nexo è una piattaforma specializzata in servizi legati alle criptovalute, offrendo:
+
+			Acquisto e Vendita di Criptovalute: Consente l'acquisto e la vendita di oltre 60 criptovalute, tra cui Bitcoin (BTC) ed Ethereum (ETH), con la possibilità di ottenere fino allo 0,5% di cashback sugli acquisti. 
+			neobanque.ch
+
+			Guadagno di Interessi: Permette di guadagnare interessi giornalieri sulle criptovalute depositate, con tassi competitivi e la scelta di ricevere gli interessi nella stessa criptovaluta o in token NEXO. 
+			neobanque.ch
+
+			Prestiti Garantiti da Criptovalute: Offre linee di credito istantanee utilizzando le criptovalute come garanzia, con tassi di interesse a partire dal 2,9% annuo. 
+			neobanque.ch
+
+			Carta Nexo: Una carta di pagamento collegata alle linee di credito, che consente di spendere utilizzando le criptovalute come garanzia e ottenere fino al 2% di cashback sugli acquisti. 
+
+		CONVERSIONE CRIPTO IN EURO
+			Sì, con Nexo è possibile convertire le criptovalute in euro. La piattaforma offre un servizio di scambio che consente di convertire criptovalute in valute fiat come l'euro. 
+
+			Una volta convertite le criptovalute in euro, puoi prelevare i fondi seguendo questi passaggi:
+
+			Accedi al tuo account Nexo.
+
+			Nella Dashboard, trova il pulsante "Transfer" accanto alla valuta fiat desiderata (ad esempio, EURx) e clicca su "Withdraw". 
+			Nexo Support Center
+
+			Questo ti permetterà di trasferire gli euro convertiti dal tuo account Nexo al tuo conto bancario.
+
+
+
+
+
+
+
+	REVOLUT
+
+		Revolut, d'altra parte, è una piattaforma fintech che integra servizi bancari tradizionali con funzionalità legate alle criptovalute:
+
+		Trading di Criptovalute: Permette l'acquisto e la vendita di oltre 200 criptovalute direttamente dall'app, con strumenti analitici e notifiche per monitorare il mercato. 
+		Revolut
+
+		Invio e Ricezione di Criptovalute: Consente trasferimenti istantanei di criptovalute tra utenti Revolut senza commissioni aggiuntive. 
+		swissmoney homepage
+
+		Depositi e Prelievi da Wallet Esterni: Supporta il deposito e il prelievo di oltre 30 criptovalute da e verso wallet esterni. 
+		Revolut
+
+		Pagamenti con Criptovalute: Offre la possibilità di effettuare pagamenti con carta utilizzando il saldo in criptovalute, convertendo automaticamente in valuta fiat al momento della transazione. 
+		Revolut
+
+		Principali differenze:
+
+		Proprietà delle Criptovalute: Con Nexo, gli utenti possiedono direttamente le criptovalute e possono guadagnare interessi su di esse. Revolut, invece, funge da custode; gli utenti non detengono direttamente le chiavi private delle criptovalute acquistate. 
+
+		Servizi Finanziari Aggiuntivi: Nexo si concentra su servizi come il guadagno di interessi e prestiti garantiti da criptovalute. Revolut offre una gamma più ampia di servizi bancari tradizionali, oltre alle funzionalità legate alle criptovalute. 
+
+		Commissioni: Revolut applica commissioni variabili per le transazioni in criptovalute, che possono essere più elevate rispetto ad altre piattaforme. Nexo offre tassi competitivi per i suoi servizi, inclusi interessi sulle criptovalute depositate e prestiti. 
+		swissmoney homepage
+
+		In sintesi, Nexo è ideale per chi desidera guadagnare interessi sulle proprie criptovalute e accedere a prestiti garantiti da esse, mentre Revolut è più adatto a chi cerca un'integrazione tra servizi bancari tradizionali e funzionalità di trading di criptovalute.
+
+
+
+
+
+
+
 
 # REPOSITORY
 				
@@ -63,6 +150,55 @@ README.MD
 					git remote add origin https://github.com/icivixwalter/POCKET_OPTION.git
 					git branch -M calcolo
 					git push -u origin calcolo
+
+# APERTURA CONTO OPTION
+#### STEP 
+	VERIFICIA IL PROFILO 
+		@profilo
+
+		
+
+	VERIFICA CONTO VOLET, BINANCE O NEXO
+		VOLET
+			se apri il conto volet lo devi verificare e si trovera nella dashboard
+			ed il numero dell'accaunto del conto si trova in alto con la U
+			per depositare:
+			solo in crypto o portafogli elettronici (Volet ad esempio).
+
+		REVOLUT
+			Puoi solo depositare con @revolut pay attenzione MA PER PRELEVARE:
+			@depositato con @Revolut pay
+			@revolut dovresti andare nella sezione delle crypto dove ci sono i tuoi indirizzi per I depositi copiare quello Di btc in questo caso e incollarlo
+			in un messaggio Al supporto Di pocket option tramite questo link https://po.life/it/cabinet/support/create/?o=12,51,174
+
+			con revolut se la carta è virtuale per verificarla:
+
+				 @tua é @virtuale, puoi mandare una copia dell'estratto conto contenente il tuo nome completo, numero della carta e transazione di deposito effettuata a pocket option
+			VERIFICA LA CARTA VIRTUALE 
+				 
+				 ho depositato con una @revolut virtuale , nella verificazione della carta non me l'ha accettato la foto della carta virtuale...
+
+				 estratto conto
+
+		NEXO
+			Puoi usare per depositare...
+			quindi @nexo alla fine é un portafoglio di crypto perché almeno là sopra so come si fa la conversione o male che vada come trasferirli sulla carta che utilizzo io per pagare
+
+			puoi utilizzare nexo per depositare e prelevare
+			@Nexo per inviare e ricevere usdt.
+			chiaramente ho il @profilo verificato su Pocket......
+
+			... mi trovo benissimo con Nexo
+
+		DEPOSITARE
+			Se devi prelevare btc devi avere un Wallet
+
+		PRELEVARE
+			puoi utilizzare anche:
+				@crypto.com
+
+
+
 
 # CHAT
 #### 2025.01.30
@@ -141,7 +277,7 @@ README.MD
 				Amro I
 
 				30 Jan, 13:31
-				Ciao ragazzi io ho depositato con Revolut pay ho bisogno di una mano ho sentito dire da voi che l’unico modo di prelievo è quello del deposito ma nel prelievo non leggo Revolut pay ma solo tramite criptovalute io ho Binance e crypto.com ma cosa c’entra posso prelevare tramite loro o no?
+				Ciao ragazzi io ho @depositato con @Revolut pay ho bisogno di una mano ho sentito dire da voi che l’unico modo di prelievo è quello del deposito ma nel prelievo non leggo Revolut pay ma solo tramite criptovalute io ho Binance e @crypto.com ma cosa c’entra posso prelevare tramite loro o no?
 
 				dumitru h
 
@@ -434,7 +570,7 @@ README.MD
 						Michele N
 						ragazzi qualcuno conosce un buon wallet con carta per i pagamenti oltre coinbase
 
-						Io uso da anni Crypto.com
+						Io uso da anni @Crypto.com
 
 						Michele N
 
@@ -516,7 +652,7 @@ README.MD
 							Zyed S
 
 							Ieri, 23:36
-							hai detto che vuoi prelevare cash devi avere carta di crypto.com
+							hai detto che vuoi prelevare cash devi avere carta di @crypto.com
 
 							Mohamed jihad S
 
@@ -539,7 +675,7 @@ README.MD
 							Filippo D
 
 							00:38
-							Come si preleva con crypto.com?
+							Come si preleva con @crypto.com?
 
 							Marco C
 
@@ -547,7 +683,7 @@ README.MD
 							Filippo D
 							Come si preleva con crypto.com?
 
-							Selezione preleva in crypto e poi inserisci il tuo indirizzo del tuo wallet crypto.com
+							Selezione preleva in crypto e poi inserisci il tuo indirizzo del tuo wallet @crypto.com
 
 							Filippo D
 
@@ -607,7 +743,7 @@ README.MD
 							Alessio P
 
 							10:00
-							oppure posso usare semplicemente binance o nexo
+							oppure posso usare semplicemente @binance o @nexo
 
 							Andrea Z
 
@@ -659,16 +795,16 @@ README.MD
 
 						13:42
 						Alessio P
-						quindi nexo alla fine é un portafoglio di crypto, perché almeno là sopra so come si fa la conversione o male che vada come trasferirli sulla carta che utilizzo io per pagare
+						quindi @nexo alla fine é un portafoglio di crypto, perché almeno là sopra so come si fa la conversione o male che vada come trasferirli sulla carta che utilizzo io per pagare
 
 						Si si, puoi richiedere anche la loro carta (virtuale e/o fisica) e spendere le crypto che hai all'interno del tuo portafoglio.
 
-		REVOLUT PAY DEPOSITO NO PRELIEVO REVOLUT PAY
+		REVOLUT PAY DEPOSITO NO PRELIEVO @REVOLUT PAY
 
 				Fausto S
 				14:00
 				Amro I
-				Ciao ragazzi io ho depositato con Revolut pay ho bisogno di una mano ho sentito dire da voi che l’unico modo di prelievo è quello del deposito ma nel prelievo non leggo Revolut pay ma solo tramite criptovalute io ho Binance e crypto.com ma cosa c’entra posso prelevare tramite loro o no?
+				Ciao ragazzi io ho @depositato con @Revolut pay ho bisogno di una mano ho sentito dire da voi che l’unico modo di prelievo è quello del deposito ma nel prelievo non leggo Revolut pay ma solo tramite criptovalute io ho Binance e @crypto.com ma cosa c’entra posso prelevare tramite loro o no?
 
 		CARTE NON DISPONIBILI PER I RITIRI NELLA NOSTRA REGIONE - PRELEVARE CRIPTO O WALLET ELETTRONICI
 
@@ -699,14 +835,14 @@ README.MD
 			Filippo D
 			Io ho revolut bybit ma veramente non so come fare per favore aiutatemi 
 
-			Su revolut dovresti andare nella sezione delle crypto dove ci sono i tuoi indirizzi per I depositi copiare quello Di btc in questo caso e incollarlo in un messaggio Al supporto Di pocket option tramite questo link https://po.life/it/cabinet/support/create/?o=12,51,174
+			Su @revolut dovresti andare nella sezione delle crypto dove ci sono i tuoi indirizzi per I depositi copiare quello Di btc in questo caso e incollarlo in un messaggio Al supporto Di pocket option tramite questo link https://po.life/it/cabinet/support/create/?o=12,51,174
 
 			Fausto S
 			14:08
 			Adrian B
 			ragazzi scusate, con la carta virtuale non riesco a verificare la carta?
 
-			In alternativa alla foto della carta visto Che la tua é virtuale, puoi mandare una copia dell'estratto conto contenente il tuo nome completo, numero della carta e transazione di deposito effettuata a pocket option
+			In alternativa alla foto della carta visto Che la tua é @virtuale, puoi mandare una copia dell'estratto conto contenente il tuo nome completo, numero della carta e transazione di deposito effettuata a pocket option
 
 			Fausto S
 			14:09
@@ -723,7 +859,7 @@ README.MD
 
 					18:30
 					Fausto S
-					In alternativa alla foto della carta visto Che la tua é virtuale, puoi mandare una copia dell'estratto conto contenente il tuo nome completo, numero della carta e transazione di deposito effettuata a pocket option
+					In alternativa alla foto della carta visto Che la tua é @virtuale, puoi mandare una copia dell'estratto conto contenente il tuo nome completo, numero della carta e transazione di deposito effettuata a pocket option
 
 					sì sì ha funzionato, ti ringrazio
 
@@ -749,7 +885,7 @@ README.MD
 				Happy Lunar New Year 2025!
 				Possa quest'anno portarti prosperità, buona fortuna e successo senza fine!
 				Per iniziare l'anno con una nota alta, abbiamo preparato uno speciale bonus di Capodanno lunare:
-				Richiedi un bonus del 90% con il codice promozionale Lunar2025!
+				Richiedi un @bonus del 90% con il codice promozionale Lunar2025!
 				Deposito minimo: $ 99 (o equivalente nella valuta del tuo conto)
 				Limite di bonus massimo: $ 999 (o equivalente nella valuta del tuo account)
 				Offerta disponibile fino al 5 febbraio 2025.
@@ -787,7 +923,7 @@ README.MD
 
 				Oooolgaaaa
 
-		NO_POASTAPEY
+		NO_POSTAPEY
 				Fausto S
 				06 Feb, 10:10
 				Alessio D
@@ -949,7 +1085,7 @@ README.MD
 
 		VERIFICA_EMAIL
 				Yesterday, 11:32
-				Buongiorno, non riesco fare la verifica dell'email. Come email ho virgilio.it Ho controllato anche nelle spam e nei messaggi promozionali : NIENTE
+				Buongiorno, non riesco fare la verifica dell'email. Come @email ho virgilio.it Ho controllato anche nelle spam e nei messaggi promozionali : NIENTE
 
 				Francesco M
 
@@ -994,7 +1130,7 @@ README.MD
 
 				crypto.com
 
-					Ce ne sono tante una vale l’altra,io uso crypto.com perchè ce l’avevo da anni ma le altre sono più o meno uguali
+					Ce ne sono tante una vale l’altra,io uso @crypto.com perchè ce l’avevo da anni ma le altre sono più o meno uguali
 
 				Anna chiara S
 
@@ -1016,7 +1152,7 @@ README.MD
 				Stefania L
 
 				Yesterday, 14:20
-				ottimo crypto.com la consiglio anche io!
+				ottimo @crypto.com la consiglio anche io!
 
 				Stefania L
 
@@ -1628,7 +1764,7 @@ README.MD
 			Fausto S
 			Ieri, 20:18
 			Amin J
-			salve qualcuno mi potrebbe aiutare ho depositato con una revolut virtuale , nella verificazione della carta non me l'ha accettato la foto della carta virtuale
+			salve qualcuno mi potrebbe aiutare ho depositato con una @revolut virtuale , nella verificazione della carta non me l'ha accettato la foto della carta virtuale
 
 			in alternativa puoi inviare un estratto conto contenente il tuo nome completo, numero della carta e transazione di deposito effettuata a pocket option
 		
@@ -1641,7 +1777,7 @@ README.MD
 			Ilario V
 			Quando prelevata in cripto, dove ve le fate accreditare? Quanto pagate in % per l'operazione? A me bitget ha fatto pagare il 2%, è possibile? Voi avete qualche soluzione più economica?
 
-			Ciao, personalmente mi trovo benissimo con Nexo.
+			Ciao, personalmente mi trovo benissimo con @Nexo.
 
 
 			Ieri, 20:28
@@ -2282,7 +2418,7 @@ README.MD
 
 				Ieri, 14:32
 				Francesco S
-				Io ho prelevato in LTC su crypto.com, tutto ok
+				Io ho prelevato in LTC su @crypto.com, tutto ok
 
 				Per fare con crypto.com come dovresti fare?
 
@@ -2351,9 +2487,9 @@ README.MD
 				Ma riuscite a prelevare??
 
 				certo che si!
-				uso Nexo per inviare e ricevere usdt.
+				uso @Nexo per inviare e ricevere usdt.
 				mai avuto problemi!
-				chiaramente ho il profilo verificato su Pocket......
+				chiaramente ho il @profilo verificato su Pocket......
 
 
 		REVOLUT_NO_PRELIEVO_DIRETTO
@@ -2727,7 +2863,7 @@ README.MD
 					Gabriele C
 					io ho lo stesso problema, dovrei inserire un'altra carta per il prelievo ma non riesco, qualcuno potrebbe aiutarmi?
 
-					Ciao Gabriele, prima Devi verificare il tuo profilo con i tuoi documenti d'identitá, poi per inserire un altra carta puoi farlo tramite la pagina stessa o tramite mail a support@pocketoption.com
+					Ciao Gabriele, prima Devi verificare il tuo @profilo con i tuoi documenti d'identitá, poi per inserire un altra carta puoi farlo tramite la pagina stessa o tramite mail a support@pocketoption.com
 
 #### 2025.02.25
 
@@ -3653,9 +3789,6 @@ README.MD
 		13 Mar, 20:46
 		Non riesco ad effettuare la verifica della carta di credito per effettuare i prelievi, come devo fare?
 
-
-		
-
 #### 2025.03.13
 		
 		BONUS 20 GIORNI PER RECUPERARLO
@@ -3760,7 +3893,6 @@ README.MD
 
 Open Default Shell in Panel
 
-
 #### 2025.03.18
 		T1
 			T2
@@ -3842,7 +3974,6 @@ Open Default Shell in Panel
 							17:22
 							Sicuramente anzi quando abbiamo parlato mi sei sembrata una persona Smart ma in ogni caso speculare su persone che magari non ci capiscono molto dandogli qualche info non è per me . Nel senso che alcune persone qui sono proprio neofite ed il 80/90% usa time frame a 1 minuti 30 e 15 secondi anche 5 . Aprire un trade come tu mi hai scritto a 5 min per me è gambling . Io pure lo faccio attenzione no dico che è sbagliato ognuno fa quello che vuole ma parlare di stategie bande di booinger ed rsi su time frame così bassi e praticamente gambling può funzionare a volte con liquidità ma lo slippage sui 2 minuti ti si magna
 
-
 #### 2025.03.20
 		T1
 			T2
@@ -3900,9 +4031,6 @@ Open Default Shell in Panel
 					Ciao ragazzi io devo verificare la carta ma ho revolut e non la ho fisica come posso fare?
 
 					gli mandi la virtuale
-					
-
-
 
 #### 2025.03.25
 
@@ -4191,7 +4319,7 @@ Open Default Shell in Panel
 
 					Ieri, 20:36
 					Zakaria A
-					su volet dove si trova il numero dell’account
+					su @volet dove si trova il numero dell’account
 
 					E` quello che inizia con la U
 
@@ -4203,7 +4331,7 @@ Open Default Shell in Panel
 						Zakaria A
 						dove si trova pero
 
-						hai creato e verificato il tuo conto di volet? se lo hai fatto lo trovi nella dashboard
+						hai creato e verificato il tuo conto di @volet? se lo hai fatto lo trovi nella dashboard
 
 
 	UTILIZZO SEMPRE BINANCE
@@ -4216,7 +4344,6 @@ Open Default Shell in Panel
 				A me mi hanno consigliato binance ma non l'ho ancora provato, non sono riuscita ancora a prelevare
 
 				Ho fatto sempre con binace
-
 
 #### 2025.03.28
 	OPZIONI BINARIE SEMPLICI DA CAPIRE DIFFICILE DA EFFETTUARE
