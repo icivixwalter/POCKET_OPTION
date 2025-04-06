@@ -1,5 +1,260 @@
 README.MD
 
+# CHAPT GBT CONSIGLIA TRA BINANCE E NEXO
+
+		Perfetto, tu cerchi una piattaforma tuttofare:
+		👉 fare trading,
+		👉 guadagnare interessi,
+		👉 convertire in euro,
+		👉 inviare soldi in banca,
+		👉 depositare su un broker esterno come Pocket Option.
+
+		Vediamo quale piattaforma è più adatta a ciascuna esigenza e poi ti dico il combo ideale 👇
+
+		✅ 1. Trading
+			Vincitore: Binance
+
+			Ha spot, futures, margin, copy trading via partner.
+
+			Più liquidità e strumenti.
+
+			Possibilità di settare ordini avanzati.
+
+			Nexo ha un exchange base, ok per scambi semplici (tipo swap), ma non è il massimo per trading attivo.
+
+		✅ 2. Guadagnare interessi
+			Vincitore: Nexo
+
+			Interessi giornalieri su crypto e stablecoin.
+
+			Tassi più alti di Binance Earn.
+
+			Flessibile: puoi prelevare in ogni momento.
+
+			Binance Earn è valido, ma spesso vincola i fondi (locked staking o saving flessibile con rendimenti più bassi).
+
+
+		✅ 3. Convertire in euro & inviare su conto bancario
+			Pareggio, con vantaggio a Binance per rapidità
+
+			Binance: conversione in EUR via "Convert", poi bonifico SEPA (gratuito fino a certe soglie).
+
+			Nexo: supporta bonifici SEPA in uscita, ma può richiedere verifica extra.
+
+			💡 Entrambe ti permettono di ricevere EUR sul tuo IBAN, ma Binance è leggermente più veloce e stabile nei trasferimenti.
+
+		✅ 4. Versare cripto su Pocket Option
+				Entrambe vanno bene
+
+				Pocket Option accetta depositi in USDT (TRC20/ERC20), BTC, ETH, ecc.
+
+				Sia Nexo che Binance permettono invii a wallet esterni.
+
+				Binance è più versatile in termini di reti blockchain supportate (ERC20, TRC20, BEP20...).
+
+		🔥 Conclusione – Strategia Consigliata		Ti consiglio un setup combinato:
+
+				🔸 Usa Binance come base principale
+
+				Trading avanzato
+
+				Bonifici in EUR
+
+				Versamenti verso Pocket Option
+
+				Buon livello di sicurezza
+
+				🔸 Usa Nexo per mettere a rendita i fondi
+
+				Deposita stablecoin (es. USDT, USDC) per interessi passivi
+
+				Usa Nexo Card se vuoi anche cashback cripto
+
+				Sposta fondi su Binance quando vuoi liquidare
+
+		👇 Step pratici per iniziare
+				Apri entrambi gli account (se non li hai già)
+
+				Fai KYC (verifica identità)
+
+				Inizia con un piccolo test:
+
+				Acquista USDT su Binance
+
+				Mandane un po’ su Nexo per interessi
+
+				Mandane un po’ su Pocket Option per provare i depositi
+
+				Prova il bonifico SEPA da Binance al tuo conto bancario
+
+				Se vuoi, posso anche aiutarti con:
+
+				Una guida passo-passo per fare tutto questo
+
+				Un confronto dei tassi attuali tra Nexo e Binance Earn
+
+				Come minimizzare le commissioni di rete nei trasferimenti
+
+				Ti interessa uno di questi approfondimenti?
+
+
+
+		DEPOSITO E PRELIEVO SU POCKET OPTION:
+
+		💸 1. Come DEPOSITARE Cripto su Pocket Option da Binance
+					🎯 Obiettivo:
+					Inviare USDT (o altra cripto) da Binance al tuo wallet su Pocket Option.
+
+					✅ Step-by-step:
+					Vai su Pocket Option > Sezione Deposito
+
+					Scegli USDT (consigliato) come criptovaluta
+
+					Scegli la rete giusta (di solito TRC20 – la più economica)
+
+					Copia l’indirizzo del wallet mostrato (es: T9.....xxxx)
+					⚠️ È essenziale che l'indirizzo e la rete coincidano su Binance!
+
+					Vai su Binance > Wallet > Fiat e Spot
+
+					Clicca su Preleva > Cripto
+
+					Scegli la stessa cripto (es. USDT)
+
+					Incolla l’indirizzo di Pocket Option
+
+					Scegli la rete corretta (TRC20 per USDT → costo fisso 1 USDT)
+
+					Inserisci importo (es: 20 USDT)
+
+					Conferma e invia
+
+					📦 Tempo: pochi minuti
+					💸 Costo: 1 USDT fisso se usi rete TRC20 (la più economica)
+
+
+		📌 Rete consigliata per ciascuna cripto:
+				Criptovaluta	Rete consigliata	Costo su Binance
+				USDT	TRC20	1 USDT
+				BTC	Native BTC	~5-10$
+				ETH	BEP20 (se supportata) o ERC20	3-10$
+				LTC	Litecoin	~0.001 LTC
+
+
+	🏦 2. Come PRELEVARE Cripto da Pocket Option in Binance con basse fee
+
+
+			🎯 Obiettivo:
+			Spostare fondi da Pocket Option verso Binance per riconvertirli in euro, fare staking, ecc.
+
+
+			✅ Step-by-step:
+					Vai su Pocket Option > Sezione Prelievo
+
+					Scegli USDT TRC20 (se disponibile)
+
+					Inserisci:
+
+					L'indirizzo del tuo wallet Binance USDT-TRC20
+
+					L’importo da prelevare
+
+					Vai su Binance > Wallet > Fiat e Spot > Deposita
+
+					Scegli Cripto > USDT
+
+					Seleziona Rete TRC20
+
+					Copia l’indirizzo
+
+					Inseriscilo su Pocket Option e conferma il prelievo
+
+					📦 Tempo: 5-15 minuti
+					💸 Costo: dipende da Pocket Option (spesso 1-2 USDT o più)
+					⚠️ Controlla se Pocket Option ha un minimo di prelievo (es. 10-50 USDT)
+
+			🛡️ Consigli per Sicurezza & Commissioni Basse
+			🔐 Sicurezza:
+					Controlla sempre la rete e l’indirizzo: errore = fondi persi per sempre
+
+					Usa 2FA attivo su Binance e Pocket Option
+
+					Verifica l’identità su entrambe le piattaforme per alzare limiti
+
+					💸 Risparmio commissioni:
+					Usa sempre TRC20 per USDT → costa meno di tutte
+
+					Evita reti ERC20 a meno che non sia l’unica opzione (molto care)
+
+					Se Pocket Option supporta LTC o TRX, sono alternative economiche (ma meno standard)
+
+
+		🛠️ Esempio pratico: Depositare 50 USDT da Binance a Pocket Option
+				🧳 1. Depositare 50 USDT su Pocket Option da Binance
+				Partiamo dal deposito di 50 USDT da Binance su Pocket Option.
+
+				Step 1: Su Pocket Option
+				Vai su Deposito e seleziona USDT (seleziona la rete TRC20 per bassi costi).
+
+				Copia l’indirizzo del wallet USDT (TRC20) di Pocket Option.
+
+
+				Step 2: Su Binance
+				Vai su Wallet > Fiat e Spot e seleziona Preleva.
+
+				Scegli USDT come cripto da prelevare.
+
+				Incolla l’indirizzo wallet USDT di Pocket Option copiato nel passaggio precedente.
+
+				Seleziona la rete TRC20 (questa rete ha commissioni basse).
+
+				Inserisci 50 USDT e conferma.
+
+			Step 3: Commissione e Tempi
+				Commissione per prelievo su Binance (TRC20): 1 USDT.
+
+				Tempo di trasferimento: 5–10 minuti.
+
+				Totale che arriverà su Pocket Option = 49 USDT (dopo la commissione di 1 USDT).
+
+		🧳 1. Depositare 50 USDT su Pocket Option da Binance
+		Partiamo dal deposito di 50 USDT da Binance su Pocket Option.
+
+
+				Step 1: Su Pocket Option
+				Vai su Deposito e seleziona USDT (seleziona la rete TRC20 per bassi costi).
+
+				Copia l’indirizzo del wallet USDT (TRC20) di Pocket Option.
+
+
+			Step 2: Su Binance
+				Vai su Wallet > Fiat e Spot e seleziona Preleva.
+
+				Scegli USDT come cripto da prelevare.
+
+				Incolla l’indirizzo wallet USDT di Pocket Option copiato nel passaggio precedente.
+
+				Seleziona la rete TRC20 (questa rete ha commissioni basse).
+
+				Inserisci 50 USDT e conferma.
+
+
+			Step 3: Commissione e Tempi
+				Commissione per prelievo su Binance (TRC20): 1 USDT.
+
+				Tempo di trasferimento: 5–10 minuti.
+
+
+			Totale che arriverà su Pocket Option = 49 USDT (dopo la commissione di 1 USDT).
+
+			Attualmente, 1 USDT (Tether) corrisponde a circa €0,91. Pertanto, 50 USDT equivalgono approssimativamente a €45,50. Revolut +5 Coinbase +5 3Commas +5
+
+			Tieni presente che il valore di USDT è progettato per rimanere stabile, essendo ancorato al dollaro USA. Tuttavia, le piattaforme possono applicare tassi di cambio leggermente diversi e potrebbero esserci commissioni aggiuntive per le transazioni. È sempre consigliabile verificare il tasso di cambio e le eventuali commissioni applicate dalla piattaforma che intendi utilizzare.
+
+			attenzione:
+			 BINANCE DA MARZO 2025 SOLO USDC NO USDT
+			 		da marzo su binance non c'è usdt ma solo USDC per l'italia
+
 # REVOLUT
 	CONTO DEMO
 		 Non offre il conto demo
