@@ -11,7 +11,7 @@ README.MD
 
 		Vediamo quale piattaforma è più adatta a ciascuna esigenza e poi ti dico il combo ideale 👇
 
-		✅ 1. Trading
+		✅ 1. Trading      @ESEMPI@ESEMPIO
 			Vincitore: Binance
 
 			Ha spot, futures, margin, copy trading via partner.
@@ -22,7 +22,7 @@ README.MD
 
 			Nexo ha un exchange base, ok per scambi semplici (tipo swap), ma non è il massimo per trading attivo.
 
-		✅ 2. Guadagnare interessi
+		✅ 2. Guadagnare interessi    @ESEMPI@ESEMPIO
 			Vincitore: Nexo
 
 			Interessi giornalieri su crypto e stablecoin.
@@ -34,7 +34,7 @@ README.MD
 			Binance Earn è valido, ma spesso vincola i fondi (locked staking o saving flessibile con rendimenti più bassi).
 
 
-		✅ 3. Convertire in euro & inviare su conto bancario
+		✅ 3. Convertire in euro & inviare su conto bancario    @ESEMPI@ESEMPIO
 			Pareggio, con vantaggio a Binance per rapidità
 
 			Binance: conversione in EUR via "Convert", poi bonifico SEPA (gratuito fino a certe soglie).
@@ -43,7 +43,7 @@ README.MD
 
 			💡 Entrambe ti permettono di ricevere EUR sul tuo IBAN, ma Binance è leggermente più veloce e stabile nei trasferimenti.
 
-		✅ 4. Versare cripto su Pocket Option
+		✅ 4. Versare cripto su Pocket Option     @ESEMPI@ESEMPIO
 				Entrambe vanno bene
 
 				Pocket Option accetta depositi in USDT (TRC20/ERC20), BTC, ETH, ecc.
@@ -72,7 +72,7 @@ README.MD
 
 				Sposta fondi su Binance quando vuoi liquidare
 
-		👇 Step pratici per iniziare
+		👇 Step pratici per iniziare    @ESEMPI@ESEMPIO
 				Apri entrambi gli account (se non li hai già)
 
 				Fai KYC (verifica identità)
@@ -99,7 +99,7 @@ README.MD
 
 
 
-		DEPOSITO E PRELIEVO SU POCKET OPTION:
+		DEPOSITO E PRELIEVO SU POCKET OPTION: @ESEMPI@ESEMPIO
 
 		💸 1. Come DEPOSITARE Cripto su Pocket Option da Binance
 					🎯 Obiettivo:
@@ -130,7 +130,14 @@ README.MD
 					Conferma e invia
 
 					📦 Tempo: pochi minuti
-					💸 Costo: 1 USDT fisso se usi rete TRC20 (la più economica)
+					💸 Costo: 1 USDT fisso se usi rete TRC20 (la più economica) 
+								*** da mese di aprile 2025 non si puo piu prelevaer con Usdt ***
+								*** ma solo USDC ****
+									vedi @NO@USDT
+
+						@ATTENZIONE DA MARZO SU BINANCE NON PUOI UTILIZZARE USDT TRC-20 
+						@ma@solo USDC
+							vedi @NO@USDT
 
 
 		📌 Rete consigliata per ciascuna cripto:
@@ -141,7 +148,7 @@ README.MD
 				LTC	Litecoin	~0.001 LTC
 
 
-	🏦 2. Come PRELEVARE Cripto da Pocket Option in Binance con basse fee
+	🏦 2. Come PRELEVARE Cripto da Pocket Option in Binance con basse fee   @ESEMPI@ESEMPIO
 
 
 			🎯 Obiettivo:
@@ -151,11 +158,13 @@ README.MD
 			✅ Step-by-step:
 					Vai su Pocket Option > Sezione Prelievo
 
-					Scegli USDT TRC20 (se disponibile)
+					Scegli USDT TRC20 (se disponibile)  *** DA APRIRE NON DISPONIBILE ***
 
 					Inserisci:
 
-					L'indirizzo del tuo wallet Binance USDT-TRC20
+					L'indirizzo del tuo wallet Binance USDT-TRC20 
+						*** su pocket option = (Tether (USDT) TRC-20) ****
+						*** ma su binance ??? non USDT ma solo USDC   ****
 
 					L’importo da prelevare
 
@@ -173,6 +182,12 @@ README.MD
 					💸 Costo: dipende da Pocket Option (spesso 1-2 USDT o più)
 					⚠️ Controlla se Pocket Option ha un minimo di prelievo (es. 10-50 USDT)
 
+								*** da mese di aprile 2025 non si puo piu prelevaer con Usdt ***
+								*** ma solo USDC ****
+								@Evita reti ERC20
+									vedi @NO@USDT
+
+
 			🛡️ Consigli per Sicurezza & Commissioni Basse
 			🔐 Sicurezza:
 					Controlla sempre la rete e l’indirizzo: errore = fondi persi per sempre
@@ -181,10 +196,10 @@ README.MD
 
 					Verifica l’identità su entrambe le piattaforme per alzare limiti
 
-					💸 Risparmio commissioni:
-					Usa sempre TRC20 per USDT → costa meno di tutte
+					💸 @Risparmio commissioni:   
+					@Usa sempre TRC20 per USDT → costa meno di tutte
 
-					Evita reti ERC20 a meno che non sia l’unica opzione (molto care)
+					@Evita reti ERC20 a meno che non sia l’unica opzione (molto care)
 
 					Se Pocket Option supporta LTC o TRX, sono alternative economiche (ma meno standard)
 
@@ -2728,7 +2743,7 @@ README.MD
 				Se è nuovo il conto su Binance bisogna fare ulteriori verifiche della persona che ha aperto il conto ( le famose verifiche selfie 🤳 credo ) se non sbaglio
 
 				Daniele C
-
+					@NO@CAMBIO@EURO@USDT
 					00:10
 					prelevate in crypto per favore cosi non avete problemi, la maggior parte degli utenti binance sono bannati da usd-t e non si puo fare il cambio euro-usd-t, per lo piu il prelievo dal sito con carta italiana non va
 
@@ -2922,7 +2937,7 @@ README.MD
 					18:34
 					Nusrat K
 					Perché posso prelevare solo MIN 100 e ho solo un'opzione Bitcoin
-
+							@PRELIEVO@MINIMO
 					I metodi di prelievo sono gli stessi del metodo di deposito e il minimo dei prelievi per Bitcoin è di $ 100
 
 					I metodi di prelievo sono gli stessi del metodo di deposito e il minimo dei prelievi per Bitcoin è di $ 100
@@ -3807,7 +3822,7 @@ README.MD
 
 
 						Domenico pio V
-
+									@PASSAGGI@REVOLUT
 									Ieri, 17:36
 									Allora quinid io adesso , 
 									01) carico esempio 100 euro su revulut, 
@@ -3983,9 +3998,9 @@ README.MD
 				12 Mar, 07:04
 				Info, per chi è nella ns regione e utilizza Binance, dopo il 31.03 non sarà più disponibile USDT, ma si può sempre prelevare o depositare con USDC. Solo info su normativa che entra in vigore per Binance dal 31.03.2025. Se avete USDT, convertite in USDC. Invece per la piattaforma Pocket, prima di fare il prelievo in USDC, fate prima un piccolo deposito, così non si incorre in errori. Saluti.
 
-		BINANCE DA MARZO 2025 SOLO USDC NO USDT
+		BINANCE DA MARZO 2025 SOLO USDC @NO@USDT     @DAL@MESE.DI@APRILE
 			Fabio E
-				12 Mar, 07:04
+				12 Mar, 07:04     @BINANCE@DA@MARZO@SOLO@USDC  @CONVERTITE@USDT.IN@USDC
 				Info, per chi è nella ns regione e utilizza Binance, dopo il 31.03 non sarà più disponibile USDT, ma si può sempre prelevare o depositare con USDC. Solo info su normativa che entra in vigore per Binance dal 31.03.2025. Se avete USDT, convertite in USDC. Invece per la piattaforma Pocket, prima di fare il prelievo in USDC, fate prima un piccolo deposito, così non si incorre in errori. Saluti.
 
 		REVOLUT PRELIEVO CRIPT 2 GG SU 100 EURO 6 DI SPESE = 94,00
@@ -4665,13 +4680,6 @@ Open Default Shell in Panel
 
 				Anche a me ha chiesta la foto con in mano foglio e documento
 
-
-	
-
-
-
-
-
 #### 2025.03.29
 	T1
 			T2
@@ -4685,4 +4693,44 @@ Open Default Shell in Panel
 			12:57
 			Il grafico non ridà con altri a parte questo ma le maggior parti delle perdite con candele che ultimo secondo salgono a razzo o scendono a razzo e perdi per 1 punto bah, grafico in salita appena punti la candela scende e questo per le opzioni brevi non mi sembra regolare sta cosa
 
+
+#### 2025.04.10
+	T1
+			T2
+				T3
+
+	COMMISIONI_PRELIEVO_BASSE=VOLET ALTE - BINANCE BASSE
+
+
+		Carlo A
+
+		Ieri, 11:46
+		ragazzi mi consigliate un metodo di prelievo che non prende commissioni? al momento utilizzo volet.com ma chiede troppe commissioni
+
+
+		Emiliano S
+
+			Ieri, 13:01
+			io uso binance con i binance coin, prendono solo 1 euro di commissione
+
+
+	NUOVO_LINK_POKET_OPTION= https://p.finance/it/cabinet/
+
+
+		Fausto S
+			Ieri, 14:00
+			Roberto N
+			Con questo indirizzo non vedo la casellina multicharts per avere più finestre. Voi le vedete? È l'unico Link che attualmente funziona.
+
+			rimuovi la m dal link m.p.finance https://p.finance/it/cabinet/
+
+
+
+		Barbara R
+
+			Ieri, 14:11
+			Fausto S
+			rimuovi la m dal link m.p.finance https://p.finance/it/cabinet/
+
+			a questo link è tutto ripristinato come prima
 
