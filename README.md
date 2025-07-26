@@ -1,5 +1,198 @@
 README.MD
 
+# APRO CONTO DEMO IN BINANCE (ANCHE DEMO O OCCORRONO I DOCUMENTI ** SOSPESA **)
+
+		🔥 Come fare trading simulato su Binance (Futures Testnet)
+		Se desideri praticare senza rischiare denaro reale, puoi usare la Binance Futures Testnet, che ti consente di fare trading con fondi virtuali. Tuttavia, questa funzionalità è specifica per il trading di futures (contratti derivati), e non per il trading spot (acquisto diretto di criptovalute).
+
+		Passaggi per utilizzare la Binance Futures Testnet:
+		Registrati sulla Binance Testnet:
+
+		Vai al sito della Binance Futures Testnet: Binance Testnet.
+
+		Crea un account separato da quello che utilizzi per Binance principale (ti servirà un altro indirizzo email).
+
+		Ricevi fondi virtuali:
+
+		Dopo aver completato la registrazione e il login, ti verranno assegnati dei fondi virtuali, con cui puoi fare trading simulato.
+
+		Comincia a fare trading:
+
+		Accedi alla piattaforma di trading futures, e inizia a fare operazioni utilizzando i fondi virtuali ricevuti. Potrai testare il trading con leva e fare operazioni su diverse criptovalute.
+
+		Esplora il sistema:
+
+		Puoi usare strumenti come ordini a mercato, ordini limite, ordini stop-loss, e vedere come funziona il trading con derivati senza rischiare soldi reali.
+		🚨 Limitazioni di Binance per il conto demo:
+
+			La Binance Testnet è solo per il trading di futures, quindi non puoi fare trading spot con fondi virtuali.
+
+			La testnet di Binance non riflette l'esperienza completa del trading su Binance (specialmente nel trading spot e con stablecoin), ma è comunque una buona modalità per imparare e testare il trading di derivati (futures).
+
+	💡 Opzioni alternative per fare trading con fondi virtuali su Binance (spot):
+			Anche se Binance non ha un vero e proprio conto demo per il trading spot, puoi utilizzare queste alternative:
+
+			Acquisto con piccole somme:
+
+			Puoi iniziare a fare trading spot con piccole somme (ad esempio 20 USD), usando il tuo saldo reale. In questo caso, non sarà un conto demo, ma un modo per fare pratica senza rischiare troppo.
+
+		su binance devi dare documenti. iscrizione sospesa.,,,
+
+# APRO CONTO DEMO IN BYBIT (NON OCCORRONO I DOCUMENTI icivix@tiscali)
+	
+	📝 Passaggi per iniziare con il conto demo su Bybit
+			1. Registrati su Bybit
+			Vai su www.bybit.com e clicca su “Registrati”.
+
+			Inserisci la tua email e crea una password sicura.
+
+			Non è necessario fornire documenti o effettuare un deposito iniziale.
+
+			2. Accedi al tuo account
+			Dopo la registrazione, accedi al tuo account Bybit.
+
+			3. Attiva il conto demo
+			Su desktop:
+
+			Dopo aver effettuato l’accesso, passa il cursore sull'icona del profilo in alto a destra e seleziona “Demo Trading”.
+
+			Su mobile:
+
+			Apri l'app Bybit, vai nelle Impostazioni del profilo e seleziona “Demo Trading”.
+			bybit.com
+
+			Una volta attivato, vedrai la dicitura “Demo Trading” nell’angolo in alto a sinistra, che indica che sei in modalità simulata.
+
+	💰 Cosa include il conto demo
+			Fondi virtuali iniziali: 50.000 USDT, 50.000 USDC, 1 BTC e 1 ETH.
+
+			Nessun requisito KYC: Puoi iniziare senza dover verificare la tua identità.
+
+			Accesso completo: Puoi fare trading sia su spot che su derivati.
+
+			Ricariche illimitate: Se il saldo scende sotto 10.000 USDT, puoi richiedere ulteriori fondi virtuali.
+
+		📌 Chiarimenti sui requisiti di deposito su Bybit:
+		Trading Spot:
+
+				Se desideri fare trading spot (compra/vendi criptovalute come BTC, ETH, ecc.), puoi iniziare con somme molto basse. Non esiste un deposito minimo specifico per il trading spot.
+
+				Puoi iniziare con un deposito di 100 EUR (o equivalente in criptovalute) e fare trading senza problemi.
+
+				Futures e Margin Trading:
+
+				Se desideri fare trading sui futures (contratti derivati) o utilizzare la leva nel margin trading, i requisiti possono variare.
+
+				Per il futures trading, il margine iniziale dipende dalla leva che scegli (puoi usare una leva fino a 100x, ma dovrai depositare un piccolo margine per aprire una posizione).
+
+				Il margine iniziale potrebbe essere inferiore a 10.000 USD per aprire una posizione, a meno che tu non stia cercando di fare trading con una grande leva e con grandi volumi di trading.
+
+				Requisiti minimi di deposito per il trading reale:
+
+				Non ci sono 10.000 USD come deposito minimo per iniziare a fare trading reale su Bybit. Se vuoi iniziare a fare trading spot, puoi tranquillamente depositare una cifra piccola, come 100 EUR o anche meno, e iniziare.
+
+				Tuttavia, quando si parla di trading con leva o futures, potrebbe essere necessario avere un saldo sufficiente a coprire il margine per aprire una posizione, ma questo non significa che devi avere 10.000 USD sul tuo account.
+
+				Tipi di deposito:
+
+				Puoi depositare cripto o fiat (se la tua nazione supporta depositi fiat).
+
+				Se depositi 100 EUR in cripto (ad esempio, Bitcoin o USDT), puoi iniziare a fare trading con quel saldo senza preoccuparti di un deposito minimo molto alto.
+
+				💡 Esempio pratico:
+				Se depositi 100 EUR in USDT, puoi acquistare criptovalute con l'ammontare che hai depositato, senza limiti minimi.
+
+				Se invece scegli di fare futures trading o utilizzare la leva, potresti aver bisogno di un margine che potrebbe essere pari ad una frazione della tua posizione totale. Ad esempio, con leva 10x, puoi aprire una posizione che vale fino a 1.000 USD con un margine di 100 USD, ma il margine richiesto non è mai di 10.000 USD.
+
+				🛑 Cosa fare se sei preoccupato:
+				Se non vuoi rischiare più di quanto puoi permetterti, inizia con il trading spot, che non richiede l'uso della leva. Inoltre, puoi fare trading demo o praticare su una piccola somma per capire come funziona la piattaforma.
+
+				Se hai ancora dei dubbi su come iniziare, fammi sapere!
+
+
+				✅ 1. Vai sul sito ufficiale
+				Apri il browser e vai su: https://www.bybit.com
+
+				✅ 2. Clicca su “Iscriviti” o “Registrati”
+				Troverai il pulsante in alto a destra nella homepage.
+
+				✅ 3. Scegli il metodo di registrazione
+				Puoi registrarti in due modi:
+
+				Con email: inserisci una email valida e crea una password sicura.
+
+				Con numero di telefono: se preferisci ricevere codici via SMS.
+
+				💡 Puoi inserire anche un codice di riferimento se ne hai uno (opzionale).
+
+				✅ 4. Verifica il tuo account
+				Dopo aver cliccato su "Registrati", Bybit ti invierà un codice di verifica via email o SMS.
+
+				Inserisci il codice per confermare.
+
+				✅ 5. Accedi al tuo account
+				Una volta confermata la registrazione, potrai accedere a tutte le funzionalità base.
+
+				✅ 6. (Facoltativo) Completa il KYC (verifica identità)
+				Non è obbligatorio per usare l'account demo o fare piccoli depositi.
+
+				È necessario solo per prelievi più grandi, sicurezza avanzata o servizi come la carta Bybit.
+
+
+				✅ 7. Attiva il conto DEMO
+				Dopo l’iscrizione, vai su:
+
+				Profilo > Demo Trading
+
+				Oppure cerca l’opzione “Passa al conto demo”
+
+				Ti verranno assegnati fondi virtuali (es. 50.000 USDT demo).
+
+				✅ Conto Demo su Bybit: Nessun Documento Richiesto
+				Il conto demo di Bybit è progettato per consentirti di praticare il trading in un ambiente simulato che replica le condizioni di mercato reali, senza rischiare denaro vero. Per accedere al conto demo, è sufficiente registrarsi con una email valida; non è richiesto l'invio di documenti o la verifica dell'identità.
+
+				🧾 Quando è Richiesto il KYC su Bybit?
+				La verifica dell'identità (KYC) è necessaria solo quando desideri:
+
+				Effettuare prelievi oltre determinati limiti.
+
+				Partecipare a prodotti finanziari come Bybit Earn, Launchpad o Launchpool.
+
+				Utilizzare la piattaforma MT5 per il trading avanzato.
+
+				📌 In Sintesi
+				Conto Demo: Nessun documento richiesto; puoi iniziare a fare pratica immediatamente.
+
+				Conto Reale: La verifica dell'identità è necessaria solo per sbloccare determinate funzionalità avanzate.
+
+		email
+				icivix@libero.it
+
+		password
+				Rautigno44.!
+
+				859076
+				679789
+
+				Account Info
+				11
+				ici***@****
+				Join an Affiliate's Community
+				UID
+				462302911
+				Last login time：
+				PC
+				2025-05-04 18:09
+
+				Security Level： key: 5TZQD63IGGTJJGCG
+
+# APRO SU NAGA
+	3192498
+
+	email: icivix@tiscali.it
+	password: 4sQ.QpA72Lt84ZE
+
+
 # CHAPT GBT CONSIGLIA TRA BINANCE E NEXO
 
 		Perfetto, tu cerchi una piattaforma tuttofare:
@@ -393,10 +586,245 @@ README.MD
 		In sintesi, Nexo è ideale per chi desidera guadagnare interessi sulle proprie criptovalute e accedere a prestiti garantiti da esse, mentre Revolut è più adatto a chi cerca un'integrazione tra servizi bancari tradizionali e funzionalità di trading di criptovalute.
 
 
+# DIFFERENZA TRA BINANCE E BIBYT
+	Note
+		🔹 1. Tipo di piattaforma
+			Binance: È uno degli exchange più grandi e completi al mondo. Offre spot trading, futures, staking, lending, NFT, Launchpad, e altro.
+
+			Bybit: Inizialmente nato come piattaforma specializzata in derivati crypto (futures, perpetual), ora offre anche spot trading, staking e altri servizi, ma è più focalizzato sul trading a leva.
+
+		🔹 2. Utenti target
+			Binance: Più orientata a utenti di tutti i livelli, dai principianti agli esperti.
+
+			Bybit: Target più avanzato, con focus su trader professionisti o esperti, soprattutto per il trading a margine/derivati.
+
+		🔹 3. Commissioni
+				Binance: Ha commissioni basse, spesso inferiori all’1%, con ulteriori sconti usando il token BNB.
+
+				Bybit: Commissioni competitive sui derivati, e anche sullo spot, ma generalmente leggermente più alte rispetto a Binance sul trading spot.
+
+
+		🔹 4. Sicurezza e regolamentazione
+				Binance: Ha avuto problemi regolatori in molti paesi (inclusa l’Italia), ma è comunque una delle piattaforme più sicure e affidabili in termini di fondi.
+
+				Bybit: Meno soggetta a controlli stringenti in certi paesi (per ora), ma anch’essa adotta buoni standard di sicurezza.
+
+		🔹 5. Offerta di prodotti
+
+					| Funzionalità     | Binance      	| Bybit       |
+					| ---------------- | ------------ 	| ----------  |
+					| Spot trading     | ✅            | ✅          |
+					| Futures/Derivati | ✅ (molti)    | ✅ (ottimi) |
+					| Copy trading     | ❌ (limitato) | ✅          |
+					| NFT Marketplace  | ✅            | ❌          |
+					| Staking & Earn   | ✅            | ✅          |
+					| Token Launchpad  | ✅            | ✅          |
+
+
+		🔹 6. Interfaccia e App
+			Binance: App e sito ricchi di funzionalità, ma a volte complessi per i nuovi utenti.
+
+			Bybit: Interfaccia più snella e veloce, molto apprezzata dai trader professionisti.
+
+
+		🔹 Conclusione
+			Scegli Binance se vuoi una piattaforma completa e versatile con tantissime funzioni.
+
+			Scegli Bybit se sei più interessato al trading di derivati, copy trading o vuoi un’interfaccia più snella.
 
 
 
+			✅ Ti consiglio: BINANCE
+				Perché:
+				Ha un'interfaccia semplificata per principianti, con una modalità "Lite" che puoi attivare da app.
 
+				Offre alta liquidità e volumi: fondamentale per chi fa day trading.
+
+				Tantissimi strumenti utili anche per chi inizia: grafici, segnali, ordini limit/market/stop, ecc.
+
+				Tutorial, accademia e supporto molto sviluppati (anche in italiano).
+
+				Possibilità di passare alla modalità "Pro" man mano che migliori.
+
+				Commissioni molto basse, soprattutto se usi BNB per pagarle.
+
+				📌 Quando scegliere Bybit invece:
+				Se in futuro vuoi usare leva più aggressivamente.
+
+				Se ti interessa il copy trading (seguire altri trader esperti).
+
+				Se ti trovi meglio con un’interfaccia più snella solo dedicata al trading.
+
+
+					✅ 1. Facilità d’uso (per inviare fondi a Pocket Option)
+					Fattore	Binance	Bybit
+					Selezione rete ampia	✅ (molto ampia)	✅ (buona ma meno)
+					Controlli extra	✅ (a volte più lunghi)	✅ (più snello)
+					Tempi di invio	⚡️ Rapido (1-3 min)	⚡️ Rapido (1-3 min)
+
+					🔹 Conclusione: Entrambi vanno bene, ma Bybit è leggermente più diretto per inviare fondi a piattaforme come Pocket Option, specie se usi USDT su rete TRC20 o BEP20.
+
+					💰 2. Costi di prelievo (withdrawal fees)
+					I costi dipendono molto dalla rete scelta. Ecco un confronto per la criptovaluta più usata: USDT.
+
+					Rete	Binance (fee)	Bybit (fee)
+					TRC20	~$1	~$0.25
+					BEP20	~$0.20	~$0.25
+					ERC20	~$10–15	~$10–15
+
+					🔹 Conclusione: Bybit ha commissioni di prelievo più basse su alcune reti (es. TRC20), ma Binance è più conveniente su BEP20. Evita sempre ERC20, troppo costosa per piccoli importi.
+
+					🔐 3. Altri aspetti da considerare
+					Binance a volte richiede verifica 2FA e controlli AML più severi, quindi può essere più “lento” se prelevi spesso.
+
+					Bybit è spesso più veloce e meno restrittivo nei prelievi, ideale per movimenti frequenti di fondi verso Pocket Option.
+
+					✅ Conclusione finale
+					Per depositare e prelevare cripto da Pocket Option, Bybit è leggermente più conveniente e veloce, soprattutto se usi USDT su TRC20 (rete più economica e accettata da Pocket Option).
+
+					✅ 1. Da Bybit a Binance (trasferimento crypto)
+					Su Bybit, vai su "Assets" > "Withdraw"
+
+					Scegli la criptovaluta (es. USDT)
+
+					Usa rete economica: TRC20 o BEP20
+
+					Inserisci l’indirizzo di deposito fornito da Binance (lo trovi in "Wallet > Deposit")
+
+					Conferma e attendi (di solito 1–5 minuti)
+
+					✅ 2. Su Binance: vendi crypto in euro
+					Una volta che USDT/BTC sono arrivati su Binance, vai su "Trade" > Convert o "Spot"
+
+					Converti USDT → EUR (Binance supporta il trading diretto USDT/EUR)
+
+					✅ 3. Preleva gli euro sul tuo conto bancario (bonifico SEPA)
+					Vai su "Wallet" > "Fiat & Spot" > Withdraw
+
+					Seleziona EUR
+
+					Inserisci il tuo IBAN e dati del conto
+
+					Usa metodo SEPA (commissione bassa o zero)
+
+					Attendi 1–2 giorni lavorativi
+
+					🔒 Sicurezza & Requisiti:
+					Binance richiede verifica dell’identità (KYC) per prelevare euro.
+
+					Il conto bancario deve essere intestato a te.
+
+					Alcune banche potrebbero chiedere informazioni sul trasferimento (tieni tutto tracciabile).
+
+					🟢 Vantaggi di questa via:
+					Costi molto bassi (reti economiche + SEPA)
+
+					Più sicura e stabile di Revolut per cifre medie o grandi
+
+					Puoi usare Binance anche per convertire altre crypto in EUR in modo semplice
+
+					✅ CONCLUSIONE:
+					Bybit → Binance → conto bancario in EUR via SEPA è un ottimo metodo: sicuro, economico e adatto anche a chi vuole fare cash out in modo regolare.
+
+					✅ Binance: Programmi di guadagno (Earn)
+							Binance ha una varietà di opzioni per guadagnare interessi sulle criptovalute che possiedi. Ecco alcune delle principali:
+
+							1. Binance Earn
+							Flexible Savings: Metti le tue crypto in un account di risparmio flessibile e guadagna interessi. Puoi ritirare le tue crypto in qualsiasi momento.
+
+							Locked Savings: Puoi bloccare le tue crypto per un certo periodo (7, 30, 60 giorni, ecc.) per ottenere tassi di interesse più alti.
+
+							Staking: Binance ti permette di fare staking di criptovalute come ETH, ADA, DOT, ecc., e guadagnare premi periodici. Gli importi bloccati nel staking generano interessi periodici.
+
+							2. Launchpool e Launchpad
+							Binance ha anche un programma chiamato Launchpool, dove puoi "staking" per ottenere nuovi token (spesso di progetti emergenti). Guadagni questi nuovi token come interesse.
+
+							3. Lending (Prestiti)
+							Binance ti permette di prestare le tue crypto ad altri utenti (perché Binance agisce da intermediario) e guadagnare interessi giornalieri.
+
+							Vantaggi: Ampia scelta di criptovalute per guadagnare interessi, flessibilità tra soluzioni di risparmio “flessibile” o “bloccato”.
+							Svantaggi: Gli interessi non sono sempre altissimi, e alcune criptovalute potrebbero avere tassi più bassi.
+
+
+
+					✅ Bybit: Programmi di guadagno (Earn)
+						Bybit, anche se più focalizzata sul trading, offre alcune opzioni per guadagnare interessi, ma non così varie come Binance.
+
+						1. Earn (Staking e Crypto Lending)
+						Bybit ha un programma chiamato "Bybit Earn", che offre diverse opzioni, tra cui:
+
+						Staking: Puoi mettere in staking alcune delle criptovalute supportate (come ETH 2.0, Solana (SOL), Polkadot (DOT), ecc.) per guadagnare premi in base alla durata dello staking.
+
+						Crypto Lending: Puoi prestare le tue criptovalute ad altri utenti tramite il programma di crypto lending, guadagnando interessi su base giornaliera.
+
+						2. Earn con USDT (Stablecoin)
+						Bybit permette di guadagnare interessi elevati su stablecoin come USDT attraverso il programma "Earn", che offre rendimenti interessanti per gli utenti che desiderano guadagnare su stablecoin.
+
+						Vantaggi: Buona scelta di criptovalute per guadagnare interessi, tassi competitivi su alcune stablecoin come USDT.
+						Svantaggi: Meno opzioni rispetto a Binance, e alcuni programmi potrebbero essere più complessi.
+
+						💰 Compara i tassi di interesse: Binance vs Bybit
+						Piattaforma	Tasso di interesse medio (per USDT)	Tipologia di prodotto
+						Binance	4-10% (Flexible Savings)	Risparmio flessibile, staking, lending
+						Bybit	5-8% (Stablecoin Lending)	Staking, crypto lending
+
+						I tassi di interesse variano nel tempo in base alle condizioni di mercato e alla disponibilità di fondi, quindi è sempre una buona idea monitorare le offerte e fare confronti.
+
+						🔚 Conclusione
+						Binance offre una gamma più ampia di opzioni di guadagno (risparmio, staking, lending, Launchpool) e tassi generalmente competitivi.
+
+						Bybit è più focalizzato sul trading attivo, ma ha opzioni di guadagno interessanti per chi usa stablecoin o vuole fare staking.
+
+						Se stai cercando di guadagnare interessi sulle tue criptovalute, Binance è probabilmente la scelta più completa e versatile. Se invece sei più focalizzato sul trading e vuoi guadagnare interessi in modo semplice e veloce, Bybit è una buona alternativa.
+
+						Hai un prodotto in particolare su cui vuoi più dettagli?
+
+
+
+# DIFFERENZA TRA XTB, ETORO, PLUS 500
+		
+	| **Caratteristica**            | **eToro**                                  | **XTB**                                                                  | **Plus500**                                      |
+	| ----------------------------- | ------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------ |
+	| **Commissioni su CFD Azioni** | 0,15% per lato (acquisto e vendita)        | 0,08% per lato (minimo 8 EUR/USD)                                        | Nessuna commissione; costi inclusi nello spread  |
+	| **Spread EUR/USD**            | Circa 1 pip                                | Da 0,9 pip (Conto Standard)                                              | Circa 1,2 pip                                    |
+	| **Spread S\&P 500**           | Variabile; non specificato                 | Da 0,5 pip (Conto Pro)                                                   | Circa 0,7 pip                                    |
+	| **Commissioni Overnight**     | Applicate su posizioni CFD a leva o short  | Applicate su posizioni overnight                                         | Applicate su posizioni overnight                 |
+	| **Commissione di Inattività** | 10 USD/mese dopo 12 mesi di inattività     | 10 EUR/mese dopo 12 mesi di inattività                                   | Nessuna commissione di inattività                |
+	| **Commissione di Prelievo**   | 5 USD (gratuito per conti in EUR/GBP)      | Gratuito per prelievi superiori a 100 EUR; 10 EUR per importi inferiori  | Gratuito                                         |
+	| **Leva Massima (Retail)**     | Fino a 1:30                                | Fino a 1:30                                                              | Fino a 1:30                                      |
+	| **Deposito Minimo**           | 50 USD                                     | Nessun deposito minimo                                                   | 100 USD                                          |
+
+🔍 Analisi Dettagliata
+
+	🟢 XTB
+		Pro: Commissioni basse su CFD azionari (0,08%), spread competitivi, nessun deposito minimo.
+
+		Contro: Commissione di inattività dopo 12 mesi senza attività.
+
+		Ideale per: Trader attivi che cercano costi contenuti e una piattaforma user-friendly.
+
+	🟡 eToro
+		Pro: Piattaforma di social trading, accesso a CopyTrader e Smart Portfolios.
+
+		Contro: Spread più ampi su alcune coppie di valute e CFD, commissioni su prelievi e inattività.
+
+		Ideale per: Trader interessati al copy trading e all'interazione con una community.
+		
+
+
+		🔴 Plus500
+			Pro: Nessuna commissione su CFD, spread bassi su indici principali, nessuna commissione di inattività.
+
+			Contro: Meno trasparenza su costi specifici, piattaforma più orientata al trading autonomo.
+
+			Ideale per: Trader esperti che preferiscono una piattaforma semplice e costi inclusi nello spread.
+
+		✅ Conclusione
+				Per costi bassi e trasparenza: XTB offre condizioni vantaggiose, soprattutto per chi opera frequentemente su CFD azionari e indici.
+
+				Per social trading e funzionalità avanzate: eToro è la scelta migliore, nonostante costi leggermente superiori.
+
+				Per semplicità e assenza di commissioni dirette: Plus500 è adatto a trader che preferiscono costi integrati nello spread e un'interfaccia intuitiva.
 
 
 # REPOSITORY
@@ -4734,3 +5162,91 @@ Open Default Shell in Panel
 
 			a questo link è tutto ripristinato come prima
 
+
+
+#### 2025.05.04
+
+
+	TASSAZIONE SE NON CONVERTI IN VALUTA FLAT NON HAI OBBLIGO
+
+
+			Giovanni M
+
+					28 Apr, 11:54
+					Paolo N
+					ho letto termini e condizioni e dalll'italia non si può operere. c'è qualche italiano che sa qualcosa?
+
+					In Italia in quanto stato dell'Unione Europea sono vietate dall'esma le opzioni binarie ma nessuno ti vieta di farlo in ogni caso. Per quanto riguarda la tassazione pocket option non comunica nulla all'agenzia delle entrate e quindi sta a te decidere se dichiarare i profitti, in ogni caso fino a che non li converti in valuta fiat non hai obbligo di tassazione
+
+	ATTIVARE IL CODICE PROMIZIONALE PRIMA DEL DEPOSITO
+
+
+		Angelo M
+
+			29 Apr, 23:18
+			Ho caricato 206 euro non so come si attiva il bonus? Per favore qualcuno mi aiuti avevo già caricato questo importo non vorrei perderlo
+
+		Allan S
+
+			30 Apr, 00:02
+			Dovevi attivarlo prima del deposito purtroppo
+
+	USARE BYBYT CHE ANCHE LA CARTA OPPURE CRIPTO.COM
+
+
+
+		Simone B
+
+				30 Apr, 22:04
+				prelievo effettuato 15 minuti fa e arrivato dopo 3 minuti.
+				a me sembra che siete ignoranti voi a non saper utilizzare questa piattaforma
+
+		Daniel A
+
+			30 Apr, 22:15
+			Adham K
+			Scarica Binance e prelieva i soldi su quel portafoglio poi trasferiscili sulla carta
+
+			Binance ce l'ho gia ma adesso mica devo depositare anche con binance per prelevarli poi con binance?
+
+
+			30 Apr, 22:18
+			MA USARE BIBYT NO??? CHE HA ANCHE LA SUA CARD
+
+
+		Marco C
+
+			30 Apr, 22:32
+			Simone B
+			MA USARE BIBYT NO??? CHE HA ANCHE LA SUA CARD
+
+			Esatto,o anche crypto.com che uso io con la card è comodissima 
+
+			Giovanni M
+
+				28 Apr, 14:17
+				Alessio M
+				Io volevo chiedere come prelevare su da pocket option su crypto.com
+
+				Richiedi un prelievo in usdt con trc-20 che è velocissimo
+
+	PRELIEVO CON REVOLUT FOTO + ESTRATTO CONTO
+		
+		Marco C
+
+		Ieri, 16:23
+		Carlo S
+		Io ho depositato con revolut, per prelevare mi chiede di mandare una foto fronte-retro della carta, ma io la ho solo virtuale, come posso fare?
+
+		Devi mandare l’estratto conto della carta dove si vede la voce del deposito e te la verificano
+
+#### 2025.05.11
+	CARTA BANCO POSTA
+
+			Stefania A
+
+				01:10
+				Gerson brendon G
+				Ragazzi ho una carta BancoPosta e per prelevare mi chiede la verifica, solo che non avendo il nome sulla carta non riesco a farla, qualcuno sa come fare? Grazie in anticipo
+
+				Ciao, occorre scaricare un pdf sul sito poste.it della movimentazione del deposito verso la piattaforma, invii un ticket specificando che la carta non prevede il nome. Facendo in questo modo dimostri di essere la stessa persona (titolare carta e dell'account) e anche prova di aver versato con quella carta. Conclusa la verifica del deposito ,puoi poi prelevare o in cripto o con wallet elettronico.
