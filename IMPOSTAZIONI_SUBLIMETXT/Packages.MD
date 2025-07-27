@@ -15,3 +15,6 @@ Attenzione le preferenze del singolo progetto si trovano in questo file
 
 
 POCKET_OPTION_Project.sublime-project           = le preferenze relative al SINGOLO PROGETTO.
+
+Inoltre ho inserito anche la cartella Package di Sublime text casa per avere gli aggiornamenti
+completi.
