@@ -1,0 +1,50 @@
+//[
+//    {
+//        "keys": ["ctrl+shift+t"],
+//        "command": "terminus_open",
+//        "args": {
+//            "cwd": "${file_path:${folder}}"
+//        }
+//    }
+//]
+
+//comando key binding
+[
+
+    // Aprire il terminale interno (Terminus) nel pannello inferiore
+    //--------------------------------------------------------------//
+    /* Cosa fa (Ctrl + Shift + T)?
+        Apre un nuovo terminale Terminus nel pannello inferiore.
+        Se il pannello Ã¨ giÃ  aperto, crea un nuovo terminale dentro di esso.
+    */
+            {
+                "keys": ["ctrl+shift+t"],
+                "command": "terminus_open",
+                "args": {
+                    "cwd": "${file_path:${folder}}", // Imposta la directory di lavoro alla cartella attiva
+                    "panel_name": "Terminus"        // Nome del pannello in Sublime Text
+                }
+            },
+
+    //--------------------------------------------------------------//
+
+    // CHIUDO IL TERMINALE TERMINUS ANCHE DA DOS
+    //--------------------------------------------------------------//
+        {
+            //Con T apri ma con Y chiudi
+
+                "keys": ["ctrl+shift+y"],
+                "command": "terminus_close"
+        },
+
+    // APRO IL TERMINA IN UN NUOVO TAB
+    //--------------------------------------------------------------//
+
+         {
+        "keys": ["ctrl+shift+r"],
+        "command": "terminus_open"
+            }
+
+    //--------------------------------------------------------------//
+
+]

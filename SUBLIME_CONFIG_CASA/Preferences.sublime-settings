@@ -1,0 +1,54 @@
+/* 
+			IMPOSTAZIONI GLOBALI CHE SOVRASCRIVONO QUELLE PERSONALI
+
+In sintesi, puoi tranquillamente usare i commenti multi-linea 
+ /(*).....(*)/'	nei file di configurazione di Sublime Text, ma ricorda che non sono validi 
+in JSON standard e potrebbero causare problemi se usati in altri contesti.
+
+file di base preference: Preferences.sublime-settings
+QUESTE SONO PREFERNCE PERSONALI valide per questo progetto.
+
+Cosa succede ora?
+- Solo per questo progetto, Sublime utilizzerÃ  "tab_size": 3 e non convertirÃ  i tab in spazi.
+- Le impostazioni globali restano in Preferences.sublime-settings, 
+	ma vengono sovrascritte da quelle del progetto.
+
+	
+ */
+
+
+//						IMPOSTAZIONI GLOBALI
+
+//attenzione se sbagli le preferenze base non viene visualizzato
+//il menu
+{
+    "font_size": 15, 											// Dimensione del carattere dell'editor
+    "tab_size": 3, 												// Numero di spazi equivalenti a un tab
+    "translate_tabs_to_spaces": true, 						// Converte i tab in spazi
+    "word_wrap": false, 										// Disabilita l'andare a capo automatico
+    "highlight_line": true, 									// Evidenzia la riga attiva
+    "line_numbers": true, 										// Mostra i numeri di riga
+    "gutter": true, 												// Mostra la colonna laterale (gutter)
+    "theme": "Default Dark.sublime-theme", 						// Tema dell'interfaccia utente
+    "color_scheme": "Monokai.sublime-color-scheme", 	// Colori della sintassi del codice
+    "ignored_packages": ["Vintage",
+    ], 						// Disattiva il pacchetto Vintage (modalità Vim)
+    "auto_complete": true, 									// Attiva il completamento automatico
+    "auto_save": true, 											// Salvataggio automatico dei file modificati
+    "trim_trailing_white_space_on_save": true, 			// Rimuove spazi finali sulle righe al salvataggio
+    "ensure_newline_at_eof_on_save": true, 				// Aggiunge una riga vuota finale se manca
+    "show_encoding": true, 									// Mostra la codifica del file (es. UTF-8)
+    "show_line_endings": true, 								// Mostra i caratteri di fine riga (LF/CRLF)
+    "index_files": true,
+    "draw_white_space": "all",                               //mostra gli spazi ed i tab
+
+        //escludo la visualizzazione nel progetto dei file tmp
+        "file_exclude_patterns":
+        [
+            "tmp*"
+    ],
+        "folder_exclude_patterns":
+        [
+            "tmp*"
+    ],
+}

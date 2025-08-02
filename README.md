@@ -467,7 +467,6 @@ README.MD
 	CONTO DEMO
 		 Non offre il conto demo
 
-
 # BINANCE
 		CONTO DEMO
 		 	OFFRE IL CONTO DEMO
@@ -475,6 +474,274 @@ README.MD
 # NEXO
 		CONTO DEMO
 		 	OFFRE IL CONTO DEMO
+
+# VOLET.COM
+			
+		✅ Procedura per aprire un conto su Volet.com
+		⚠️ Prima di tutto: verifica che il sito sia autentico e ufficiale. Se ti è stato segnalato da un terzo (es. un contatto su Telegram), presta molta attenzione alle truffe.
+
+			1. Registrazione su Volet
+					Vai su https://volet.com
+
+					Clicca su “Sign Up” o “Create Account”
+
+					Inserisci:
+
+					Nome e cognome
+
+					Indirizzo email valido
+
+					Numero di telefono (spesso necessario per l'autenticazione a due fattori)
+
+					Password sicura
+
+			2. Verifica dell’identità (KYC)
+					Volet, come la maggior parte dei wallet regolamentati, richiede:
+
+					Documento d'identità (carta d’identità, passaporto o patente)
+
+					Selfie con il documento in mano
+
+					Talvolta anche prova di residenza (bolletta o estratto conto bancario recente)
+
+					Carica i documenti seguendo le istruzioni e attendi l’approvazione (può richiedere alcune ore o giorni).
+
+			3. Attivazione e sicurezza
+				Attiva l’autenticazione a due fattori (2FA) tramite app tipo Google Authenticator
+
+				Controlla di avere accesso a email e telefono
+
+			🔁 COME VERSARE CRIPTOVALUTE SU POCKET OPTION TRAMITE VOLET
+							Pocket Option accetta depositi in cripto come BTC, USDT, ETH, ecc. Il metodo con Volet dipende da cosa supporta il tuo wallet Volet.
+
+							Passaggi generali:
+							Accedi a Pocket Option
+
+							Vai su https://pocketoption.com e accedi
+
+							Vai su “Finance” > “Deposit”
+
+							Scegli la criptovaluta che vuoi usare (es. USDT TRC20 o BTC)
+
+							Copia l’indirizzo del wallet fornito da Pocket Option
+
+							Vai su Volet
+
+							Scegli “Send” o “Withdraw”
+
+							Seleziona la cripto corrispondente (deve corrispondere alla rete scelta su Pocket Option: es. USDT TRC20 ≠ USDT ERC20)
+
+							Incolla l’indirizzo di deposito di Pocket Option
+
+							Inserisci l’importo e conferma
+
+							Conferma e attendi la rete
+
+							Conferma il prelievo su Volet (potrebbe esserci una verifica 2FA o email)
+
+							Attendi il completamento della transazione (da pochi minuti a un’ora)
+
+			⚠️ ATTENZIONE IMPORTANTE
+					Verifica sempre le commissioni di rete
+
+					Usa esattamente la stessa rete blockchain su entrambi i lati (es. TRC20, BEP20, ERC20)
+
+					Non inviare cripto a indirizzi incompatibili o potrebbero andare perse
+
+					Assicurati che Volet consenta invio di cripto a piattaforme di trading (alcuni wallet limitano questa possibilità)
+
+
+	✅ COME VERIFICARE IL TUO ACCOUNT VOLET
+				Accedi al tuo account: Dopo aver completato la registrazione e confermato la tua email, accedi al tuo account su Volet.com.
+
+				Avvia la verifica: Nella dashboard, clicca su "Verifica Account" o "Unlock All Features".
+				volet.gitbook.io
+
+				Verifica del numero di telefono: Inserisci il tuo numero di telefono e conferma il codice ricevuto via SMS.
+				volet.gitbook.io
+
+				Verifica dell'identità:
+
+				Scatta un selfie seguendo le istruzioni fornite.
+
+				Carica un documento di identità valido (passaporto, carta d'identità o patente di guida).
+
+				Il sistema eseguirà una verifica automatica dei dati.
+				support.volet.com
+
+				Verifica dell'indirizzo (se richiesta):
+
+				Carica un documento che confermi il tuo indirizzo di residenza, come una bolletta recente, un estratto conto bancario o una conferma dell'indirizzo nel tuo passaporto.
+
+				Assicurati che il documento sia chiaro, leggibile e non modificato digitalmente.
+
+				Il documento deve essere in caratteri latini o cirillici e non deve essere più vecchio di 3 mesi (eccetto il passaporto). 
+				support.volet.com
+
+				Attendi la verifica: Il processo di verifica può richiedere alcune ore o giorni. Puoi monitorare lo stato della verifica accedendo al tuo account.
+
+				📌 Nota importante
+				La verifica dell'indirizzo è necessaria per alcune tipologie di trasferimenti e depositi, inclusi i bonifici SEPA. 
+				support.volet.com
+				+1
+				support.volet.com
+				+1
+
+				La verifica completa ti consente di utilizzare tutte le funzionalità della piattaforma, inclusi trasferimenti, depositi e l'ordinazione di carte Volet. 
+				support.volet.com
+
+				Per ulteriori dettagli o assistenza, puoi consultare la sezione Verifica del centro assistenza di Volet.
+
+	REGISTRAZIONE E VERIFICA
+		1. REGISTRAZIONE E VERIFICA DELL'IDENTITÀ
+				Registrazione: Vai su Volet.com e clicca su "Crea un account gratuito". Inserisci i tuoi dati personali e conferma l'email.
+				YouTube
+				+9
+				Volet.com payment hub
+				+9
+				spectrocoin.com
+				+9
+
+				Verifica dell'identità: Accedi al tuo account, vai alla sezione di verifica e carica:
+
+				Un documento di identità valido (passaporto, carta d'identità o patente).
+
+				Un selfie per confermare la tua identità.
+
+				Un documento che attesti il tuo indirizzo di residenza (ad esempio, una bolletta recente).
+
+				La verifica può richiedere alcune ore o giorni.
+
+		2. DEPOSITO DI 40 EURO
+				Metodo di deposito: Puoi depositare fondi tramite bonifico bancario SEPA.
+				Volet.com payment hub
+
+				Commissioni: Volet.com applica una commissione dello 0,25% sui bonifici SEPA in euro. 
+				Volet.com payment hub
+
+				Ad esempio, per un deposito di 40 euro, la commissione sarà di 0,10 euro, quindi l'importo netto accreditato sarà di 39,90 euro.
+
+		3. PRELIEVO DI 10 EURO
+				Metodo di prelievo: Puoi prelevare fondi sul tuo conto bancario o su una carta Volet.
+				Reddit
+				+1
+				spectrocoin.com
+				+1
+
+				Commissioni di prelievo: Le commissioni variano in base al metodo scelto.
+				Volet.com payment hub
+				+3
+				Volet.com payment hub
+				+3
+				Reddit
+				+3
+
+				Bonifico bancario SEPA: Solitamente, Volet.com applica una commissione dello 0,25% sui prelievi SEPA. 
+				Volet.com payment hub
+
+				Ad esempio, per un prelievo di 10 euro, la commissione sarà di 0,025 euro, quindi l'importo netto ricevuto sarà di 9,975 euro.
+
+				Carta Volet: Se hai una carta Volet, puoi prelevare contante presso gli sportelli automatici (ATM). Tuttavia, potrebbero esserci commissioni aggiuntive applicate dall'ATM stesso.
+
+		4. CONSIDERAZIONI FINALI
+				Tempi di elaborazione: I depositi tramite bonifico bancario possono richiedere da 1 a 3 giorni lavorativi per essere elaborati.
+
+				Verifica dell'indirizzo: Assicurati di fornire un documento di indirizzo recente e leggibile per evitare ritardi nella verifica.
+
+				Supporto clienti: Se hai bisogno di assistenza, puoi contattare il supporto clienti di Volet.com tramite il loro sito web.
+
+
+		COME RICHIEDERE LA CARTA VIRTUALE VOLET
+					Crea un account su Volet.com
+					Vai su Volet.com e registrati con la tua email e dati personali.
+
+					Verifica la tua identità
+
+					Carica un documento d’identità valido (carta d’identità, passaporto o patente).
+
+					Fai un selfie per confermare che sei tu.
+
+					Carica un documento di residenza se richiesto (una bolletta recente, per esempio).
+					Questa verifica sbloccherà tutte le funzionalità, tra cui la carta.
+
+					Accedi al tuo account e vai alla sezione “Carte”
+					Nella dashboard troverai una sezione dedicata alle carte Volet.
+
+					Seleziona la carta virtuale
+					Scegli la carta virtuale in EUR o USD, a seconda delle tue esigenze.
+
+					Richiedi la carta virtuale
+					Segui le istruzioni per attivarla. La carta virtuale sarà immediatamente disponibile nel tuo account.
+
+					Ricarica la carta
+					Puoi trasferire fondi dal tuo saldo Volet o fare un deposito tramite bonifico SEPA per caricare la carta.
+
+					Usa la carta virtuale
+
+					Per acquisti online inserisci i dati della carta (numero, scadenza, CVV).
+
+					Per pagamenti in negozio, aggiungi la carta virtuale ad Apple Pay o Google Pay.
+
+	COME RICHIEDERE LA CARTA VIRTUALE VOLET
+				Crea un account su Volet.com
+				Vai su Volet.com e registrati con la tua email e dati personali.
+
+				Verifica la tua identità
+
+				Carica un documento d’identità valido (carta d’identità, passaporto o patente).
+
+				Fai un selfie per confermare che sei tu.
+
+				Carica un documento di residenza se richiesto (una bolletta recente, per esempio).
+				Questa verifica sbloccherà tutte le funzionalità, tra cui la carta.
+
+				Accedi al tuo account e vai alla sezione “Carte”
+				Nella dashboard troverai una sezione dedicata alle carte Volet.
+
+				Seleziona la carta virtuale
+				Scegli la carta virtuale in EUR o USD, a seconda delle tue esigenze.
+
+				Richiedi la carta virtuale
+				Segui le istruzioni per attivarla. La carta virtuale sarà immediatamente disponibile nel tuo account.
+
+				Ricarica la carta
+				Puoi trasferire fondi dal tuo saldo Volet o fare un deposito tramite bonifico SEPA per caricare la carta.
+
+				Usa la carta virtuale
+
+				Per acquisti online inserisci i dati della carta (numero, scadenza, CVV).
+
+				Per pagamenti in negozio, aggiungi la carta virtuale ad Apple Pay o Google Pay.
+
+# DIFFERENZA TRA VOLET, SKRILL, BIANCE
+
+		Capisco benissimo i tuoi dubbi: scegliere il wallet giusto è fondamentale, specialmente se vuoi:
+
+				Depositare cripto su Pocket Option
+
+				Prelevare cripto da Pocket Option
+
+				Convertire le cripto in euro
+
+				Trasferire gli euro sul tuo conto corrente italiano
+
+				Facciamo un confronto chiaro e dettagliato tra Volet.com, Skrill e Binance, con un focus sulla facilità d'uso, compatibilità con Pocket Option e ritiro in EUR sul tuo conto bancario italiano.
+
+🔍 CONFRONTO TRA VOLET.COM, SKRILL E BINANCE
+			
+
+		Caratteristica                     | Volet.com                            | Skrill                                | Binance
+		|----------------------------------|--------------------------------------|---------------------------------------|
+		✅ Supporto cripto                 | Limitato (dipende dai token)         | Parziale (solo BTC, ETH, LTC)         | Completo: oltre 100 criptovalute
+		📥 Deposito su Pocket Option       | Incerto / non sempre supportato      | Solo con BTC/ETH/LTC                  | Sì, facile e compatibile con tutte le reti
+		📤 Prelievo da Pocket Option       | Potrebbe essere complicato           | Poco pratico                          | Sì, diretto e rapido
+		💶 Conversione cripto → euro       | Non sempre possibile                 | Sì, ma con commissioni alte           | Sì, con commissioni basse
+		🏦 Bonifico su conto IT            | Difficile o non supportato           | Sì, ma spesso lento e caro            | Sì, veloce con SEPA (gratuito)
+		🔒 Sicurezza                       | Media, non molto noto                | Media                                 | Molto alta (2FA, KYC, ecc.)
+		📱 Facilità d’uso                  | Media, interfaccia semplice          | Facile, ma limitato nelle cripto      | Più complesso, ma guida passo passo
+		🔄 Commissioni                     | Non chiare                           | Alte per cambio e prelievi            | Molto basse
+		🇪🇺 Compatibilità UE/Italia          | Sì, ma poco noto                     | Sì                                    | Sì, pienamente compatibile con banche italiane
+
 
 # DIFFERENZA TRA BINANCE E BINANCE PAY
 		BINANCE COIN E BINANCE PAY
@@ -584,7 +851,6 @@ README.MD
 		swissmoney homepage
 
 		In sintesi, Nexo è ideale per chi desidera guadagnare interessi sulle proprie criptovalute e accedere a prestiti garantiti da esse, mentre Revolut è più adatto a chi cerca un'integrazione tra servizi bancari tradizionali e funzionalità di trading di criptovalute.
-
 
 # DIFFERENZA TRA BINANCE E BIBYT
 	Note
@@ -5309,7 +5575,7 @@ Open Default Shell in Panel
 
 
 
-				Emanuele D
+			E	manuele D
 
 						23 Jul, 21:31
 								Buonasera, siccome arrivano molti messaggi di questo tipo facciamo un pò di chiarezza. 

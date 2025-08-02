@@ -1,0 +1,5 @@
+{
+    "cmd": ["pandoc", "$file", "-o", "${file_base_name}.docx"],
+    "file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+    "selector": "text.html.markdown"
+}

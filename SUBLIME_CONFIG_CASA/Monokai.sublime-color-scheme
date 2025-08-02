@@ -1,0 +1,271 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+//{
+//   "variables":
+//   {
+//   },
+//   "globals":
+//   {
+//   },
+//   "rules":
+//   [
+//
+//   ]
+//}
+
+
+      //IMPOSTA_SUBLIMETEXT_Mariana.md
+         //MONOKAI - COLORI PERSONALIZZATI - PER MARIANNA
+               //@impostazioni@Mariana_(impostazioni colori dello @schermo Mariana)
+
+            //FILE:  C:\Users\icivi\AppData\Roaming\Sublime Text\Packages\User\Mariana.sublime-color-scheme
+               {
+                   "name": "Example COLORE ACQUA",
+                     /* NOTE
+
+
+
+
+                           le impostazioni personalizzate del Monokai nel file
+                           Monokai.sublime-color-scheme
+                           La documentazione dei colori si trova qui:
+                              Documentation at https://www.sublimetext.com/docs/color_schemes.html
+                               per definire i colori
+                                 https://www.w3schools.com/html/html_colors_hsl.asp#:~:text=HSL%20Color%20Values&text=0%25%20means%20a%20shade%20of,%2C%20and%20100%25%20is%20white.
+
+
+                           I COLORI POSSONO AVERE QUESTE NOTAZIONI:
+                              Notazione funzionale HSL
+                              Notazione funzionale RGBA
+
+                              elenco colori sublimeText
+
+                              Named colors: white, tan, etc
+
+                                    Shorthand hex: #fff
+
+                                    Shorthand hex with alpha: #fff8
+
+                                    Full hex: #ffffff
+
+                                    Full hex with alpha: #ffffff80
+
+                                    RGB functional notation: rgb(255, 255, 255)
+
+                                    RGBA functional notation: rgba(255, 255, 255, 0.5)
+
+                                    HSL functional notation: hsl(0, 100%, 100%)
+
+                                    HSLA functional notation: hsla(0, 100%, 100%, 0.5)
+
+                                    HWB functional notation: hwb(0, 20%, 20%), hwb(0, 20%, 20%, 0.5)
+
+
+                           */
+                  //LE VARIABILI =
+                     "variables":{
+
+                        /* LE IMPOSTAZIONI DI COLORE NELLE VARIABILI
+                           //---------------------------------------------------------------//
+                           // link colori: https://colordesigner.io/color-palette-builder
+
+                               Colore  Valore  Definizione
+                               Nero    #000000 Assenza di tutti colori.
+                               Bianco  #FFFFFF Presenza di tutti i colori.
+                               Rosso   #FF0000 Presenza solo del rosso.
+                               Giallo  #FFFF00 Rosso + verde – blu.
+
+                                 La notazione HSL funziona così:
+
+                                 H: Hue (tonalità) da 0 a 360
+                                 S: Saturazione (saturation) da 0% a 100%
+                                 L: Luminosità (lightness) da 0% a 100%
+
+                               */
+                               //impostazioni di base di sblime text
+                                    //-----------------------------------------ACQUA
+                                    "acqua": "#00FFFF",  // creato nuovo
+
+                                    //-----------------------------------------ARANCIONE
+                                    "arancione1_chiaro": "hsl(30, 80%, 85%)",
+                                    "arancione2_pastello": "hsl(30, 70%, 75%)",
+                                    "arancione3_medio": "hsl(30, 60%, 65%)",
+                                    "arancione4_intenso": "hsl(30, 70%, 50%)",
+                                    "arancione5_scuro": "hsl(30, 60%, 40%)",
+
+                                    //-----------------------------------------AZZURRO
+                                    "azzurro": "hsl(39, 80%, 50%)",
+                                    "azzurro2": "hsl(39, 80%, 50%)",
+                                    "Azzurro_chiaro": "hsl(190, 60%, 80%)",
+                                    "Azzurro_intenso": "hsl(490, 90%, 90%)",
+                                    "Azzurro_medio": "hsl(190, 60%, 60%)",
+                                    "Azzurro_polveroso": "hsl(190, 40%, 70%)",
+                                    "Azzurro_scuro": "hsl(190, 50%, 30%)",
+
+                                    //-----------------------------------------NEUTRAL
+                                    "neutral_beige_1": "hsl(50, 45%, 87%)",
+                                    "neutral_kaki_1": "hsl(47, 47%, 69%)",
+
+                                    //-----------------------------------------BLUE
+                                    "blue": "hsl(210, 50%, 60%)",
+                                    "blue-vibrant": "hsl(210, 60%, 60%)",
+                                    "blue2": "hsla(210, 13%, 40%, 0.7)",
+
+                                    "blue4": "hsl(210, 13%, 45%)",
+                                    "blue5": "hsl(180, 36%, 54%)",
+                                    "blue6": "hsl(221, 12%, 69%)",
+                                    "blue7_intenso": "hsl(100, 300%, 10%)",
+                                    "blue_240": "hsl(240, 69%, 20%)",
+                                    //-----------------------------------------CELESTE
+                                    "celeste": "hsl(185, 68%, 81%)",
+                                    "celeste1_chiaro": "hsl(190, 80%, 85%)",
+                                    "celeste2_pastello": "hsl(190, 70%, 75%)",
+                                    "celeste3_medio": "hsl(190, 60%, 65%)",
+                                    "celeste4_intenso": "hsl(190, 70%, 50%)",
+                                    "celeste5_scuro": "hsl(190, 60%, 40%)",
+                                    "celeste_gradient_end": "hsl(190, 50%, 45%)",
+                                    "celeste_gradient_start": "hsl(190, 80%, 85%)",
+
+                                    //-----------------------------------------FUCSIA
+                                    "fucsia1_chiaro": "hsl(320, 80%, 85%)",
+                                    "fucsia2_pastello": "hsl(320, 70%, 75%)",
+                                    "fucsia3_medio": "hsl(320, 60%, 65%)",
+                                    "fucsia4_intenso": "hsl(320, 80%, 50%)",
+                                    "fucsia5_scuro": "hsl(320, 60%, 40%)",
+
+                                    //-----------------------------------------GIALLO / YELLOW
+                                    "giallo1_chiaro": "hsl(55, 80%, 85%)",
+                                    "giallo2_pastello": "hsl(55, 70%, 75%)",
+                                    "giallo3_medio": "hsl(55, 60%, 65%)",
+                                    "giallo4_intenso": "hsl(55, 80%, 50%)",
+                                    "giallo5_scuro": "hsl(55, 60%, 40%)",
+
+                                    "yellow": "hsl(39, 100%, 50%)",
+                                    "yellow4": "hsl(55, 90%, 75%)",
+
+                                    //-----------------------------------------GRAY
+
+                                    "gray_1": "hsl(199.53, 18.30%, 46,08%)",
+
+                                    //-----------------------------------------GREEN / VERDE
+                                    "green": "hsla(153, 80%, 40%, 1)",
+                                    "green68": "hsl(114, 31%, 68%)",
+                                    "green83": "hsl(84.53, 83.52%, 69.25%)",
+                                    "green95": "hsl(95.53, 65.52%, 77.25%)",
+
+                                    "verde1_chiaro": "hsl(120, 80%, 85%)",
+                                    "verde1_yellow": "hsl(72, 100%, 50%)",
+                                    "verde2_pastello": "hsl(120, 70%, 75%)",
+                                    "verde2_yellow": "hsl(66, 66%, 25%)",
+                                    "verde3_medio": "hsl(120, 60%, 65%)",
+                                    "verde4_intenso": "hsl(120, 70%, 50%)",
+                                    "verde5_scuro": "hsl(120, 60%, 40%)",
+
+                                    //-----------------------------------------MARRONE
+                                    "marrone1_chiaro": "hsl(30, 60%, 85%)",
+                                    "marrone2_pastello": "hsl(30, 55%, 75%)",
+                                    "marrone3_medio": "hsl(30, 50%, 65%)",
+                                    "marrone4_intenso": "hsl(30, 60%, 50%)",
+                                    "marrone5_scuro": "hsl(30, 50%, 40%)",
+
+                                    //-----------------------------------------ORANGE
+                                    "orange": "hsl(32, 93%, 66%)",
+                                    "orange2": "hsl(32, 85%, 55%)",
+                                    "orange3": "hsl(40, 94%, 68%)",
+
+                                    //-----------------------------------------PURPLE
+                                      //@qui@COLORE@ATTIVO
+                                       "purple_1": "hsl(299, 56%, 20%)",
+                                    //-----------------------------------------RED / ROSSO
+                                    "red": "hsl(357, 79%, 65%)",
+                                    "red2": "hsl(13, 93%, 66%)",
+                                    "red3": "hsl(35, 83%, 36%)",
+
+                                    "rosso1_chiaro": "hsl(0, 80%, 85%)",
+                                    "rosso2_pastello": "hsl(0, 70%, 75%)",
+                                    "rosso3_medio": "hsl(0, 60%, 65%)",
+                                    "rosso4_intenso": "hsl(0, 80%, 50%)",
+                                    "rosso5_scuro": "hsl(0, 60%, 40%)",
+
+                                    //-----------------------------------------ROSA
+                                    "rosa1_chiaro": "hsl(330, 80%, 85%)",
+                                    "rosa2_pastello": "hsl(330, 70%, 75%)",
+                                    "rosa3_medio": "hsl(330, 60%, 65%)",
+                                    "rosa4_intenso": "hsl(330, 80%, 50%)",
+                                    "rosa5_scuro": "hsl(330, 60%, 40%)",
+
+                                    //-----------------------------------------WHITE / BIANCO
+                                    "white": "hsl(0, 0%, 100%)",
+                                    "white2": "hsl(0, 0%, 97%)",
+                                    "white3": "hsl(219, 28%, 88%)"
+
+                           //---------------------------------------------------------------//
+
+                           },
+
+                  //LE GLOBALI = VARIABILI GLOBALI
+                        "globals": {
+                                 /*
+                                    NEI GLOBALS IMPOSTO
+                                       foreground  = colore testo acqua
+                                       background  = sfondo nero
+                                       selection   = seleziono il testo in rosso
+                                 */
+                              //
+                              "foreground": "var(yellow4)",
+                              //"foreground": "var(orange)",
+                                "background": "var(black)",
+                                //"selection": "var(green)"
+
+                                //@selezione@testo_(@comando per la selezione in @azzurro o @blu per il testo della @casa)
+                                 "selection": "var(purple_1)",
+
+                               //COLORO IL BORDO DELLA SELEZIONE + BORDO RIGA CORRENTE
+                               //------------------------------------------------------------------------------//
+                                 //@BORDO@SELEZIONE
+                                    "selection_border": "var(red)",           // Usa la variabile per il bordo
+                                 //@COLORE@CURSORE
+                                   "caret": "var(green)",                     // Usa la variabile per il cursore
+
+                                 //@COLORE@SFONDO@RIGA@CORRENTE
+                                    "line_highlight": "var(blue_240)",         // sfondo leggero e neutro
+                                    //"line_highlight_border": "var(yellow)"    // bordo scuro che risalta su sfondo
+                                    "line_highlight_border": "hsl(50, 100%, 60%)"  // giallo luminoso intenso
+
+
+
+                              //------------------------------------------------------------------------------//
+
+
+                              },
+
+                  //RULES = SONO LE REGOLE
+                     "rules":[
+                              //@regole_(INSERISCO NUOVE REGOLE, commenti, costanti)
+
+                               {
+                                             "name": "Comment",
+                                             "scope": "comment, punctuation.definition.comment", //??
+                                             "foreground": "green"   //@commenti in @verde
+                                             //"foreground": "#888888"  //commenti gialli
+
+                                         },
+                                         {
+                                          //regole per le stringhe
+                                             "name": "String",
+                                             "scope": "string",
+                                             "foreground": "hsla(40, 100%, 50%, 1",
+                                         },
+
+
+                                         {
+                                          //regole per i numeri @costanti
+                                             "name": "Number",
+                                             "scope": "constant.numeric",
+                                             "foreground": "#7F00FF",
+                                             "font_style": "italic",    //@stile@costanti
+                                         }
+
+                           ]
+
+                  }
+

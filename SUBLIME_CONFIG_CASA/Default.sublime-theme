@@ -1,0 +1,73 @@
+// Documentation at https://www.sublimetext.com/docs/themes.html
+//{
+//
+//	//COLORE DELLA BARRA DEL TITOLO E DEL TREEVIEW
+//	//MENU Preferences ---> Customize Theme
+//	//--------------------------------------------------------------//
+//	//PER IL TEMA DARK viene utilizzato il
+//	//@blu@della@barra_(@la@barra@del@titolo IMPOSTA AL BLU)
+//	//queste @impostazioni con il comando barra titol
+//	//colore della barra del titolo e del contono
+//	// aumentando il centrale da 10 --> 50 ottengo il blu
+//	"variables":
+//		{ "base_hue": "hsl(215, 50%, 50%)",
+//			"base_tint": "white",  //cosa fa forse il testo della barra???
+//		},
+//	"rules":
+//		[
+//			{
+//				"class": "title_bar",
+//				"style": "base_hue"
+//			},
+//		]
+//
+//
+//	//--------------------------------------------------------------//
+//}
+
+
+// Documentation at https://www.sublimetext.com/docs/themes.html
+{
+	//COLORE DELLA BARRA DEL TITOLO E DEL TREEVIEW
+	//MENU Preferences ---> Customize Theme
+	//--------------------------------------------------------------//
+	//PER IL TEMA DARK viene utilizzato il
+	//@blu@della@barra_(@la@barra@del@titolo IMPOSTA AL BLU)
+	//queste @impostazioni con il comando barra titol
+	//colore della barra del titolo e del contono
+	// aumentando il centrale da 10 --> 50 ottengo il blu
+	"variables":
+		{
+			"base_hue": "hsl(215, 50%, 50%)",
+			"base_tint": "white",  //cosa fa forse il testo della barra???
+			// Variabile per il colore del bordo della riga attiva
+			"highlight_border_color": "hsl(50, 100%, 60%)" // Giallo acceso per il bordo
+		},
+
+	"rules":
+		[
+			{
+				"class": "title_bar",
+				"style": "base_hue"
+			},
+
+			//--------------------------------------------------------------//
+			// INIZIO MODIFICA: BORDO GIALLO SPESSO ATTORNO ALLA RIGA ATTIVA
+			//--------------------------------------------------------------//
+			{
+				"class": "row_highlight",
+				"layer0.tint": "highlight_border_color",     // Usa la variabile colore definita sopra
+				"layer0.opacity": 1.0,                        // Opacità piena per evidenziare bene
+				"layer0.draw_center": false,                  // Non disegna il riempimento interno, solo bordo
+				"layer0.inner_margin": [0, 0, 0, 0],          // Margine interno nullo
+				"layer0.outer_margin": [1, 1, 1, 1],          // Margine esterno di 1px per creare il bordo visibile
+				"layer0.offset": [0, 0],                       // Nessun offset
+				"layer0.blur_radius": 0                         // Nessuna sfocatura, bordo netto
+			}
+
+
+			//--------------------------------------------------------------//
+			// FINE MODIFICA
+			//--------------------------------------------------------------//
+		]
+}
