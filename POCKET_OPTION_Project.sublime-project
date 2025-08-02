@@ -48,8 +48,8 @@ delle parentesi graffe {} e separati da virgole.
     "folders":
     [
         {
-            "path": "c:\\CASA\\GE_CASA\\GE_MARINO\\BANCA\\POCKET_OPTION\\"
-        }
+            "path": "c:\\CASA\\GE_CASA\\GE_MARINO\\BANCA\\POCKET_OPTION",
+        },
     ],
     "settings":
     {
@@ -58,11 +58,10 @@ delle parentesi graffe {} e separati da virgole.
     "translate_tabs_to_spaces": true,
     "remember_workspace": false,
     "word_wrap": "auto",
-    "highlight_line": true
+    "highlight_line": true,
 
      
-    }
+    },
  
 
 }
-

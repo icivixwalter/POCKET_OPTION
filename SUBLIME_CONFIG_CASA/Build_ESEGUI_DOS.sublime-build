@@ -1,0 +1,38 @@
+// FILE                         : Build_ESEGUI_DOS.sublime-build
+// SI TROVA IN QUESTA PATH      : c:\Users\icivi\AppData\Roaming\Sublime Text\Packages\User\
+
+/*
+  FLUSSO LOGICO COMPLETO:
+
+  1) Il file Build_ESEGUI_DOS.sublime-build è un Build System di Sublime Text
+     che avvia il comando Python definito in Build_ESEGUI_Python.py
+     tramite il comando "apri_readme".
+
+  2) Build_ESEGUI_Python.py definisce la classe ApriReadmeCommand che
+     mostra un menu di opzioni all'utente e, in base alla scelta,
+     esegue il file batch Build_APRI_CMD.BAT passando il numero
+     della scelta come parametro.
+
+  3) Build_APRI_CMD.BAT riceve il parametro numerico (1, 2 o 3)
+     e apre il file README corrispondente con l'applicazione associata di Windows.
+
+  In questo modo si realizza un sistema modulare e centralizzato per
+  aprire rapidamente file README da qualsiasi progetto in Sublime Text,
+  mantenendo pulito e semplice il Build System.
+
+
+old 
+
+
+*/
+
+
+
+{
+    // Indica che il build system deve eseguire un comando di Sublime Text interno
+    "target": "run_existing_window_command",
+
+    // Nome del comando Python (definito nella classe ApriReadmeCommand)
+    "command": "apri_readme"
+}
+

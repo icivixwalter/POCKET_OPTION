@@ -15,19 +15,54 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/c/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/README.MD",
-			"settings":
-			{
-				"buffer_size": 197156,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
-	"build_system": "",
+	"build_system": "Packages/User/Build_ESEGUI_DOS.sublime-build",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/Build_ESEGUI_DOS_old.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build_CMD_APRI_README_COMANDI_VARI.BAT.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build_ESEGUI_DOS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Build_ESEGUI_DOS.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Build_ESEGUI_DOS_old.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build_CMD_APRI_README_COMANDI_VARI.BAT.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Build_ESEGUI_DOS.sublime-build",
+					""
+				],
+				[
+					"Packages/User/TestBuild.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/TestBuild.sublime-build",
+				""
+			]
+		]
 	],
 	"build_varint": "",
 	"command_palette":
@@ -36,6 +71,22 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"APRI READ",
+				"Apri Readme Menu"
+			],
+			[
+				"",
+				"Apri Readme Menu"
+			],
+			[
+				"build",
+				"Build With: Build_ESEGUI_DOS"
+			],
+			[
+				"Package Control: LIS",
+				"Package Control: List Packages"
+			],
 			[
 				"Package Control: ",
 				"Package Control: List Packages"
@@ -81,10 +132,6 @@
 				"Terminal: Open"
 			],
 			[
-				"",
-				"Build: New Build System"
-			],
-			[
 				"prv",
 				"PackageResourceViewer: Open Resource"
 			],
@@ -105,9 +152,18 @@
 	},
 	"console":
 	{
-		"height": 231.0,
+		"height": 570.0,
 		"history":
 		[
+			"window.run_command(\"test_build\")\n",
+			"window.run_command(\"test_build\")\nwindow.run_command(\"test_build\")\nwindow.run_command(\"test_build\")\n",
+			"window.run_command(\"apri_readme\")\n",
+			"window.run_command('apri_readme')\n",
+			"(c) Microsoft Corporation. Tutti i diritti riservati.                                                                                 \n                                                                                                                                      \nC:\\Users\\icivi\\AppData\\Roaming\\Sublime Text\\Packages\\User>window.run_command('apri_readme')                                           \n\"window.run_command\" non è riconosciuto come comando interno o esterno,                                                               \n un programma eseguibile o un file batch.    ",
+			"clean",
+			"cls",
+			"(c) Microsoft Corporation. Tutti i diritti riservati.                                                                                 \n                                                                                                                                      \nC:\\Users\\icivi\\AppData\\Roaming\\Sublime Text\\Packages\\User>window.run_command('apri_readme')                                           \n\"window.run_command\" non è riconosciuto come comando interno o esterno,                                                               \n un programma eseguibile o un file batch.    ",
+			"(c) Microsoft Corporation. Tutti i diritti riservati.                                                                                 \n                                                                                                                                      \nC:\\Users\\icivi\\AppData\\Roaming\\Sublime Text\\Packages\\User>window.run_command('apri_readme')                                           \n\"window.run_command\" non è riconosciuto come comando interno o esterno,                                                               \n un programma eseguibile o un file batch.    cls"
 		]
 	},
 	"distraction_free":
@@ -125,6 +181,20 @@
 	],
 	"file_history":
 	[
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Build_ESEGUI_Python.py",
+		"/C/CASA/LINGUAGGI/RUST/RUST_TUTORIAL/RUST_TUTORIAL_TONY_CHAN/README_COMANDI_VARI.MD",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Build_ESEGUI_DOS.sublime-build",
+		"/C/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/TUTORIAL_POCKET_OPTION.MD",
+		"/C/CASA/LINGUAGGI/RUST/RUST_TUTORIAL/RUST_TUTORIAL_TONY_CHAN/README_TUTORIAL_RUST.MD",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Build_APRI_CMD.BAT",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Build_ESEGUI_DOS - Copia (2).sublime-build",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/test_build_command.py",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Default.sublime-commands",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Build_ESEGUI_DOS_old.sublime-build",
+		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Build_CMD_APRI_README_COMANDI_VARI.BAT.sublime-build",
+		"/C/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/README_POCKET_OPTION.MD",
+		"/c/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/README_POCKET_OPTION.MD",
+		"/c/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/TUTORIAL_POCKET_OPTION.MD",
 		"/c/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/README.MD",
 		"/C/Users/icivi/Desktop/registro.json",
 		"/C/Users/icivi/Desktop/users.json",
@@ -238,25 +308,11 @@
 		"/Y/LAVORI_PUBBLICI_FINO_AL_30_09_2019/Valter/OPERE_PUBBLICHE/79_NUOVE_OPPORTUNITA/08_RIQUALIFICAZIONE_POTENZIAMENTO_AUDITORIUM_PAOLO_COLAPIETRO/MEMO_30_2022_COLAPIETRO_PROGETTO.MD",
 		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/NUMERI_TELEFONICI_Dipendenti in Servizio.sublime-project",
 		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/NUMERI_TELEFONICI_Dipendenti in Servizio.sublime-workspace",
-		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/NUMERI_TELEFONICI_Dipendenti in Servizio.txt",
-		"/C/CASA/LINGUAGGI/ZIP/RAR/RAR_MANUALE_ITALIANO.TXT",
-		"/C/TMP/TMP_oggi/MEMO_7_2021.MD",
-		"/C/TMP/TMP_oggi/RAR_MANUALE_ITALIANO.TXT",
-		"/C/TMP/TMP_oggi/DA_SISTEMARE/GE_OGGETTI_DB_MDB_(StudioFiltroForEach).mdb",
-		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/LLPP_ARCHIVI_MDB/MENU_GESTIONE/MENU_GESTIONE_SUBLIME_TEXT_ANALISI/PROJECT_MENU_GESTIONE_SublimeText_Project.sublime-project",
-		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/LLPP_ARCHIVI_MDB/MENU_GESTIONE/MENU_GESTIONE_SUBLIME_TEXT_ANALISI/MENU_GESTIONE_SublimeText.txt",
-		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/LLPP_ARCHIVI_MDB/MENU_GESTIONE/MENU_GESTIONE_SUBLIME_TEXT_ANALISI/MENU_GESTIONE_SublimeText_Project.sublime-workspace",
-		"/C/TMP/TMP_oggi/DA_PROTOCOLLARE/MODELLI_AVVOCATURA_RISPOSTE/GIZA/MEMO_7_2021.txt",
-		"/C/CASA/CDM/MEMO_7_2021.txt",
-		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/LLPP_ARCHIVI_MDB/CIVILIA_GESTIONE/CIVILIA_TEXT_ANALISI/SUBLIME_TEXT_ANALISI/FORM/CIVILIA_FrmTb01_12_GRUPPO_ATTO.MD",
-		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/LLPP_ARCHIVI_MDB/CIVILIA_GESTIONE/CIVILIA_TEXT_ANALISI/SUBLIME_TEXT_ANALISI/FORM/CIVILIA_FrmTb01_11_GRUPPO_ANNO.MD",
-		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/LLPP_ARCHIVI_MDB/CIVILIA_GESTIONE/CIVILIA_TEXT_ANALISI/SUBLIME_TEXT_ANALISI/TABELLE/CIVILIA_Tb01_ATTI.MD",
-		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/LLPP_ARCHIVI_MDB/CIVILIA_GESTIONE/CIVILIA_TEXT_ANALISI/SUBLIME_TEXT_ANALISI/FORM/CIVILIA_FrmTb01_00_GE_ATTI.MD",
-		"/C/TMP/TMP_oggi/CONDOMINIO_QUADRINI/CONDOMINIO_QUADRINI_ATTI/Condominio_QUADRINI_ATTI_NOCE"
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/NUMERI_TELEFONICI_Dipendenti in Servizio.txt"
 	],
 	"find":
 	{
-		"height": 32.0
+		"height": 34.4
 	},
 	"find_in_files":
 	{
@@ -422,45 +478,12 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/c/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/README.MD",
-					"selected": true,
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 197156,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"mde.match_heading_hashes": false,
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"tab_size": 3,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 32.0
+		"height": 34.4
 	},
 	"input":
 	{
@@ -491,14 +514,17 @@
 	"menu_visible": true,
 	"output.Terminus":
 	{
-		"height": 313.0,
+		"height": 183.0,
 		"history":
 		[
 		]
 	},
 	"output.exec":
 	{
-		"height": 237.0
+		"height": 237.0,
+		"history":
+		[
+		]
 	},
 	"output.find_results":
 	{
@@ -511,11 +537,11 @@
 	{
 		"height": 150.399993896
 	},
-	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"pinned_build_system": "",
 	"project": "POCKET_OPTION_Project.sublime-project",
 	"replace":
 	{
-		"height": 60.8
+		"height": 65.6
 	},
 	"save_all_on_build": false,
 	"select_file":
