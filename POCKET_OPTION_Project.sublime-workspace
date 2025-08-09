@@ -181,6 +181,8 @@
 	],
 	"file_history":
 	[
+		"/c/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/TUTORIAL_POCKET_OPTION.MD",
+		"/C/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/PCKET_OPTION_CONTRATTO.MD",
 		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Build_ESEGUI_Python.py",
 		"/C/CASA/LINGUAGGI/RUST/RUST_TUTORIAL/RUST_TUTORIAL_TONY_CHAN/README_COMANDI_VARI.MD",
 		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Build_ESEGUI_DOS.sublime-build",
@@ -194,7 +196,6 @@
 		"/C/Users/icivi/AppData/Roaming/Sublime Text/Packages/User/Build_CMD_APRI_README_COMANDI_VARI.BAT.sublime-build",
 		"/C/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/README_POCKET_OPTION.MD",
 		"/c/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/README_POCKET_OPTION.MD",
-		"/c/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/TUTORIAL_POCKET_OPTION.MD",
 		"/c/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/README.MD",
 		"/C/Users/icivi/Desktop/registro.json",
 		"/C/Users/icivi/Desktop/users.json",
@@ -307,12 +308,11 @@
 		"/C/Users/walter.rossi/AppData/Local/Temp/Rar$DI28.332/AA_NOTE_FERIE+PERMESSI+STRAORDINARI_2022_TUTTI.txt",
 		"/Y/LAVORI_PUBBLICI_FINO_AL_30_09_2019/Valter/OPERE_PUBBLICHE/79_NUOVE_OPPORTUNITA/08_RIQUALIFICAZIONE_POTENZIAMENTO_AUDITORIUM_PAOLO_COLAPIETRO/MEMO_30_2022_COLAPIETRO_PROGETTO.MD",
 		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/NUMERI_TELEFONICI_Dipendenti in Servizio.sublime-project",
-		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/NUMERI_TELEFONICI_Dipendenti in Servizio.sublime-workspace",
-		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/NUMERI_TELEFONICI_Dipendenti in Servizio.txt"
+		"/C/GESTIONI/GESTIONE_LLPP/25_GESTIONE_LLPP/NUMERI_TELEFONICI_Dipendenti in Servizio.sublime-workspace"
 	],
 	"find":
 	{
-		"height": 34.4
+		"height": 32.0
 	},
 	"find_in_files":
 	{
@@ -483,7 +483,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 34.4
+		"height": 32.0
 	},
 	"input":
 	{
@@ -541,7 +541,7 @@
 	"project": "POCKET_OPTION_Project.sublime-project",
 	"replace":
 	{
-		"height": 65.6
+		"height": 60.8
 	},
 	"save_all_on_build": false,
 	"select_file":
