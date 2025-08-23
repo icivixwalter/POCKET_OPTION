@@ -15,6 +15,17 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/c/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/README_POCKET_OPTION.MD",
+			"settings":
+			{
+				"buffer_size": 3456,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
 	],
 	"build_system": "Packages/User/Build_ESEGUI_DOS.sublime-build",
 	"build_system_choices":
@@ -478,6 +489,38 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/c/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/README_POCKET_OPTION.MD",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								452
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],

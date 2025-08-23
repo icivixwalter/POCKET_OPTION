@@ -1,12 +1,52 @@
-//[
-//    {
-//        "keys": ["ctrl+shift+t"],
-//        "command": "terminus_open",
-//        "args": {
-//            "cwd": "${file_path:${folder}}"
-//        }
-//    }
-//]
+/*
+
+ *************************************** COMANDI ATTIVI **********************************************
++-------+-------------------------+------------------+--------------------------------------------------+
+| Num.  | Scorciatoia             | Comando          | Descrizione                                      |
++-------+-------------------------+------------------+--------------------------------------------------|
+| @01   | Ctrl+Shift+T            | terminus_open    | Apri terminale Terminus nel pannello ,           |
+|       |                         |                  | inferiore se già aperto crea nuovo terminale     |
+|       |                         |                  | terminale                                        |
++-------+-------------------------+------------------+--------------------------------------------------+
+| @02   | Ctrl+Shift+Y            | terminus_close   | Chiudi terminale Terminus                        |
++-------+-------------------------+------------------+--------------------------------------------------+
+| @03   | Ctrl+Shift+R            | terminus_open    | Apri terminale Terminus in un nuovo tab          |
++-------+-------------------------+------------------+--------------------------------------------------+
++-------+-------------------------+------------------+--------------------------------------------------+
+| @04   | Ctlr+9                  |                  | Apri terminale Powershel in un nuovo tab         |
++-------+-------------------------+------------------+--------------------------------------------------+
+
+
+
+
+         MODELLO DI COMANDO
+        [
+            {
+                "keys": ["ctrl+shift+t"],
+                "command": "terminus_open",
+                "args": {
+                    "cwd": "${file_path:${folder}}"
+                }
+            }
+        ]
+
+
+
+MEGLIO USARE PERSONALIZZA KEY BINDINGS
+    (il file nella cartella User) invece di modificare direttamente
+    il file Default. perché:
+     1) Non perdi le tue personalizzazioni quando Sublime Text si aggiorna o reinstalla —
+        i file Default possono essere sovrascritti.
+     2) Puoi mantenere tutte le tue modifiche in un unico posto, facile da gestire e condividere.
+     3) Sublime Text carica prima le personalizzazioni utente (User), quindi sovrascrivono i default.
+     4) Puoi anche facilmente disabilitare o modificare le scorciatoie personalizzate senza toccare
+        i file di sistema.
+
+*/
+
+
+//                  IL CODICE DEI COMANDI
+//---------------------------------------------------------------------------------------------------//
 
 //comando key binding
 [
@@ -43,8 +83,20 @@
          {
         "keys": ["ctrl+shift+r"],
         "command": "terminus_open"
-            }
+            },
 
     //--------------------------------------------------------------//
+
+
+     // @04 - Apri PowerShell in un nuovo tab con Ctrl+9
+    {
+        "keys": ["ctrl+9"],
+        "command": "terminus_open",
+        "args": {
+            "cmd": ["powershell.exe"],
+            "cwd": "${file_path:${folder}}",
+            "panel_name": "Terminus"
+        }
+    }
 
 ]

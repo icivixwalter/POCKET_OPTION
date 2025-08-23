@@ -1,0 +1,131 @@
+// =======================================================================
+// FILE: Main.sublime-menu
+// SCOPO: Definisce il menu "Strumenti Personalizzati" in Sublime Text
+// AUTORE: [Tuo nome o data creazione]
+// POSIZIONE: Packages/User/Main.sublime-menu
+// =======================================================================
+// STRUTTURA:
+// 1° LIVELLO  = Titolo macro-sezione del menu (caption principale)
+// 2° LIVELLO  = Sotto-menu o voce di comando
+// 3° LIVELLO  = Ulteriore sotto-menu o comando finale
+// =======================================================================
+// TABELLA COMANDI:
+// -----------------------------------------------------------------------------------------------------------//
+// Menu Caption                     | Command JSON                  | Classe Python
+// -----------------------------------------------------------------------------------------------------------//
+// DELIBERE LLPP                    | "apri_delibere_llpp"          | ApriDelibereLlppCommand
+// Utile 3.1 (DETERMINE LLPP)       | "utile_llpp_determine_31"     | UtileLlppDetermine31Command
+// Utile 3.2 (DETERMINE LLPP)       | "utile_llpp_determine_32"     | UtileLlppDetermine32Command
+// Elenco Dipendenti                | "apri_elenco_dipendenti"      | ApriElencoDipendentiCommand
+// APRI_RUST_TONY_CHAN              | "open_pdf_bat"                | OpenPdfBatCommand
+// README_COMANDI_VARI              | "open_readme"                 | OpenReadmeCommand
+// Utile 3.1 (Approfondimenti)      | "utile_tutorial_31"           | UtileTutorial31Command
+// Utile 3.2 (Approfondimenti)      | "utile_tutorial_32"           | UtileTutorial32Command
+// Parametri Sublimetext            | "apri_parametri_sublime"      | ApriParametriSublimeCommand
+// Visualizza File Corrente in Text | "visualizza_corrente_txt"     | VisualizzaCorrenteTxtCommand
+// Visualizza File Corrente in Md   | "visualizza_corrente_md"      | VisualizzaCorrenteMdCommand
+// -----------------------------------------------------------------------------------------------------------//
+
+// =============================
+//  MENU PRINCIPALE (LIVELLO 0)
+// =============================
+[
+    {
+        "caption": "Strumenti Personalizzati", // Nome menu principale nella barra in alto
+        "children": [
+
+            // ======== LIVELLO 1: LAVORI PUBBLICI ========
+            {
+                "caption": "LAVORI_PUBBLICI", // LIVELLO 1 → Sezione macro
+                "children": [
+                    
+                    // --- LIVELLO 2: Comando diretto ---
+                    {
+                        "caption": "DELIBERE LLPP", // LIVELLO 2 → voce che esegue comando
+                        "command": "apri_delibere_llpp"
+                    },
+
+                    // --- LIVELLO 2: Sotto-menu DETERMINE ---
+                    {
+                        "caption": "DETERMINE LLPP", // LIVELLO 2 → sotto-menu
+                        "children": [
+                            {
+                                "caption": "Utile 3.1", // LIVELLO 3 → comando finale
+                                "command": "utile_llpp_determine_31"
+                            },
+                            {
+                                "caption": "Utile 3.2", // LIVELLO 3 → comando finale
+                                "command": "utile_llpp_determine_32"
+                            }
+                        ]
+                    },
+
+                    // --- LIVELLO 2: Comando diretto ---
+                    {
+                        "caption": "Elenco Dipendenti", // LIVELLO 2 → voce comando
+                        "command": "apri_elenco_dipendenti"
+                    }
+                ]
+            },
+
+            // ======== LIVELLO 1: TUTORIAL ========
+            {
+                "caption": "TUTORIAL", // LIVELLO 1 → Sezione macro
+                "children": [
+
+                    // --- LIVELLO 2: Comando diretto ---
+                    {
+                        "caption": "APRI_RUST_TONY_CHAN", // LIVELLO 2 → apre file esterno
+                        "command": "open_pdf_bat"
+                    },
+
+                    // --- LIVELLO 2: Comando diretto ---
+                    {
+                        "caption": "README_COMANDI_VARI", // LIVELLO 2 → apre README
+                        "command": "open_readme"
+                    },
+
+                    // --- LIVELLO 2: Sotto-menu Approfondimenti ---
+                    {
+                        "caption": "Approfondimenti", // LIVELLO 2 → sotto-menu
+                        "children": [
+                            {
+                                "caption": "Utile 3.1", // LIVELLO 3 → comando finale
+                                "command": "utile_tutorial_31"
+                            },
+                            {
+                                "caption": "Utile 3.2", // LIVELLO 3 → comando finale
+                                "command": "utile_tutorial_32"
+                            }
+                        ]
+                    }
+                ]
+            },
+
+            // ======== LIVELLO 1: PARAMETRI ========
+            {
+                "caption": "PARAMETRI SUBLIMETEXT", // LIVELLO 1 → Sezione macro
+                "children": [
+
+                    // --- LIVELLO 2: Comando diretto ---
+                    {
+                        "caption": "Parametri Sublimetext", // LIVELLO 2 → apre cartella config
+                        "command": "apri_parametri_sublime"
+                    },
+
+                    // --- LIVELLO 2: Comando diretto ---
+                    {
+                        "caption": "Visualizza File Corrente in Text", // LIVELLO 2
+                        "command": "visualizza_corrente_txt"
+                    },
+
+                    // --- LIVELLO 2: Comando diretto ---
+                    {
+                        "caption": "Visualizza File Corrente in Md", // LIVELLO 2
+                        "command": "visualizza_corrente_md"
+                    }
+                ]
+            }
+        ]
+    }
+]

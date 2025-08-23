@@ -1,0 +1,1 @@
+start "" "c:\TMP\00_AA_MODELLO_A3_FASCICOLO.pdf"

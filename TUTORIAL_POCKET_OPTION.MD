@@ -5572,7 +5572,7 @@
 				e` la rete blockchain di coinbase. una rete alternativa di ethereum
 
 
-### MODELLO 2025.08.013
+### 2025.08.13
  #### CAMBIARE TELEFONO SIGNIFICA RIFARE LA VERIFICA DI IDENTITA.
 			Antonino S
 
@@ -5592,7 +5592,20 @@
 			T2
 					T3
 
-### MODELLO 2025.08.01
+
+
+### 2025.08.023
+#### RETE TRON TRC
+		Fausto S
+			10:33
+				Marcello P
+					Ma trc20 non è rete ethereum?
+
+			TRC è rete Tron. ERC è rete ethereum
+
+
+
+### MODELLO 2025.0X.01
 #### TITOLO
 		T1
 			T2

@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"GitHub Flavored Markdown Preview",
 		"Markdown Extended",
 		"Markdown Slideshow",
 		"MarkdownEditing",
@@ -15,6 +16,7 @@
 		"Package Control",
 		"Rust Enhanced",
 		"RustAutoComplete",
+		"SublimeREPL",
 		"Terminal",
 		"Terminus",
 	],

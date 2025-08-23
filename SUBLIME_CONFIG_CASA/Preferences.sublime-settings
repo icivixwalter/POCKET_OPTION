@@ -22,7 +22,7 @@ Cosa succede ora?
 //attenzione se sbagli le preferenze base non viene visualizzato
 //il menu
 {
-    "font_size": 16, 											// Dimensione del carattere dell'editor
+    "font_size": 15, 											// Dimensione del carattere dell'editor
     "tab_size": 3, 												// Numero di spazi equivalenti a un tab
     "translate_tabs_to_spaces": true, 						// Converte i tab in spazi
     "word_wrap": false, 										// Disabilita l'andare a capo automatico

@@ -23,12 +23,14 @@ echo ATTIVA IL COMANDO MULTI APERTURA FILE VALIDO PER TUTTI I PROGETTI SUBLIMETE
 echo.
 
 if "%1"=="" (
-  echo Errore: nessuna scelta specificata. Usa 1, 2, 3, 10, 11 o 12.
-  exit /b 1
+	
+	echo "Errore: nessuna scelta specificata. Usa 1, 2, 3, 10, 11 o 12."
+	
+    exit /b 1
 )
 
 if "%1"=="1" (
-  start "" "c:\Casa\LINGUAGGI\RUST\RUST_TUTORIAL\RUST_TUTORIAL_TONY_CHAN\README_TUTORIAL_RUST.MD"
+  start "" "c:\CASA\LINGUAGGI\RUST\PROGETTI_RUST\TUTORIAL_TONY_CHAN\README_TUTORIAL_RUST.MD"
   goto :EOF
 )
 if "%1"=="2" (

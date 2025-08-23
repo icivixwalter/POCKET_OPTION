@@ -1,70 +1,167 @@
-# FILE                         : Build_ESEGUI_Python.py
-# SI TROVA IN QUESTA PATH      : c:\Users\icivi\AppData\Roaming\Sublime Text\Packages\User\
+# =============================================================================
+# FILE        : Build_ESEGUI_Python.py
+# POSIZIONE   : C:\Users\icivi\AppData\Roaming\Sublime Text\Packages\User\
+# DESCRIZIONE : Plugin di Sublime Text per aprire README o altri file tramite
+#               un file batch, con tracciamento completo delle azioni in un log.
 #
-# FLUSSO LOGICO COMPLETO:
+# FUNZIONAMENTO:
+#   1. Il plugin aggiunge il comando "apri_readme" a Sublime Text.
+#   2. Quando viene eseguito, mostra un menu rapido (quick panel) con varie opzioni.
+#   3. La scelta dell'utente viene passata come parametro a un file .BAT.
+#   4. Il file .BAT apre il file corrispondente usando l'app predefinita di Windows.
+#   5. Tutte le azioni e gli errori vengono salvati sia nella console di Sublime
+#      sia in un file di log con suffisso "_LOG.txt".
 #
-# 1) Il file Build_ESEGUI_DOS.sublime-build è un Build System di Sublime Text
-#    che avvia il comando Python definito in questo file tramite il comando "apri_readme".
-#
-# 2) Questo file definisce la classe ApriReadmeCommand che mostra un menu di opzioni all'utente.
-#    In base alla scelta fatta, esegue il file batch Build_APRI_CMD.BAT, passando il numero della scelta come parametro.
-#
-# 3) Il file Build_APRI_CMD.BAT riceve il parametro numerico (1, 2, 3, 10 o 11) e apre il file README corrispondente
-#    con l'applicazione associata di Windows.
-#
-# Così si realizza un sistema modulare e centralizzato per aprire rapidamente file README da qualsiasi progetto in Sublime Text,
-# mantenendo pulito e semplice il Build System.
+# NOTE:
+#   - Il file di log viene salvato nella stessa cartella di questo script.
+#   - Ogni riga di log ha data e ora, così puoi seguire l'ordine degli eventi.
+# =============================================================================
 
 import sublime
 import sublime_plugin
 import subprocess
 import os
+import datetime
 
-# Definisce un nuovo comando di finestra per Sublime chiamato "apri_readme"
+# === CONFIGURAZIONE FILE DI LOG ===
+SCRIPT_PATH = __file__  # Percorso assoluto di questo script
+LOG_PATH = os.path.splitext(SCRIPT_PATH)[0] + "_LOG.txt"  # Stesso nome ma _LOG.txt
+
+def log_debug(msg):
+    """
+    Scrive un messaggio nella console di Sublime Text e nel file di log.
+    Ogni messaggio è preceduto da un timestamp.
+    """
+    timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    full_msg = f"[{timestamp}] {msg}"
+    print(full_msg)
+    try:
+        with open(LOG_PATH, "a", encoding="utf-8") as f:
+            f.write(full_msg + "\n")
+    except Exception as e:
+        print(f"[ERRORE LOG] {e}")
+
+# =============================================================================
+# CLASSE PRINCIPALE: ApriReadmeCommand
+# =============================================================================
 class ApriReadmeCommand(sublime_plugin.WindowCommand):
+    """
+    Comando personalizzato di Sublime Text.
+    Mostra un menu di scelte e lancia un file batch con la scelta selezionata.
+    """
 
-    # Questo metodo viene eseguito quando il comando viene attivato
+    def __init__(self, window):
+        super().__init__(window)
+        log_debug("Inizializzazione: ApriReadmeCommand istanziata")
+
+    def is_enabled(self):
+        return True
+
+    def is_visible(self):
+        return True
+
     def run(self):
-        
-        print("ApriReadmeCommand eseguito")  # Per debugging
-        
-        # Definisce le opzioni che l'utente vedrà nel menu a scelta rapida che saranno
-        # aperte con il file .bat in quanto passa i parametri al file.bat, puoi aggiunge
-        # altre voci che corrispondono a di file.bat
+        log_debug("Entrato in ApriReadmeCommand.run()")
+
         self.options = [
             "1. Apri README TUTORIAL RUST",
-            "2. Apri README COMANDI VARI",
+            "2. Apri README SUBLIMETEX COMANDI VARI, dos, git sublimetext ecc.",
             "3. Apri TUTORIAL POCKET OPTION",
             "10. Apri file SUBLIME: Build_ESEGUI_DOS.sublime-build",
             "11. Apri file PYTHON: Build_ESEGUI_Python.py",
             "12. Apri file BAT: Build_APRI_CMD.BAT"
         ]
 
-        # Mostra il menu a scelta (quick panel) con le opzioni
-        # Al termine della scelta, chiama il metodo self.on_done
+        log_debug(f"Opzioni mostrate all'utente: {self.options}")
         self.window.show_quick_panel(self.options, self.on_done)
 
-    # Questo metodo viene chiamato quando l'utente fa una scelta
     def on_done(self, index):
-        # Se l'utente preme ESC o annulla, esci senza fare nulla
-        if index == -1:
-            return  # Annullato
+        log_debug(f"Entrato in ApriReadmeCommand.on_done() con index={index}")
 
-        # Specifica il percorso assoluto del file .BAT
-        # Usa os.path.expandvars per essere sicuri che eventuali variabili d'ambiente vengano risolte
+        if index == -1:
+            log_debug("Scelta annullata dall'utente (ESC premuto)")
+            return
+
         bat_path = os.path.expandvars(
             r"C:\Users\icivi\AppData\Roaming\Sublime Text\Packages\User\Build_APRI_CMD.BAT"
         )
+        log_debug(f"Percorso BAT rilevato: {bat_path}")
 
-        # Mappa esplicita tra l'indice (0-based) e il parametro numerico da passare
-        # In questo modo evitiamo ambiguità con scelte come 10 o 11
         valori_reali = ["1", "2", "3", "10", "11", "12"]
         scelta = valori_reali[index]
+        log_debug(f"Parametro passato al BAT: {scelta}")
 
-        # Debug: stampa la scelta effettiva
-        print(f"Scelta effettuata: {scelta}")
+        try:
+            log_debug("Tentativo di avvio del file .BAT...")
+            subprocess.Popen(['cmd', '/c', bat_path, scelta], shell=True)
+            log_debug("File .BAT avviato con successo.")
+        except Exception as e:
+            log_debug(f"Errore nell'esecuzione del .BAT: {e}")
 
-        # Esegue il .BAT passando come argomento la scelta (1, 2, 3, 10 o 11)
-        # 'cmd /c' esegue il comando e chiude il prompt subito dopo
-        # shell=True permette a 'cmd' di interpretare correttamente la stringa
-        subprocess.Popen(['cmd', '/c', bat_path, scelta], shell=True)
+# =============================================================================
+# NUOVE CLASSI AGGIUNTE PER I 3 SOTTOMENU "PARAMETRI SUBLIMETEXT"
+# =============================================================================
+
+class ApriParametriSublimeCommand(sublime_plugin.WindowCommand):
+    """
+    Apre la cartella di configurazione di Sublime Text.
+    Questo comando è collegato al menu: "command": "apri_parametri_sublime"
+    """
+    def run(self):
+        log_debug("Esecuzione ApriParametriSublimeCommand.run()")
+        try:
+            path_config = sublime.packages_path()
+            log_debug(f"Apertura cartella configurazione: {path_config}")
+            subprocess.Popen(f'explorer "{path_config}"')
+        except Exception as e:
+            log_debug(f"Errore apertura cartella configurazione: {e}")
+
+    def is_enabled(self):
+        return True
+
+class VisualizzaCorrenteTxtCommand(sublime_plugin.WindowCommand):
+    """
+    Salva il file corrente come .txt temporaneo e lo apre con l'app di sistema.
+    Collegato a: "command": "visualizza_corrente_txt"
+    """
+    def run(self):
+        log_debug("Esecuzione VisualizzaCorrenteTxtCommand.run()")
+        view = self.window.active_view()
+        if not view or not view.file_name():
+            log_debug("Nessun file aperto per conversione in TXT")
+            return
+        try:
+            src = view.file_name()
+            log_debug(f"File corrente: {src}")
+            subprocess.Popen(f'explorer "{src}"')
+        except Exception as e:
+            log_debug(f"Errore apertura file TXT: {e}")
+
+    def is_enabled(self):
+        return True
+
+class VisualizzaCorrenteMdCommand(sublime_plugin.WindowCommand):
+    """
+    Salva il file corrente come .md temporaneo e lo apre con l'app di sistema.
+    Collegato a: "command": "visualizza_corrente_md"
+    """
+    def run(self):
+        log_debug("Esecuzione VisualizzaCorrenteMdCommand.run()")
+        view = self.window.active_view()
+        if not view or not view.file_name():
+            log_debug("Nessun file aperto per conversione in MD")
+            return
+        try:
+            src = view.file_name()
+            log_debug(f"File corrente: {src}")
+            subprocess.Popen(f'explorer "{src}"')
+        except Exception as e:
+            log_debug(f"Errore apertura file MD: {e}")
+
+    def is_enabled(self):
+        return True
+
+# =============================================================================
+# LOG DI AVVIO PLUGIN
+# =============================================================================
+log_debug("✅ Plugin Build_ESEGUI_Python.py caricato correttamente")
