@@ -5594,7 +5594,7 @@
 
 
 
-### 2025.08.023
+### 2025.08.23
 #### RETE TRON TRC
 		Fausto S
 			10:33
@@ -5603,6 +5603,20 @@
 
 			TRC è rete Tron. ERC è rete ethereum
 
+
+
+### 2025.09.18
+		
+		
+		Fabrizio C
+		
+					Ieri, 20:43
+					Alessio H
+					come faccio per prelevare i soldi con revolut che nel opzioni di prelievo non mi da o Visa o Mastercard ?
+						
+			Prima crea un account Volet.com dopo trasferisci i tuoi soldi li e tra le opzioni seleziona il tipo di carta che preferisci.
+			
+					START "APRI CONTO VOLET.COM" "c:\Casa\GE_CASA\GE_MARINO\BANCA\POCKET_OPTION\PDF\VOLET_COM.pdf"
 
 
 ### MODELLO 2025.0X.01

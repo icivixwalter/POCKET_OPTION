@@ -16,14 +16,423 @@
 	"buffers":
 	[
 		{
-			"file": "/c/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/README_POCKET_OPTION.MD",
+			"file": "/c/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/TUTORIAL_POCKET_OPTION.MD",
 			"settings":
 			{
-				"buffer_size": 3456,
+				"buffer_size": 204311,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			},
 			"undo_stack":
 			[
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAOOjAgAAAAAA5KMCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA46MCAAAAAADjowIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"paste",
+					null,
+					"AQAAAOSjAgAAAAAAcKQCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5KMCAAAAAADkowIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAHCkAgAAAAAAcaQCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcKQCAAAAAABwpAIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"paste",
+					null,
+					"AQAAAOSjAgAAAAAAIqQCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5KMCAAAAAADkowIAAAAAAAAAAAAAAAAA"
+				],
+				[
+					26,
+					1,
+					"right_delete",
+					null,
+					"AQAAAOijAgAAAAAA6KMCAAAAAAAIAAAATU9ERUxMTyA",
+					"AQAAAAAAAAABAAAA8KMCAAAAAADoowIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "09"
+					},
+					"AgAAAO2jAgAAAAAA7qMCAAAAAAAAAAAA7qMCAAAAAADvowIAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7aMCAAAAAADtowIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					2,
+					"right_delete",
+					null,
+					"AgAAAO+jAgAAAAAA76MCAAAAAAABAAAAMO+jAgAAAAAA76MCAAAAAAABAAAAWA",
+					"AQAAAAAAAAABAAAA76MCAAAAAADvowIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": "18"
+					},
+					"AgAAAPCjAgAAAAAA8aMCAAAAAAAAAAAA8aMCAAAAAADyowIAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8KMCAAAAAADwowIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					2,
+					"right_delete",
+					null,
+					"AgAAAPKjAgAAAAAA8qMCAAAAAAABAAAAMPKjAgAAAAAA8qMCAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAA8qMCAAAAAADyowIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAKakAgAAAAAAp6QCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApqQCAAAAAACmpAIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"reindent",
+					null,
+					"AQAAAKekAgAAAAAAqKQCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAp6QCAAAAAACnpAIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAKikAgAAAAAAqqQCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqKQCAAAAAACopAIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"paste",
+					null,
+					"AQAAAKqkAgAAAAAAJqUCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqqQCAAAAAACqpAIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					2,
+					"indent",
+					null,
+					"CAAAACekAgAAAAAAKKQCAAAAAAAAAAAANKQCAAAAAAA1pAIAAAAAAAAAAAA/pAIAAAAAAECkAgAAAAAAAAAAAKqkAgAAAAAAq6QCAAAAAAAAAAAAJ6QCAAAAAAAopAIAAAAAAAAAAAA1pAIAAAAAADakAgAAAAAAAAAAAEGkAgAAAAAAQqQCAAAAAAAAAAAAraQCAAAAAACupAIAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJqQCAAAAAACopAIAAAAAAAAAAAAAUHFA"
+				],
+				[
+					44,
+					1,
+					"indent",
+					null,
+					"BAAAACekAgAAAAAAKKQCAAAAAAAAAAAANqQCAAAAAAA3pAIAAAAAAAAAAABDpAIAAAAAAESkAgAAAAAAAAAAALCkAgAAAAAAsaQCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJqQCAAAAAACwpAIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "\n\t"
+					},
+					"AgAAADKlAgAAAAAANKUCAAAAAAAAAAAANKUCAAAAAAA1pQIAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMqUCAAAAAAAypQIAAAAAAP///////+9/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAADWlAgAAAAAANqUCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANaUCAAAAAAA1pQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": "sTA"
+					},
+					"AwAAADalAgAAAAAAN6UCAAAAAAAAAAAAN6UCAAAAAAA4pQIAAAAAAAAAAAA4pQIAAAAAADmlAgAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANqUCAAAAAAA2pQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					3,
+					"left_delete",
+					null,
+					"AwAAADilAgAAAAAAOKUCAAAAAAABAAAAQTelAgAAAAAAN6UCAAAAAAABAAAAVDalAgAAAAAANqUCAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAOaUCAAAAAAA5pQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAADalAgAAAAAAN6UCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANqUCAAAAAAA2pQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"left_delete",
+					null,
+					"AQAAADalAgAAAAAANqUCAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAN6UCAAAAAAA3pQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": "START"
+					},
+					"BQAAADalAgAAAAAAN6UCAAAAAAAAAAAAN6UCAAAAAAA4pQIAAAAAAAAAAAA4pQIAAAAAADmlAgAAAAAAAAAAADmlAgAAAAAAOqUCAAAAAAAAAAAAOqUCAAAAAAA7pQIAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANqUCAAAAAAA2pQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADulAgAAAAAAPKUCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAO6UCAAAAAAA7pQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAADylAgAAAAAAPqUCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPKUCAAAAAAA8pQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "API"
+					},
+					"AwAAAD2lAgAAAAAAPqUCAAAAAAAAAAAAPqUCAAAAAAA/pQIAAAAAAAAAAAA/pQIAAAAAAEClAgAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPaUCAAAAAAA9pQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEClAgAAAAAAQaUCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQKUCAAAAAABApQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEClAgAAAAAAQKUCAAAAAAABAAAAID+lAgAAAAAAP6UCAAAAAAABAAAASQ",
+					"AQAAAAAAAAABAAAAQaUCAAAAAABBpQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "RI"
+					},
+					"AgAAAD+lAgAAAAAAQKUCAAAAAAAAAAAAQKUCAAAAAABBpQIAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAP6UCAAAAAAA/pQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": " CONTO"
+					},
+					"BgAAAEGlAgAAAAAAQqUCAAAAAAAAAAAAQqUCAAAAAABDpQIAAAAAAAAAAABDpQIAAAAAAESlAgAAAAAAAAAAAESlAgAAAAAARaUCAAAAAAAAAAAARaUCAAAAAABGpQIAAAAAAAAAAABGpQIAAAAAAEelAgAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQaUCAAAAAABBpQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": " VOLET."
+					},
+					"BwAAAEelAgAAAAAASKUCAAAAAAAAAAAASKUCAAAAAABJpQIAAAAAAAAAAABJpQIAAAAAAEqlAgAAAAAAAAAAAEqlAgAAAAAAS6UCAAAAAAAAAAAAS6UCAAAAAABMpQIAAAAAAAAAAABMpQIAAAAAAE2lAgAAAAAAAAAAAE2lAgAAAAAATqUCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAR6UCAAAAAABHpQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": "COM"
+					},
+					"AwAAAE6lAgAAAAAAT6UCAAAAAAAAAAAAT6UCAAAAAABQpQIAAAAAAAAAAABQpQIAAAAAAFGlAgAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATqUCAAAAAABOpQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFKlAgAAAAAAU6UCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUqUCAAAAAABSpQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"paste",
+					null,
+					"AQAAAFOlAgAAAAAAhaUCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAU6UCAAAAAABTpQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"paste",
+					null,
+					"AQAAAIWlAgAAAAAAkqUCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhaUCAAAAAACFpQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "\""
+					},
+					"AQAAAJKlAgAAAAAAk6UCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkqUCAAAAAACSpQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "\""
+					},
+					"AQAAAFOlAgAAAAAAVKUCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAU6UCAAAAAABTpQIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAADKlAgAAAAAANKUCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMqUCAAAAAAAypQIAAAAAAAAAAAAAIHxA"
+				],
+				[
+					94,
+					1,
+					"cut",
+					null,
+					"AQAAAOSjAgAAAAAA5KMCAAAAAAAOAAAAIyMjIDIwMjUuMDkuMTg",
+					"AQAAAAAAAAABAAAA8qMCAAAAAADkowIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"paste",
+					null,
+					"AQAAAAmkAgAAAAAAF6QCAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAACaQCAAAAAAAKpAIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					2,
+					"mde_indent_list_item",
+					null,
+					"FgAAADSlAgAAAAAAOKUCAAAAAAADAAAACQkJMqUCAAAAAAA0pQIAAAAAAAEAAAAJtKQCAAAAAAC2pAIAAAAAAAEAAAAJr6QCAAAAAAC0pAIAAAAAAAQAAAAJCQkJQqQCAAAAAABGpAIAAAAAAAMAAAAJCQk1pAIAAAAAADmkAgAAAAAAAwAAAAkJCSakAgAAAAAAKqQCAAAAAAADAAAACQkJJaQCAAAAAAAmpAIAAAAAAAAAAAAapAIAAAAAABukAgAAAAAAAAAAABmkAgAAAAAAGqQCAAAAAAAAAAAAGKQCAAAAAAAZpAIAAAAAAAAAAAA+pQIAAAAAAEOlAgAAAAAABAAAAAkJCQk7pQIAAAAAAD6lAgAAAAAAAgAAAAkJvKQCAAAAAAC/pAIAAAAAAAIAAAAJCbakAgAAAAAAvKQCAAAAAAAFAAAACQkJCQlIpAIAAAAAAE2kAgAAAAAABAAAAAkJCQk6pAIAAAAAAD+kAgAAAAAABAAAAAkJCQkqpAIAAAAAAC+kAgAAAAAABAAAAAkJCQkopAIAAAAAACqkAgAAAAAAAQAAAAkcpAIAAAAAAB6kAgAAAAAAAQAAAAkapAIAAAAAABykAgAAAAAAAQAAAAkYpAIAAAAAABqkAgAAAAAAAQAAAAk",
+					"AQAAAAAAAAABAAAAGKQCAAAAAACWpQIAAAAAAAAAAAAAQGRA"
+				],
+				[
+					105,
+					1,
+					"cut",
+					null,
+					"AQAAAAmkAgAAAAAACaQCAAAAAACiAQAAIyMjIDIwMjUuMDkuMTgKCQkKCQkKCQlGYWJyaXppbyBDCgkJCgkJCQkJSWVyaSwgMjA6NDMKCQkJCQlBbGVzc2lvIEgKCQkJCQljb21lIGZhY2NpbyBwZXIgcHJlbGV2YXJlIGkgc29sZGkgY29uIHJldm9sdXQgY2hlIG5lbCBvcHppb25pIGRpIHByZWxpZXZvIG5vbiBtaSBkYSBvIFZpc2EgbyBNYXN0ZXJjYXJkID8KCQkJCQkJCgkJCVByaW1hIGNyZWEgdW4gYWNjb3VudCBWb2xldC5jb20gZG9wbyB0cmFzZmVyaXNjaSBpIHR1b2kgc29sZGkgbGkgZSB0cmEgbGUgb3B6aW9uaSBzZWxlemlvbmEgaWwgdGlwbyBkaSBjYXJ0YSBjaGUgcHJlZmVyaXNjaS4KCQkJCgkJCQkJU1RBUlQgIkFQUkkgQ09OVE8gVk9MRVQuQ09NIiAiYzpcQ2FzYVxHRV9DQVNBXEdFX01BUklOT1xCQU5DQVxQT0NLRVRfT1BUSU9OXFBERlxWT0xFVF9DT00ucGRmIg",
+					"AQAAAAAAAAABAAAAq6UCAAAAAAAJpAIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"right_delete",
+					null,
+					"AQAAAFujAgAAAAAAW6MCAAAAAAABAAAAMA",
+					"AQAAAAAAAAABAAAAW6MCAAAAAABbowIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAOKjAgAAAAAA46MCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4qMCAAAAAADiowIAAAAAAP///////+9/"
+				],
+				[
+					113,
+					1,
+					"paste",
+					null,
+					"AQAAAOOjAgAAAAAAhaUCAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA46MCAAAAAADjowIAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"right_delete",
+					null,
+					"AQAAAIalAgAAAAAAhqUCAAAAAAAlAAAACiMjIyMgVElUT0xPCgkJVDEKCQkJVDIKCQkJCQlUMwoKCgoKCg",
+					"AQAAAAAAAAABAAAAhqUCAAAAAACrpQIAAAAAAAAAAAAAAPC/"
+				]
 			]
 		}
 	],
@@ -323,7 +732,7 @@
 	],
 	"find":
 	{
-		"height": 32.0
+		"height": 34.4
 	},
 	"find_in_files":
 	{
@@ -491,30 +900,32 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/c/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/README_POCKET_OPTION.MD",
+					"file": "/c/CASA/GE_CASA/GE_MARINO/BANCA/POCKET_OPTION/TUTORIAL_POCKET_OPTION.MD",
 					"selected": true,
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3456,
+						"buffer_size": 204311,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								386,
-								452
+								173446,
+								173446
 							]
 						],
 						"settings":
 						{
+							"mde.folding.target_level": 3,
+							"mde.match_heading_hashes": false,
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
 							"tab_size": 3,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 34367.2,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -526,7 +937,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 32.0
+		"height": 34.4
 	},
 	"input":
 	{
@@ -584,7 +995,7 @@
 	"project": "POCKET_OPTION_Project.sublime-project",
 	"replace":
 	{
-		"height": 60.8
+		"height": 65.6
 	},
 	"save_all_on_build": false,
 	"select_file":
@@ -626,7 +1037,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 367.0,
+	"side_bar_width": 183.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
