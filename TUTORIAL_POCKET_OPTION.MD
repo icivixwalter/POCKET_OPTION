@@ -5482,98 +5482,15 @@
 
 					No, magari potranno chiederti quella del selfie più in là
 
-
-
-### 2025.08.07
-#### DEMO GUADAGNI 98 SU CENTO IN REALE 10 SU 100
+### 2025.08.07 DIFFERENZA TRA DEMO E REALE (SOLO 10% POSITIVE)
+	#### DEMO GUADAGNI 98 SU CENTO IN REALE 10 SU 100
 		Vincenzo T
 			Ieri, 22:27
 				Mi sa un pò di fasullo questa piattaforma a parte tutti i problemi per poter ritirare anche con le strategie
 				in demo ne entrano 98 su 100 in real 10 su 100 impressionante
 
-#### REGOLE PIATTAFORMA RIGIDE
-		Tatiana C
-					01:37
-					1) La piattaforma non è truffaldina: ci sono termini e condizioni molto chiare, il punto è che in pochi si soffermano a leggere e capire.
-					2) Non è regolamentata: a voi la conclusione di quello che può comportare.
-					3) Le opzioni binarie non sono il gioco del lotto, rischiate di perdere tantissimo. O dedicate tempo a studiare bene i fondamentali del trading oppure lasciate stare.
-					4) Nonostante a volte fa penare, i prelievi arrivano.
-					5) Non utilizzate la carta e NON create account multipli
-
-#### PRELIEVO USDC ED ETHERUN ATTENZIONE USARE LA STESSA RETE ALTRIMENTI PERDI I SOLDI
-		Paolo G
-
-				14:51
-					salve qualcuno mi sa dire se per il prelievo USDC va bene la rete Ethereum ?
-
-
-		Paolo G
-
-				14:51
-				salve qualcuno mi sa dire se per il prelievo USDC va bene la rete Ethereum ?
-
-#### MEGLIO LITECOIN E FARE DOPPIO PASSAGGIO su WALLET TIPO BYBIT/CRITPO/BINANCE
-		Daniela T
-				15:07
-				io ti consiglio litecoin
-
-		Daniela T
-
-				15:09
-				poi non potete prelevare da pocket direttamente a revolut perche i fondi restano sospesi,ma dovete fare prima
-				il passaggio da wallet tipo bybit o crypto.com oppure binance o metamask
-
-
-		Paolo G
-
-					15:15
-					Ti ringrazio purtroppo io sono un principiante
-
-
-
-		Paolo G
-
-				15:26
-				e poi per convertire in euro si può fare direttamente da crypto.com ?
-
-
-#### CRIPTO.COM HA CARTA DI PROPRIETA (COLORE BLU GRATUITA) CHE FUNZIONA ANCHE PER GLI SPORTELLI ATM
-#### E PER I PAGAMENTO ELETTRONICI NON E' NECESSARIO CONVERTIRE LE CRIPTO
-		Daniela T
-
-			15:43
-			crypto.com ha una sua carta di proprieta che puoi ordinare direttamente
-			dall applicazione,e funziona sia per i pagamenti elettronici che agli sportelli atm
-
-		Daniela T
-
-			15:44
-			non serve covertirli,lo fanno loro al momento che effettui una transazione con la carta
-
-		Daniela T
-
-				16:50
-				quella gratuita,e di colore blu
-
-
-
-		Daniela T
-
-				16:51
-				per ritirare in litecoin come gia ti ha risposto Fausto devi cercare LTC simbolo corrispondente a litecoin
-
-
-#### METODO DI PAGAMENTO BASE NETWORK USDC" = RETE ALTERNATIVA DI ETHERERUM
-		Fausto S
-				06 Aug, 17:49
-				Sandro M
-				sapete cose come metodo di pagamento il " Base Network USDC"?
-
-				e` la rete blockchain di coinbase. una rete alternativa di ethereum
-
-
-### 2025.08.13
- #### CAMBIARE TELEFONO SIGNIFICA RIFARE LA VERIFICA DI IDENTITA.
+### 2025.08.13 CAMBIARE TELEFONO SIGNIFICA RIFARE LA VERIFICA DI IDENTITA.
+ #### RIFARE LA VERIFICA DI IDENTITA.
 			Antonino S
 
 					19:39
@@ -5592,10 +5509,8 @@
 			T2
 					T3
 
-
-
-### 2025.08.23
-#### RETE TRON TRC
+### 2025.08.23 TRON O TRC
+ #### RETE TRON TRC
 		Fausto S
 			10:33
 				Marcello P
@@ -5603,9 +5518,7 @@
 
 			TRC è rete Tron. ERC è rete ethereum
 
-
-
-### 2025.09.18
+### 2025.09.18 NELLE OPZIONI DI PRELIEVO NO VISA O MASTERCARD - CREA PRIMA UN VALLET
 		
 		
 		Fabrizio C
@@ -5619,19 +5532,106 @@
 					START "APRI CONTO VOLET.COM" "c:\Casa\GE_CASA\GE_MARINO\BANCA\POCKET_OPTION\PDF\VOLET_COM.pdf"
 
 
-### MODELLO 2025.0X.01
-#### TITOLO
+
+
+### MODELLO 2025.10.16
+Francesco D
+
+	16 Oct, 14:00
+		Antonino S
+		Si i 13k non la considero neanche una perdita perché alla fine non erano soldi miei ma erano una vincita. mentre gli 8k si quelli vengono dal mio stipendio che dal 2014 ad oggi ho accumulato questa perdita. E vedendo alcuni profili c'è gente che ha perso ben oltre i 100.000€ ancora mi ritengo fortunato 8k sono recuperabili
+
+		Wow che tipo di trading fai se posso chiedere, io su questa piattaforma sto principalmente usando il trading rapido
+
+		TODO: DA FINIRE***
+
+### MODELLO 2025.0X.01 TITOLO.,,
+	#### TITOLO
 		T1
 			T2
 					T3
 
 
 
+#### REGOLE PIATTAFORMA RIGIDE
+			Tatiana C
+						01:37
+						1) La piattaforma non è truffaldina: ci sono termini e condizioni molto chiare, il punto è che in pochi si soffermano a leggere e capire.
+						2) Non è regolamentata: a voi la conclusione di quello che può comportare.
+						3) Le opzioni binarie non sono il gioco del lotto, rischiate di perdere tantissimo. O dedicate tempo a studiare bene i fondamentali del trading oppure lasciate stare.
+						4) Nonostante a volte fa penare, i prelievi arrivano.
+						5) Non utilizzate la carta e NON create account multipli
+
+	#### PRELIEVO USDC ED ETHERUN ATTENZIONE USARE LA STESSA RETE ALTRIMENTI PERDI I SOLDI
+			Paolo G
+
+					14:51
+						salve qualcuno mi sa dire se per il prelievo USDC va bene la rete Ethereum ?
+
+
+			Paolo G
+
+					14:51
+					salve qualcuno mi sa dire se per il prelievo USDC va bene la rete Ethereum ?
+
+	#### MEGLIO LITECOIN E FARE DOPPIO PASSAGGIO su WALLET TIPO BYBIT/CRITPO/BINANCE
+			Daniela T
+					15:07
+					io ti consiglio litecoin
+
+			Daniela T
+
+					15:09
+					poi non potete prelevare da pocket direttamente a revolut perche i fondi restano sospesi,ma dovete fare prima
+					il passaggio da wallet tipo bybit o crypto.com oppure binance o metamask
+
+
+			Paolo G
+
+						15:15
+						Ti ringrazio purtroppo io sono un principiante
 
 
 
+			Paolo G
+
+					15:26
+					e poi per convertire in euro si può fare direttamente da crypto.com ?
 
 
+	#### CRIPTO.COM HA CARTA DI PROPRIETA (COLORE BLU GRATUITA) CHE FUNZIONA ANCHE PER GLI SPORTELLI ATM
+	#### E PER I PAGAMENTO ELETTRONICI NON E' NECESSARIO CONVERTIRE LE CRIPTO
+			Daniela T
+
+				15:43
+				crypto.com ha una sua carta di proprieta che puoi ordinare direttamente
+				dall applicazione,e funziona sia per i pagamenti elettronici che agli sportelli atm
+
+			Daniela T
+
+				15:44
+				non serve covertirli,lo fanno loro al momento che effettui una transazione con la carta
+
+			Daniela T
+
+					16:50
+					quella gratuita,e di colore blu
+
+
+
+			Daniela T
+
+					16:51
+					per ritirare in litecoin come gia ti ha risposto Fausto devi cercare LTC simbolo corrispondente a litecoin
+
+
+	#### METODO DI PAGAMENTO BASE NETWORK USDC" = RETE ALTERNATIVA DI ETHERERUM
+			Fausto S
+					06 Aug, 17:49
+					Sandro M
+					sapete cose come metodo di pagamento il " Base Network USDC"?
+
+					e` la rete blockchain di coinbase. una rete alternativa di ethereum
 
 ### CONTRATTO POLITICA E CONDIZIONI
 		Contratto di offerta pubblica
