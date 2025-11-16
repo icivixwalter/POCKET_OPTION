@@ -5519,8 +5519,6 @@
 			TRC è rete Tron. ERC è rete ethereum
 
 ### 2025.09.18 NELLE OPZIONI DI PRELIEVO NO VISA O MASTERCARD - CREA PRIMA UN VALLET
-		
-		
 		Fabrizio C
 		
 					Ieri, 20:43
@@ -5531,25 +5529,312 @@
 			
 					START "APRI CONTO VOLET.COM" "c:\Casa\GE_CASA\GE_MARINO\BANCA\POCKET_OPTION\PDF\VOLET_COM.pdf"
 
+### 2025.11.16 NESSUNA VERIFICA DELLA CARTA NESSUN PRELIEVO
+	13 Nov, 23:56
+			Elena B
+			Ciao a tutti! Ho problema per verificare la carta, e non c'è altri opzioni per prelievo, come si fa prelevare, volevo chiudere il conto, e aprire un altro?
+			Ciao! Se non riesci a verificare la carta e non hai altri metodi disponibili per il prelievo su Pocket Option, purtroppo non sarà possibile ritirare i fondi finché non collegherai un metodo di pagamento verificato.
+			Ecco come puoi procedere: contatta l’assistenza di Pocket Option e richiedi la verifica manuale della carta oppure la sua rimozione. In alternativa, puoi optare per la chiusura del conto, ma solo dopo che sarà stato sbloccato un metodo valido per prelevare i fondi residui.
+			Finché la carta non viene verificata, non potrai aprire un nuovo conto né trasferire il denaro.
+
+### 2025.11.16 CARTA REVOLUT (SENZA NOMINATIVO) LA VERIFICA - CON SCREENSHOT
+	Klaudia vittoria L
+
+		12 Nov, 16:08
+			Anna chiara S
+					ma se voglio mettere una carta tipo revolut? come faccio?
+
+					Accedi a Pocket Option.
+					Naviga alla sezione “Finanza” → “Prelievo”.
+					Scegli come metodo “Carta bancaria”.
+					Inserisci i dati della tua carta Revolut: numero, data di scadenza e codice CVC.
+					Se è la prima volta che usi questa carta, potrebbe comparire un messaggio tipo “verifica metodo di pagamento”. In questo caso, Pocket Option ti richiederà una prova che la carta sia effettivamente di tua proprietà (vedi passaggio successivo).
+					🔹 3. Dimostrazione della proprietà della carta
+					Le carte Revolut spesso non riportano il nome del titolare stampato sopra. Per questo motivo, dovrai fornire una prova supplementare:
+					Apri l’app Revolut.
+					Cattura uno screenshot in cui siano visibili:
+					Il tuo nome e cognome (nella sezione del profilo o nella schermata principale).
+					Gli ultimi quattro numeri della carta o l’IBAN del tuo conto Revolut.
+					Il logo Revolut.
+					Carica questo screenshot su Pocket Option come prova valida del metodo di pagamento.
+					🔹 4. Procedura per il prelievo
+					Torna alla sezione “Prelievo”.
+					Seleziona la carta Revolut.
+					Inserisci l’importo da ritirare.
+					Conferma l’operazione.
+					⏱ I fondi vengono solitamente trasferiti entro 24-48 ore lavorative, ma in alcuni casi potrebbero essere necessari fino a 5 giorni.
+
+### 2025.11.16 TRASFERIRE DENARO CON RETE TRON  - ATTENZIONE PERICOLO PERDITA FONDI
+	Anna chiara S
+		12 Nov, 11:17
+		Klaudia vittoria L
+			Allora
+				Prima di procedere, verifica che il tuo account su Pocket Option sia completamente convalidato. Questo implica aver caricato i documenti richiesti, ovvero documento d’identità, prova di residenza e metodo di pagamento utilizzato. Inoltre, assicurati che i fondi da prelevare non siano collegati a bonus o operazioni soggette a restrizioni.
+				Accedi quindi al tuo profilo su Pocket Option, vai alla sezione “Finanza” → “Prelievo (Withdraw)” e seleziona il metodo di ricezione preferito. Se desideri trasferire il denaro su Binance, opta per una criptovaluta compatibile come USDT, BTC o ETH.
+				Ad esempio, per ricevere USDT, su Pocket Option scegli questa valuta (Tether) e specifica la rete blockchain tra quelle disponibili: TRC20, ERC20 o BEP20. È consigliabile selezionare TRC20 (Rete Tron), in quanto offre maggiore velocità e costi di commissione ridotti.
+				Successivamente, accedi a Binance tramite l’app o il sito web, vai su Portafoglio → Deposita → Criptovaluta → USDT (o altra criptovaluta scelta), seleziona la stessa rete (ad esempio TRC20) e copia l’indirizzo del tuo portafoglio Binance.
+				Rientra su Pocket Option, incolla l’indirizzo copiato, indica l’importo da prelevare e conferma l’operazione. Generalmente, il tempo di elaborazione per i prelievi su Pocket Option varia tra 1 e 3 ore lavorative (in alcuni casi fino a 24 ore), dopodiché il trasferimento tramite rete crypto viene completato in pochi minuti.
+				È fondamentale controllare che la rete selezionata sia identica su entrambe le piattaforme per evitare potenziali perdite dei fondi.
+
+### 2025.11.16 EMAIL A POCKET OPTION SU CRITICITA DA RISOLVERE RICHIESTA INFORMAZIONI - E RISPOSTE STAFF -
+	email walter
+		In data 2025.07.21 email ho inviato al vostro supporto questa email:
+		"Si ci sono piccole discrepanze nella registrazione preparo una email esplicativa con dei punti critici e poi Ve la invio all'interno di questa chat oppure a mezzo email. Lo scopo è quello di avviare un corretto procedimento di registrazione, verifica documenti e versamento grazie ed a presto. Wr "
+
+		facendo seguito alla vostra risposta nella stessa data avete risposto :
+
+		"Support Service
+		21 Jul, 14:41
+		Grazie per averci tenuti informati. Il tuo approccio proattivo aiuta a garantire che tutto venga elaborato correttamente. Quando sei pronto, per favore condividi i dettagli qui o invia la tua email, e affronteremo ogni punto critico per guidarti attraverso la registrazione, la verifica dei documenti e il processo di pagamento. Se hai bisogno di ulteriore assistenza o hai domande lungo il percorso, non esitare a contattarci. Buon trading!"
+
+		Con la presente porto a conoscenza del vostra stafF le discrepanze che ho potuto sintetizzare nelle chat in generale
+		e che secondo me possono portare al blocco dei prelievi o altro se non ho la giusta guida per evitare errori FORMALI:
+
+		DISCREPANZE DA RISOLVERE
+			01) CRITICITA - Email di registrazione
+				 	sono iscritto su tre piattaforme email, di cui una attiva con pocket option:
+				 		icivix@tiscali.it
+			 		su questa registrazione base la prima criticita è dovuta al fatto che non posso
+			 		cambiare in fase di registrazione non posso cambiare 3 CAMPI SU 5 in quanto blocati:
+			 		Nome *	wr
+					Cognome *	rss
+					Email	icivix@tiscali.it Verificato
+					Telefono	3703566604
+					Data di nascita *	1965-12-28
+
+					Il nome il cognome e la data di nascita. Essendo bloccati non posso correggerli se vado avanti con
+					la verifia completa, per cui mi chiedo se, dovrei inserire una nuova posizione con altra e-mail perdendo
+					il conto demo oppure potete voi sbloccare i tre campi interesati? In caso contraio la miA verifica no va a buon fine perche tali dati non coincidono con i documenti di riconoscimento che vi devo trasmettere.
+					Solo il telefono e la email sono a posto.
+
+			02) CRITICITA - Tipo di piattaforma usata per l'email.
+				per voi tiscali.it va bene oppure ci sono problemi di verifica? Nelle chat o potuto capire che è meglio registrarsi con gmail piuttosto con altre in quanto ci sono  problemi per la verifica della e-mail con piattoforme tipo Alice.it
+				tim.it ed altro (DUBITO PER TISCALI.IT). Cosa ne pensate va bene  l'utilizzo dell'email di TISCALI	di - icivix@tiscali.it 	oppure volete un nuova registrazioene per essere piu sicuri:
+					  icivixwalter@gmail.com
+			  In questo caso perderò il conto DEMO.
+
+
+		  03) CRITICITA - IDENTIFICAZIONE DELLA PERSONA -
+		  		Per identifica il sottoscritto avete bisogno del codice fiscale oltre al documento
+		  		di intentita ?
+		  		Faccio questa domanda perche se associate il conto al telefono oppure alla
+		  		email certificata la persona non sarà riconoscibile una volta perso il numero del telefono oppure se per qualsiasi motivo la piattaforma chiude l'indirizzo email. La conseguenza è la perdita del conto attivo e non pi recuperabile.
+		  		E' importante sapere se il conto viene collegato al numero di telefono ed alla e-mail
+		  		oppure se la persona è riconosciuta dal documento di identità e codice ficale quindi associato al conto Pocket Option?
+		  		E quali sono le attività che si possono fare per recuperare un conto attivo con questi problemi?
+
+	  		04) CRITICITA - PROVA DI RESIDENZA
+	  			La residenza del mio documento è posiziona in un comue fuori Roma, ma io vivo domiciliato a Marino. La prova di residenza inoltre puo essere data con una bolletta
+	  			telefonica, ma nel mio caso RIPORTA IL DOMICILIO e NON LA RESIDENZA. Questa discrepanza tra INDIRIZZO DI RESIDENZA (Paese fuori Roma) e UTENZA DOMICILIATA A ROMA puo creare problemi al vostro staf, bloccandomi il conto. L'alternativa dovrebbe essere :
+	  					- accettare la bolletta telefonica con il mio nome e domicilio in quanto dichiarato in anticipo;
+	  					- oppure vi devo inviare un CERTIFICATO DI RESIDENZA del comune indicato nella
+	  					  carta di identita; ma a vostra richiesta per essere sicuro che il documento è quello che voi richiedete.
+
+		  05) CRITICITA - VERSAMENTI SU POCKET OPTION PROVA DEI VERSAMENTI
+		  		Quando effettuero i versamenti sul conto di POCKET OPTION ho intenzione di utilizzare
+		  		3 carte a me intestate.
+		  		Le prime due sono:
+		  			- CARTA FINECO DEBIT per un primo versamento in euro (CARTA DI DEBITO);
+		  			- CARTA FINECO CREDIT  che è ANCHE CARTA DI CREDITO per un un secondo versamento in euro;
+		  				I primi due versamenti vengono eseguiti in euro con tali carte in quanto hanno entrambi il MIO NOME SULLA CARTA per cui sarà piu facile identifiare lo scrivente e dare la prova dei versamento.
+		  				Ma le due carte valgono sono 	per i versamenti in euro E NON POSSONO ESSERE USATE PER IL PRELIEVI perche occorre prelevare il CRIPTO e di conseguenza dovrò utilizzare la TERZA CARTA DI UNA VALLET SPECIFICO com di seguito indicata.
+
+	  				- CARTA ANONIMA E VIRTUALE VOLET - sara il TERZO VERSAMENTO  che sara effettuato con una CRIPTO MONETA  e che
+		  				dovrà	essere utilizzata per i PRELIEVI IN CRIPTO.
+		  				Il PROBLEMA PER QUESTA CARTA e' che è ANOMINA e non ha i mie dati
+		  				riportati su di essa e sopratutto VIRTUALE. L'unica possibilita per DARE LA PROVA DEL VERSAMENTO IN CRIPTO
+		  				è quello di inviarvi lo SCREENSHOT del uscita contabilizzata in volet con i mie dati visibili.
+		  				Per voi va bene oppure ci sono altri metodi di riconoscimento per le CARTE VIRTUALI??
+
+	  				 	Inoltre per tutte e tre le carte ci sono criticita per l'estratto conto di cui al successivo punto.
+
+		  06) CRITICITA - ESTRATTO CONTO  SOLO TRIMESTRALE -
+
+		  		In tutti i casi sopra riportati al punto 5) l'estratto conto ha dei problemi:
+		  			- FINECO SOLO VERSAMENTI IN EURO - l'estratto conto è SOLO TRIMESTRALE per cui se il versamento sul conto POCKET
+			  			OPTION avviene il 1/12/2025 SOLO DOPO 3 MESI ho l'estratto conto che riporta l'uscita in una file in .pdf. PUO
+			  			ESSERE ALLORA CONSIDERATO DAL VOSTRO STAF VETUSTO e quindi non ATTENDIBILE?? L'altra possibilita è lo screeshot in formatoimmagine o pdf.
+	  			- VOLET - VERSAMENTO E PRELIEVO  IN CRIPTO
+		  			  	in volet saranno effettuati versamenti in CRIPTO  e quindi PRELIEVI IN CRIPTO ed anche qui il problme dell'estratto conto si ripropone. La prova di vesamento o prelievo immediate è solo con lo screen shot?
+		  			  	Per l'estratto conto devo ancora verficare se esiste in VOLET.
+
+			  	Quindi Vi richiedo delucidazioni su questi punti appunto per evitare problemi di verfica con i versamenti e con i prelievi dato un carta è virtuale (VOLET) e gli estratti CONTO SONO TRIMESTRALI per le altre due.
+
+		  	07) PROATTIVITA
+		  		per evitare blocchi o sospensioni del conto adottero un comportamento proattivo, e cioè per ogni versamento o
+		  		richiesta di prelievo potrei anticipare volontariamente la VERIFICA CON FOTO + DOCUMENTO + CARTA CON SCRITTA VERIFICA come da voi richiesto ma devo avere rassicurazioni se questi passi sono giusti oppure ci sono altri elementi
+		  		non conosciuti dalla mia persona e comunque necessari dalla vostra sicurazza.
+		  		Inoltre gradirei avere chiarezza se il conto acceso sara collegato al MIO CODICE FISCALE  + CELLULARE  + EMAIL VERIFICATA in modo da poter recupeare il conto se decadono il cellulare o l'email oppure è legato sono AL CELLULARE ED ALLA EMAIL per cui si corre questo pericolo?
+
+		  		Grazie della collaborazione
+		  		WR
+		wr r
+			19:12
+			Oggetto: Richiesta chiarimenti e correzioni dati per corretta procedura di registrazione e verifica conto
+			Gentile Supporto Pocket Option,
+			faccio seguito alla mia comunicazione del 21/07/2025, nella quale vi avevo anticipato l’intenzione di inviare un riepilogo completo delle criticità riscontrate durante la procedura di registrazione. Nella stessa data avete cortesemente risposto invitandomi a fornirvi maggiori dettagli per procedere correttamente con la verifica dell’account:
+			LA MIA EMAIL: In data 2025.07.21
+			"Si ci sono piccole discrepanze nella registrazione preparo una email esplicativa con dei punti critici e poi Ve la invio all'interno di questa chat oppure a mezzo email. Lo scopo è quello di avviare un corretto procedimento di registrazione, verifica documenti e versamento grazie ed a presto. Wr "
+			LA VOSTRA RISPOSTA:
+			"Support Service
+			21 Jul, 14:41
+			Grazie per averci tenuti informati. Il tuo approccio proattivo aiuta a garantire che tutto venga elaborato correttamente. Quando sei pronto, per favore condividi i dettagli qui o invia la tua email, e affronteremo ogni punto critico per guidarti attraverso la registrazione, la verifica dei documenti e il processo di pagamento. Se hai bisogno di ulteriore assistenza o hai domande lungo il percorso, non esitare a contattarci. Buon trading!"
+			Con la presente desidero quindi riepilogare tutte le discrepanze riscontrate, al fine di evitare futuri problemi di verifica, blocchi dei prelievi o altre complicazioni legate a dati non corretti o procedure non chiare.
+			1) Dati personali bloccati in fase di registrazione
+			Attualmente l’account risulta registrato con la seguente email: icivix@tiscali.it
+			Ho rilevato che tre campi fondamentali risultano bloccati e non modificabili:
+			Nome
+			Cognome
+			Data di nascita
+			Poiché tali dati non corrispondono ai miei documenti ufficiali, la verifica potrebbe non andare a buon fine.
+			Domanda:
+			È possibile sbloccare questi campi e correggere i dati, oppure devo necessariamente registrare un nuovo profilo con una nuova email, perdendo però il conto demo attuale?
+			2) Affidabilità dell’email utilizzata
+			Desidero sapere se l’indirizzo @tiscali.it è considerato idoneo per le vostre procedure di verifica.
+			Alcuni utenti in chat hanno segnalato problemi con email di provider come alice.it / tim.it.
+			Domanda:
+			È consigliabile mantenere l’attuale indirizzo email (icivix@tiscali.it)
+			oppure è preferibile crearne uno nuovo (es. icivixwalter@gmail.com)
+			per garantire una verifica più affidabile?
+			3) Identificazione personale – codice fiscale e recupero account
+			Vorrei sapere se, oltre al documento d’identità, richiedete anche il codice fiscale
+			per identificare in modo certo la persona titolare del conto.
+			Inoltre, pongo le seguenti domande per evitare rischi in futuro:
+			Il conto è collegato solo alla email e al numero di telefono?
+			Oppure viene collegato anche ai dati anagrafici (documento + codice fiscale)?
+			Quali procedure sono possibili per il recupero dell’account in caso di perdita del numero telefonico o perdita dell’email?
+			4) Prova di residenza – differenza tra residenza e domicilio
+			La mia carta d’identità riporta una residenza fuori Roma, mentre io vivo domiciliato a Marino.
+			Le bollette telefoniche intestate a mio nome riportano solo il domicilio, non la residenza.
+			Domanda:
+			Accettate la bolletta con indirizzo di domicilio come valida prova di residenza, oppure devo richiedere un certificato di residenza al comune indicato nel documento?
+			5) Modalità di versamento e metodi di pagamento
+			Desidero utilizzare tre carte diverse:
+			Fineco Debit (versamento in euro)
+			Fineco Credit (versamento in euro)
+			Carta Virtuale Volet (crypto) – da utilizzare sia per un versamento in criptovaluta sia per i futuri prelievi in crypto.
+			Le prime due carte sono nominali, mentre la carta Volet è virtuale e non riporta i miei dati.
+			Domanda:
+			Per la carta Volet, è sufficiente come prova di proprietà lo screenshot del wallet con i miei dati visibili, oppure è necessaria un’altra forma di verifica?
+			6) Estratti conto – disponibilità solo trimestrale
+			Gli estratti conto Fineco sono disponibili solo trimestralmente.
+			Se effettuo un versamento il 1/12/2025, l’estratto conto PDF sarà disponibile solo dopo tre mesi.
+			Domande:
+			Considerate validi estratti conto “datati” di tre mesi?
+			In alternativa, è accettabile lo screenshot dell’operazione come prova immediata del versamento?
+			Per Volet, è sufficiente lo screenshot o richiedete anche un estratto conto del wallet, se disponibile?
+			7) Procedura proattiva per evitare blocchi
+			Per ridurre qualsiasi rischio di sospensione o blocco del conto, posso inviarvi in anticipo la procedura completa (foto + documento + carta con scritta “verifica”) prima di ogni versamento o prelievo.
+			Domanda:
+			Confermate che questa procedura è corretta oppure esistono ulteriori passaggi richiesti dal vostro sistema di sicurezza?
+			Chiedo inoltre conferma definitiva su come viene identificato in modo univoco il titolare del conto:
+			tramite codice fiscale + documento
+			oppure solo tramite email + numero di telefono.
+			È fondamentale per me comprendere questo punto per evitare la perdita dell’account in caso di sostituzione del numero o chiusura dell’email.
+			Ringrazio anticipatamente per la vostra disponibilità e per il supporto.
+			Resto in attesa delle vostre indicazioni per procedere correttamente con la registrazione, la verifica e i futuri versamenti.
+			Cordiali saluti,
+			Walter R.
+	risposta
+		Support Service
+		19:15
+			Non posso modificare personalmente i campi dei dati personali bloccati. Per correggere il nome, il cognome o la data di nascita, apri una richiesta di assistenza qui in modo che il nostro team possa guidarti nel processo: Servizio di supporto – Domande sull'account: https://po.life/cabinet/support/create?o=9
+
+			Ecco le indicazioni per ciascuno dei punti:
+
+			1) Modifica dei dati personali bloccati
+
+			Nome, cognome e data di nascita possono essere modificati solo dal nostro team di supporto. Invia per favore una richiesta con una copia leggibile del tuo documento d'identità che mostri i dati corretti.
+			2) Affidabilità dell'email
+
+			È accettabile qualsiasi dominio email valido; @tiscali.it va bene. Se ti senti più sicuro con Gmail, puoi aggiornarla dopo aver effettuato l'accesso (tramite il supporto).
+			3) Collegamento e recupero dell'account
+
+			Il tuo account è collegato all'email, al numero di telefono e ai documenti di verifica che fornisci (documento d'identità e, se richiesto, codice fiscale).
+			Per il recupero (telefono/email smarriti), invia una richiesta di recupero dell'account con i documenti di verifica e qualsiasi prova d'identità in tuo possesso.
+			4) Prova di residenza vs. domicilio
+
+			Accettiamo qualsiasi documento rilasciato da un ente pubblico (estratto conto bancario, bolletta, certificato del Comune) che mostri l'indirizzo di residenza dichiarato.
+			Se la bolletta telefonica mostra solo il domicilio, fornisci anche un certificato di residenza rilasciato dal Comune.
+			5) Prova di proprietà del deposito/carta
+
+			Per carte nominali (Fineco, debito/credito), è sufficiente una foto della carta (con i primi sei e gli ultimi quattro numeri visibili) insieme al documento d'identità.
+			Per portafogli virtuali è richiesta una schermata dell'interfaccia del portafoglio che mostri il tuo nome, l'indirizzo del portafoglio e la cronologia delle transazioni.
+			6) Disponibilità degli estratti conto
+
+			Gli estratti fino a 3 mesi sono validi. Per prova immediata del deposito, puoi inviare una schermata della transazione con data/ora e importo corrispondente.
+			Per la carta Volet, la schermata del portafoglio è sufficiente se mostra i dettagli di proprietà e la transazione di deposito.
+			7) Procedura di verifica proattiva
+
+			Puoi inviare foto + documento + carta contrassegnata "verifica" prima di ogni deposito/prelievo. Questo aiuta a velocizzare l'elaborazione ma non è strettamente necessario.
+			Il tuo account è identificato univocamente dal tuo documento verificato (incluso il codice fiscale), oltre che dall'email e dal numero di telefono registrati.
+			Invia tutti i documenti e i dettagli tramite una nuova richiesta di assistenza così il nostro team potrà esaminare e aggiornare il tuo profilo. Una volta fatto, potrai procedere senza problemi con la verifica e i futuri depositi senza blocchi. Se hai bisogno di chiarimenti durante l'invio, indica il tuo ID utente (14788769) nella richiesta.
+
+			Non vediamo l'ora di ricevere la tua richiesta per completare la verifica. ✅ Buon trading!
+	email walter
+		wr r
+
+			19:20
+			IN CASO DI PERDITA O FURTO DEL TELEFONO OPPURE CHIUSURA DELLA EMAIL il mio account puo essere riattivato con IL DOCUMENTO DI IDENTITA + C.F. e NUOVO CELLULARE E NUOVA EMAIL recuperando i con conto ATTIVO??
+	risposta
+		Support Service
+					19:22
+					Sì. Se perdi l'accesso al tuo telefono o alla tua email registrati, puoi far riattivare il tuo account esistente inviando una richiesta di supporto con: • Una copia leggibile del tuo documento d'identità ufficiale (con foto) • Il tuo codice fiscale • Il tuo nuovo numero di telefono • Il tuo nuovo indirizzo email
+
+					Una volta che il nostro team avrà verificato questi documenti, aggiornerà i tuoi dati di contatto e ripristinerà l'accesso al tuo account attuale (non è necessario aprirne uno nuovo).
+
+					Apri una richiesta di supporto qui e allega tutto quanto sopra: Servizio di supporto – Domande sull'account: https://po.life/cabinet/support/create?o=9
+
+		risposta se perdi telefono o email
+		wr r
+
+			19:28
+				Support Service
+					Sì. Se perdi l'accesso al tuo telefono o alla tua email registrati, puoi far riattivare il tuo account esistente inviando una richiesta di supporto con: • Una copia leggibile del tuo documento d'identità ufficiale (con foto) • Il tuo codice fiscale • Il tuo nuovo numero di telefono • Il tuo nuovo indirizzo email
+
+					Una volta che il nostro team avrà verificato questi documenti, aggiornerà i tuoi dati di contatto e ripristinerà l'accesso al tuo account attuale (non è necessario aprirne uno nuovo).
+
+					Apri una richiesta di supporto qui e allega tutto quanto sopra: Servizio di supporto – Domande sull'account: https://po.life/cabinet/support/create?o=9
+
+
+					grazie di tutto . saluti Walter
+
+
+#### TITOLO
+		T1
+			T2
+				T3
+
+Klaudia vittoria L
 
 
 
-### MODELLO 2025.10.16
-Francesco D
+### 2025.11.16 TITOLO.,,
+	#### TITOLO
+		T1
+			T2
+				T3
 
-	16 Oct, 14:00
-		Antonino S
-		Si i 13k non la considero neanche una perdita perché alla fine non erano soldi miei ma erano una vincita. mentre gli 8k si quelli vengono dal mio stipendio che dal 2014 ad oggi ho accumulato questa perdita. E vedendo alcuni profili c'è gente che ha perso ben oltre i 100.000€ ancora mi ritengo fortunato 8k sono recuperabili
 
-		Wow che tipo di trading fai se posso chiedere, io su questa piattaforma sto principalmente usando il trading rapido
 
-		TODO: DA FINIRE***
+
+### 2025.11.16 TITOLO.,,
+	#### TITOLO
+		T1
+			T2
+				T3
+
+
+
+
+
+
 
 ### MODELLO 2025.0X.01 TITOLO.,,
 	#### TITOLO
 		T1
 			T2
-					T3
+				T3
 
 
 
