@@ -5800,6 +5800,69 @@
 					grazie di tutto . saluti Walter
 
 
+
+
+
+
+### 2025.11.18 VPN PER VEDERE VISA
+
+	Klaudia vittoria L
+
+		14:04
+		raga scusate ma hanno tolto la possibilità di depositare soldi tramite visa o sbaglio?
+
+
+		Giovanni T
+
+			14:08
+			Ciao klaudia spero di no io uso proprio visa
+
+
+		Klaudia vittoria L
+
+			14:09
+			eh perché volevo fare un deposito e non trovo più visa, per caso tu ce l'hai ancora?
+
+
+		Giovanni T
+
+			14:13
+			Cavolo! Mi sa che non c'è non vedo più visa
+
+		Klaudia vittoria L
+
+			14:14
+			provo a vedere come posso con revolut magari tramite bitcoin
+
+
+		Giovanni T
+
+			14:16
+			Che casino mi toccherà cambiare metodo di prelevo e deposito uffa
+
+					Klaudia vittoria L
+
+
+			14:18
+			Allora c'è una soluzione
+
+
+		Klaudia vittoria L
+
+			14:18
+			usare una vpn
+					Klaudia vittoria L
+
+
+			14:18
+			e poi accedere a pocket option
+
+		Klaudia vittoria L
+
+		14:19
+		ora ho di nuovo visa cosi
+
+
 #### TITOLO
 		T1
 			T2
