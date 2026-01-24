@@ -5915,6 +5915,61 @@
 					tramite chiavi api che ti fanno già il calcolo in automatico delle plusvalenze
 					altrimenti devi rivolgerti ad un commercialista specializzato in questo.
 
+### 2026.01.24 VERIFICA CARTA VIRTUALE
+		Olga L
+			Ieri, 18:13
+				Serena S
+				ragazzi ho bisogno di aiuto ho dei soldi sul conto ma per prelevare devo confermare la carta solo che è una carta virtuale e non la ho cartacea, come faccio a verificarla per prelevare?
+
+				Se hai utilizzato una carta virtuale, devi fornire all'assistenza clienti uno screenshot della carta dall'online banking e un estratto conto ufficiale della carta che mostri il numero della carta e il nome dell'intestatario del conto (in formato PDF originale).
+				Assicurati che l'estratto conto includa:
+				→ Nome completo dell'intestatario del conto
+				→ Informazioni sul trasferimento di fondi sulla piattaforma
+				→ Numero parziale o completo della carta. Se l'estratto conto non mostra il numero della carta, allega qualsiasi documento di conferma che contenga informazioni sulla carta e sul suo titolare.
+				Carica i file nella sezione ▶PROFILO -> VERIFICA DELLA CARTA◀.
+
+### 2026.01.24 DIFFERENZA CARTA BIBY E VOLET - SEPARAZIONE FONDI E SICUREZZA - INTEGRALE BIBY SEPARATA VOLET
+		Il concetto di "Privacy e Flessibilità" nel contesto di queste carte digitali si riferisce a come gestisci i tuoi soldi tra l'attività di investimento (trading) e le spese di tutti i giorni.
+
+		Ecco cosa significa in concreto la differenza tra Bybit e Volet:
+
+		1. Separazione dei fondi (Controllo e Sicurezza)
+		Quando usi una carta legata a un exchange, il rischio è che un errore nel pagamento o un problema sulla carta possa influenzare il tuo intero capitale.
+
+		Con Bybit (Integrazione Totale): La carta pesca direttamente dal tuo account "Funding" dell'exchange. Se hai 10.000 € in USDT per fare trading e lasci tutto nel wallet Funding, la carta ha potenzialmente accesso a tutto.
+
+		Flessibilità: Alta (spendi subito quello che guadagni col trading).
+
+		Rischio: Se perdi i dati della carta, qualcuno potrebbe tentare di svuotare il tuo saldo exchange dedicato alla carta.
+
+		Con Volet (Separazione Netta): Volet funge da "cuscinetto". Devi inviare manualmente i fondi dall'exchange al wallet Volet e poi ricaricare la carta.
+
+		Flessibilità: Minore (devi fare un passaggio in più).
+
+		Sicurezza: Maggiore. Quello che c'è sulla carta è isolato dal tuo account di trading principale. Se la carta viene clonata, perdi solo i pochi euro che avevi caricato sopra, mentre i tuoi risparmi sull'exchange restano intoccabili.
+
+		2. Privacy dei Pagamenti
+		Nessuna delle due carte è "anonima" (entrambe richiedono i documenti KYC), ma cambia la visibilità dei tuoi movimenti:
+
+		Bybit: I tuoi acquisti sono registrati direttamente nei database dell'exchange. Se l'exchange riceve richieste dalle autorità, i tuoi dati di trading e le tue spese per il caffè sono nello stesso posto.
+
+		Volet: Offre un livello di "discrezione" in più. Quando paghi con Volet, l'unico dato che appare è che hai ricaricato un wallet esterno. Le tue spese specifiche (dove e quando compri) rimangono su Volet, mentre l'exchange vede solo il trasferimento di fondi in uscita.
+
+		3. Flessibilità nelle Valute
+		Volet ti permette di gestire separatamente portafogli in Euro, Dollari, Sterline e Rubli. Puoi decidere di pagare in USD per non perdere soldi nel cambio se compri su siti americani.
+
+		Bybit è più rigida: converte automaticamente le tue crypto in Euro al momento del pagamento, il che è comodissimo ma ti dà meno controllo sul tasso di cambio preciso.
+
+		In sintesi:
+		Scegli Bybit se vuoi la massima comodità: guadagni con le crypto e le spendi un secondo dopo senza fare nulla.
+
+		Scegli Volet se sei un utente avanzato che preferisce tenere separati i "risparmi da trading" dal "budget per le spese", aggiungendo uno strato di protezione e discrezione tra il tuo exchange e i negoz
+
+
+#### TITOLO
+		T1
+			T2
+				T3
 *********************************
 ### 2025.11.16 TITOLO.,,
 	#### TITOLO
