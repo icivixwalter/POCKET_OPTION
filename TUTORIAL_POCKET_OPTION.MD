@@ -5966,6 +5966,90 @@
 		Scegli Volet se sei un utente avanzato che preferisce tenere separati i "risparmi da trading" dal "budget per le spese", aggiungendo uno strato di protezione e discrezione tra il tuo exchange e i negoz
 
 
+### 2026.03.14 BROWSER CROME
+	#### TITOLO
+		SUPPORTO
+			Maksim M
+			Ieri, 09:17
+			Omar A
+			Non viene scritto niente di tutto questo mi parte metà striscia e poi si blocca e mi dice di tenere il viso nel cerchio so stato lì come un deficiente per 10 minuti niente
+
+			Ciao, per favore usa il browser Chrome https://po.finance/. Se la foto non si carica o non viene inviata, puoi provare a usare una VPN.Se vuoi sapere cosa hai fatto, te lo dirò, ti spiegherò cosa sta succedendo. Come fai a sapere come si fa? Descrivi la situazione. https://go1.urlpress.co/cabinet/support/create?o=15,65,231
+
+
+
+### 2026.03.14 VERIFICA SELFIE 72 ORE
+		Maksim M
+			Ieri, 09:10
+			Omar A
+			Quanto ci vuole per verifica selfie con documenti in mano?
+
+			Ciao, verifiche aggiuntive. La verifica del selfie può richiedere fino a 48/72 ore (giorni lavorativi) o anche di più, quindi attendi i risultati della verifica. https://go1.urlpress.co/cabinet/support/create?o=8,19,39
+
+
+### 2026.03.10 DEPOSITO E PRELIEVO I CRIPTO
+	Francesco G
+
+		10 Mar, 14:49
+			Si può prelevare solo in crypto. Depositate con un portafoglio crypto, perché con la carta di credito non potete prelevare. Quando vi registrate depositate subito in crypto.non depositate con la carta di credito
+
+
+### 2026.03.10 NON ATTIVARE I BONUS
+	Gaetana P
+
+		10 Mar, 20:18
+		consiglio di non attivare bonus per esperienza personale
+
+### 2026.03.10 PRIMA DI PRELEVARE PROCEDURE ALLA VERIFICA DELLA CARTA
+
+	Olga L
+
+	10 Mar, 11:54
+	Vincenzo B
+	Grazie
+
+		Ciao, prima di tutto devi completare la verifica della tua carta bancaria. Nella sezione Aiuto → Assistenza → Le tue richieste aperte, c'è una richiesta per la verifica della carta. Apri quella richiesta e leggi tutte le informazioni che ti sono state inviate dall'assistenza: molto probabilmente in essa troverai ulteriori indicazioni per completare la verifica della carta.
+
+
+	Olga L
+
+
+		10 Mar, 14:03
+			Vincenzo B
+			Che non ho possibilità di prelevare?
+
+				Per prelevare i fondi, è necessario completare la verifica della carta bancaria. Una volta che la verifica della carta bancaria sarà stata completata con successo, il prelievo dei fondi sarà disponibile per te.
+
+
+
+### 2026.03.14 VERIFICA A VIDEO COME FUNZIONA
+
+
+
+	Maksim M
+		12 Mar, 18:43
+		Omar A
+		Salve a me ha chiesto verifica selfie,ma quando vado al punto parte una striscia e si ferma non fa altro?qualcuno e capitato ha risolto nel caso?
+
+		Ciao. Se riscontri un errore di "caricamento continuo" durante l'invio di un selfie, crea un ticket di supporto utilizzando questo link. Assicurati di allegare uno screenshot dell'errore di caricamento e di descrivere il problema. https://go1.urlpress.co/cabinet/support/create?o=15,65,231
+
+	Matteo P
+
+		13 Mar, 02:24
+			Omar A
+				Salve a me ha chiesto verifica selfie,ma quando vado al punto parte una striscia e si ferma non fa altro?qualcuno e capitato ha risolto nel caso?
+
+				Devi leggere sullo schermo e muovere la testa come ti viene indicato... Guarda su guarda giù guarda a sinistra...e così via vedi che la procedura si conclude
+
+
+	Omar A
+
+		13 Mar, 08:21
+		Matteo P
+		Devi leggere sullo schermo e muovere la testa come ti viene indicato... Guarda su guarda giù guarda a sinistra...e così via vedi che la procedura si conclude
+
+		Non viene scritto niente di tutto questo mi parte metà striscia e poi si blocca e mi dice di tenere il viso nel cerchio so stato lì come un deficiente per 10 minuti niente
+
 #### TITOLO
 		T1
 			T2
