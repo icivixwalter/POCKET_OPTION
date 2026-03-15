@@ -3,6 +3,8 @@
     "variables": {
         "background": "#000001",
         "foreground": "#f9ef86",
+        "selection_foreground": "#f9ef86",
+        "selection": "#665C54",
         "black": "#000001",
         "red": "#ec5f66",
         "green": "#008000",
