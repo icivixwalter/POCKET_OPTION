@@ -6050,6 +6050,27 @@
 
 		Non viene scritto niente di tutto questo mi parte metà striscia e poi si blocca e mi dice di tenere il viso nel cerchio so stato lì come un deficiente per 10 minuti niente
 
+
+### 2026.04.06 GESTIONE DEL RISCHIO
+	Maksim M
+		12:58
+			💎 Consigli su disciplina e gestione del rischio.
+			➡️ Dimensione della posizione: Investi non più dell'1-3% del tuo saldo attuale in una singola operazione. Questo è importante per la gestione del tuo conto a lungo termine.
+			➡️ Limiti di sessione: Se hai tre operazioni in perdita consecutive, fai una pausa di qualche ora. Questo ti aiuta a ritrovare l'obiettività ed evitare decisioni impulsive.
+			➡️ Obiettivi giornalieri: Stabilisci un limite chiaro sia per il profitto desiderato che per la perdita massima accettabile. Una volta raggiunto uno dei due obiettivi, interrompi il trading per la giornata. In questo modo, avrai capitale a disposizione per il giorno di trading successivo.
+			➡️ Overtrading: Evita di effettuare troppe operazioni in una singola sessione. Un'attività eccessiva porta a una perdita di concentrazione e a errori. La qualità delle tue operazioni è sempre più importante della quantità.
+			➡️ Diario di trading: Registra ogni sessione di trading. Tieni traccia dei tuoi guadagni, dei risultati e delle emozioni (avidità, paura, ecc.). Questo ti aiuterà a identificare ed eliminare i tuoi fattori scatenanti personali.
+			➡️ Disciplina: non fare mai trading per vendetta sotto l'influenza delle emozioni e non cercare di recuperare le perdite il più rapidamente possibile. Attieniti al tuo piano di trading, non agli impulsi del momento.
+
+
+
+
+
+
+
+
+
+
 #### TITOLO
 		T1
 			T2
