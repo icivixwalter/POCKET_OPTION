@@ -6051,7 +6051,8 @@
 		Non viene scritto niente di tutto questo mi parte metà striscia e poi si blocca e mi dice di tenere il viso nel cerchio so stato lì come un deficiente per 10 minuti niente
 
 
-### 2026.04.06 GESTIONE DEL RISCHIO
+### 2026.04.06 GESTIONE DEL RISCHIO E DISCIPLINA
+
 	Maksim M
 		12:58
 			💎 Consigli su disciplina e gestione del rischio.
@@ -6076,11 +6077,77 @@
 			T2
 				T3
 *********************************
-### 2025.11.16 TITOLO.,,
+### 2026.04.11 ALTERNATIVA STABILE BYBIT
+	Maksim M
+		09 Apr, 09:02
+			Bruno P
+			Buongiorno a tutti ho dei problemi con Binance e devo cambiare il mio metodo di versamento e prelievo, posso sapere con che piattaforma excenge operate e vi trovata bene e soprattutto non crea problemi con poket option?
+			
+			Buongiorno! Se cerchi un'alternativa stabile, Bybit è attualmente una delle più utilizzate dai membri della nostra community per operare con Pocket Option, poiché non applica restrizioni particolari sui trasferimenti verso piattaforme di trading. Assicurati sempre di inviare i fondi utilizzando la rete corretta (ad esempio, USDT su rete Tron/TRC20) per evitare perdite. Anche i portafogli decentralizzati come Trust Wallet o Metamask sono eccellenti per avere il pieno controllo sui propri fondi senza dipendere dai blocchi di un exchange centralizzato.
+
+### 2026.04.11 RUMORE TIMEFRAME M1 CON MICROCORREZIONE O RETEST
+	Maksim M
+   		Ieri, 07:21
+   	Damiano L
+   		Sbaglio oppure ogni volta che apro jna posizione in un trend ben definito, il prezzo inizia ad annusare costantemente la mia apeetura, e dopodiché in una frazione di secondo me lo fa chiudere a 0? Molto bello
+   		
+   		Buongiorno! Quello che descrivi è un fenomeno comune dovuto alla volatilità del mercato e al "rumore" sui timeframe bassi (come M1). Spesso, dopo l'ingresso in un trend, il prezzo effettua una micro-correzione o un retest del livello prima di proseguire. Se la scadenza è troppo breve, rischi di essere chiuso "al limite". Prova ad aumentare leggermente il tempo di scadenza o ad entrare dopo un piccolo rintracciamento, invece di inseguire il prezzo nel momento del picco. Molti trader risolvono questo problema analizzando il grafico su M5 ed entrando per 10-15 minuti, riducendo l'impatto dei movimenti bruschi dell'ultimo secondo.
+
+### 2026.05.03 PORTAFOGLIO SAFE
+   Maksim M
+      12:11
+      Gabriele R
+      Chi ha attivo il safe ?
+      
+         Il "Safe" è uno strumento molto apprezzato dai trader di Pocket Option per proteggere i propri profitti. Funziona come un salvadanaio separato dal saldo di trading, dove i fondi possono anche maturare una percentuale di interesse passivo. Molti lo usano per accantonare una parte del guadagno giornaliero e non rischiare di reinvestirlo emotivamente. È un ottimo modo per gestire il proprio capitale in sicurezzaMolti utenti utilizzano regolarmente il "Safe" per dividere il capitale operativo da quello destinato al risparmio o al prelievo futuro. Ricordate che i fondi nel Safe non sono disponibili per il trading finché non vengono trasferiti nuovamente sul saldo principale, il che aiuta a mantenere la disciplina. Se avete domande su come attivarlo o sui tassi di interesse previsti, potete consultare la sezione "Finanze" — "Safe".
+
+### 2026.05.03 PERCENTUALE BASSA E RISCOSSIONE DEI VIP
+   Maksim M
+      05:47
+      Anisoara Nelly T
+         Ovvio che te li danno i soldi. Chi fa prelievi grossi per dire in certi casi sono gia VIP e hanno addirittura la precedenza. Se la percentuale scade non e perché fai profitto. A me mai capitato. Ma magari perché io non sto tutto il giorno sulla piattaforma. La percentuale dipende da tanti altri fattori. Non di quanto profitto tu hai. Se vedi che la percentuale e bassa non fare quei giorno. Torni giorno dopo e vedrai che e tutto apposto 
+            
+            Grazie per aver condiviso la tua esperienza positiva. È importante sottolineare che Pocket Option garantisce i prelievi per tutti gli utenti verificati, e i clienti con status elevati godono effettivamente di un servizio prioritario. Le fluttuazioni dei rendimenti sono normali dinamiche di mercato. Prendersi una pausa quando le condizioni non sono ottimali, come suggerito, è un segno di maturità nel trading e aiuta a preservare il capitale
+
+### 2026.05.03 INDIRIZZO EMAIL TRUFFA info@supportpocketoption.com
+  Maksim M
+      13:20
+         Gentili trader, l'indirizzo email info@supportpocketoption.com non appartiene alla piattaforma; si tratta di una truffa. L'indirizzo email ufficiale della piattaforma è support@pocketoption.com.
+
+
 	#### TITOLO
 		T1
 			T2
 				T3
+
+### 2026.05.03 TRADING QUESTIONE DI CERVELLO (NON FARE SE STANCHI) ESCI SE LA PERDITA > 3/5
+   Maksim M
+   01 May, 15:19
+      Il trading è tutta una questione di cervello. Quando il cervello è stanco, inizi a regalare soldi al mercato. Fermati se...
+      "Voglio recuperare" - apri una posizione subito dopo una perdita per recuperare i tuoi soldi. Questo è gioco d'azzardo, non trading. Vedo segnali ovunque, il grafico è vuoto, ma sembra che stia per succedere qualcosa. Il cervello colma le lacune. Stanchezza - fai trading per più di due ore senza pause. La vista si annebbia, la concentrazione cala. Euforia - dopo una serie di guadagni, pensi di aver conquistato il mercato. È in questi momenti che si commettono gli errori più stupidi e più gravi. Rompere il piano - hai investito una somma maggiore del solito o su una coppia di valute che non conosci. Regola dei professionisti: Se la perdita è nella norma, esci. Se la perdita è pari a 3/5, esci. Il mercato ci sarà domani, ma il tuo deposito potrebbe essere sparito oggi.
+
+
+### 2026.05.03 LE PERCENTUALI 92 OTC MA POSSONO VARIARE
+   
+   Maksim M
+      29 Apr, 15:39
+      Umberto P
+         Ok grazie le percentuali del bom
+      
+         Le percentuali di rendimento sugli asset OTC (Over-The-Counter) sono solitamente tra le più alte sulla piattaforma, arrivando spesso fino al 92%. Tuttavia, queste percentuali sono dinamiche e possono variare in base alla liquidità, al volume di operazioni degli utenti e al momento della giornata. Troverà sempre il tasso aggiornato accanto al nome di ogni coppia di valute o asset nel menu di selezione.Ottieni gli stessi rendimenti percentuali su tutti gli asset?
+
+
+#### TITOLO
+      T1
+         T2
+            T3
+
+
+### 2026.11.16 TITOLO.,,
+   #### TITOLO
+      T1
+         T2
+            T3
 
 
 
