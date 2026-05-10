@@ -6143,6 +6143,36 @@
             T3
 
 
+### 2026.05.10 METODO PRINCIPALE DI PRELIEVO VOLET.COM EX ADVCASH
+Maksim M
+   04:46
+   Gian piero C
+      On my Account, the currently Withdrawal Method in USD is via-Volet.com ?
+      Sul mio conto, il metodo di prelievo attualmente disponibile in USD è tramite Volet.com.
+      
+         Il metodo di prelievo disponibile dipende solitamente dal metodo utilizzato per il deposito. Se vede Volet.com (ex Advcash) come opzione principale, è perché il sistema lo riconosce come il canale più adatto o perché è stato utilizzato per ricaricare il conto. Tuttavia, può verificare la presenza di altri metodi come Criptovalute o Bonifico Bancario nella sezione "Finanze" — "Prelievo". Se ha bisogno di attivare un metodo differente, Le consigliamo di contattare il supporto tramite ticket.È necessario prelevare l'intero importo rimanente utilizzando un metodo di pagamento disponibile, quindi effettuare un deposito utilizzando il sistema che si intende utilizzare per i pagamenti. Se il metodo di prelievo non viene aggiornato automaticamente nel proprio account, si prega di contattare l'assistenza clienti e richiedere la modifica manuale.Se hai effettuato la ricarica solo con criptovaluta, segui questi passaggi: Finanza/Cronologia depositi/La tua richiesta nella criptovaluta utilizzata per la ricarica/Stato/Si aprirà una finestra per l'assistenza/Contatta l'assistenza/Scrivi lì e comunica loro che desideri cambiare il metodo di prelievo in criptovaluta.
+
+### 2026.11.16 FARE PROFITTO CON OTC POSSIBILE PAYOUT 92% ANALISI STORICA NE RUMORE NOTIZIE
+Cristian T
+   08:14
+   Maksim M
+      Fare profitto su OTC è assolutamente possibile se non lo si tratta come un casinò. È un mercato tecnico dove la psicologia conta al 100% Non sottovalutate il mercato OTC: è una grande opportunità per chi sa come utilizzarlo. Ecco perché molti trader professionisti lo scelgono: 1. Rendimenti elevati: i payout spesso raggiungono il 92%, consentendo una crescita costante. 2. Analisi tecnica: gli algoritmi OTC si basano su dati storici reali, quindi i livelli di supporto e resistenza e gli indicatori funzionano perfettamente. 3. Minore rumore fondamentale: non ci sono improvvise pubblicazioni di notizie economiche nei fine settimana che possono disturbare il grafico. La chiave è utilizzare intervalli temporali più lunghi (M5+) e mantenere la disciplina.
+      
+   premetto che non ricevo nessun benefit dal broker , ma concordo pienamente quello che ha pubblicato in risposta Maksim ,all.inizio di questo percorso con po non avevo la mentalita e mi facevo prendere dalle emozioni quasi come sfida ovviamente senza risultati e bruciando conti , col tempo ho acquisito la disciplina la mentalità e migliorato i miei ingressi rischio ponderato ma sopratutto piccoli profit ma costanti ,ovvio che qualche ingresso lo sbaglio ancora ma non metto più a rischio il mio capitale bisogna avere prima di tutto rispetto dei propri soldi faccio anche trading su cfd xau e btc e vi assicuro che li si che ci sono forti manipolazioni istituzionali , quidi consigkio di analizzare bene in tf piu alti ed eseguire su anche solo in 1 min su tf m5 m1 ma non rischiate mai più del dovuto ci vuole testa e pazienza i risultati saranno una conseguenza.
+   
+
+
+         T2
+            T3
+
+### 2026.11.16 TRADING E' UNA SFIDA CONTRO SE STESSI NON CONTRO IL MERCATO
+Maksim M
+   08:17
+   Cristian T
+      premetto che non ricevo nessun benefit dal broker , ma concordo pienamente quello che ha pubblicato in risposta Maksim ,all.inizio di questo percorso con po non avevo la mentalita e mi facevo prendere dalle emozioni quasi come sfida ovviamente senza risultati e bruciando conti , col tempo ho acquisito la disciplina la mentalità e migliorato i miei ingressi rischio ponderato ma sopratutto piccoli profit ma costanti ,ovvio che qualche ingresso lo sbaglio ancora ma non metto più a rischio il mio capitale bisogna avere prima di tutto rispetto dei propri soldi faccio anche trading su cfd xau e btc e vi assicuro che li si che ci sono forti manipolazioni istituzionali , quidi consigkio di analizzare bene in tf piu alti ed eseguire su anche solo in 1 min su tf m5 m1 ma non rischiate mai più del dovuto ci vuole testa e pazienza i risultati saranno una conseguenza.
+   
+   Grazie mille per aver condiviso la tua preziosa esperienza. Hai centrato il punto fondamentale: il trading non è una sfida contro il mercato, ma una sfida contro le proprie emozioni. La transizione dal "bruciare conti" a ottenere piccoli profitti costanti è il vero segno di maturità di un trader. Analizzare su timeframe alti e avere rispetto del proprio capitale è la strategia migliore per durare nel tempo. Continua così, la tua disciplina è un ottimo esempio per tutti i nuovi membri della community!   
+
 ### 2026.11.16 TITOLO.,,
    #### TITOLO
       T1
