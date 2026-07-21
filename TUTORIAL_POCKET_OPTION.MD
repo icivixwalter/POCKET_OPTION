@@ -6173,12 +6173,252 @@ Maksim M
    
    Grazie mille per aver condiviso la tua preziosa esperienza. Hai centrato il punto fondamentale: il trading non è una sfida contro il mercato, ma una sfida contro le proprie emozioni. La transizione dal "bruciare conti" a ottenere piccoli profitti costanti è il vero segno di maturità di un trader. Analizzare su timeframe alti e avere rispetto del proprio capitale è la strategia migliore per durare nel tempo. Continua così, la tua disciplina è un ottimo esempio per tutti i nuovi membri della community!   
 
+
+
 ### 2026.11.16 TITOLO.,,
    #### TITOLO
       T1
          T2
             T3
 
+### 2026.07.08 PISCOLOGIA TRADING
+   #### QUANDO ATTINDI I CONTROLLI
+      Maksim M
+      Ieri, 18:12 17.08.2026 PISCOLOGIA TRADING
+         Cari membri della community, ecco un promemoria informativo sulla psicologia del trading e sulla gestione delle emozioni durante l'attesa delle transazioni. I controlli di sicurezza e le verifiche sono una procedura standard progettata per proteggere il vostro capitale. L'errore più comune è quello di interrompere completamente l'attività sui grafici o di tentare operazioni casuali per noia. Utilizzate invece questo tempo per condurre un'analisi di mercato dettagliata nel terminale di trading, mantenendo la calma. Mentre gli specialisti finanziari eseguono verifiche manuali periodiche delle transazioni, la strategia più prudente è quella di rimanere calmi. Controllare costantemente lo stato del proprio sistema di pagamento non fa altro che aumentare lo stress psicologico, mentre continuare a lavorare sistematicamente sui grafici consente al saldo del vostro conto personale di aumentare gradualmente fino al completamento del processo di verifica. La capacità di attendere con calma la conferma delle transazioni finanziarie distingue un trader professionista da un dilettante. Il mercato opera 24 ore su 24, 7 giorni su 7, e sebbene i vostri fondi siano protetti da sistemi di sicurezza, utilizzate queste pause per riposare, lavorare su un conto demo o sviluppare nuovi algoritmi, in modo da poter effettuare ogni operazione successiva con la mente fresca. Spero che queste informazioni siano utili a qualcuno.
+ 
+
+
+### 2026.07.08 VERIFICA SELFIE
+
+         Maksim M
+         Ieri, 17:34
+
+             Pierluigi L
+             Ma quanto devo aspettare ancora per poter prelevare di nuovo?
+              
+
+         La verifica biometrica aggiuntiva di un selfie (tramite un cerchio interattivo con movimento della testa) richiede in genere dalle 48 alle 72 ore (giorni lavorativi), ma in alcuni casi questo periodo può essere prolungato, a seconda del carico di lavoro del SP.
+          
+         10.07.2026 = email pocket option
+         Maksim M
+         10 Jul, 14:38
+
+             Omar A
+             Non mi arrivano più le email cosa devo fare tipo per prelievo quando mi chiedono il PIN cosa devo fare ?
+              
+
+         Controlla tutte le cartelle della tua casella di posta elettronica, in particolare spam e pubblicità. Se l'email non è presente, prova a cancellare la cache del browser o a richiedere nuovamente il codice tra qualche minuto, assicurandoti di utilizzare l'indirizzo email a cui è registrato il profilo. Aggiungi gli indirizzi email presenti nella tua casella di posta alle eccezioni. Assicurati inoltre che la tua casella di posta non sia piena, altrimenti i messaggi in arrivo non verranno recapitati.
+         1) noreply@pocketoption.com
+         2) support@pocketoption.com
+         3) support@po.trade
+          
+         VERIFICA CON FOTO
+         Maksim M
+         10 Jul, 12:52
+
+             Pietro R
+             Sn complicati troppo
+              
+
+         Comprendiamo perfettamente che ripetere la procedura possa sembrare fastidioso, ma il cambio dell'indirizzo email principale è una delle operazioni più critiche per la sicurezza del vostro profilo. La richiesta di una nuova foto con il documento e i vostri dati personali serve a garantire che la modifica venga effettuata dal reale titolare dell'account, impedendo a malintenzionati di sottrarre il controllo del vostro pannello di trading e delle vostre finanze.
+          
+         Maksim M
+         10 Jul, 13:09
+         In tal caso, ecco alcuni consigli pratici per ottenere un risultato perfetto. Assicurati che la fotocamera sia a fuoco. Il testo del documento nella foto deve essere perfettamente leggibile e il tuo viso deve essere completamente scoperto e ben visibile.
+         Illuminazione: cerca di scattare foto alla luce del giorno per evitare riflessi del flash sulla superficie plastificata del documento.
+         Conformità all'esempio il documento che tieni in mano non deve coprire il tuo viso e le tue dita non devono coprire informazioni importanti sul documento stesso.
+          
+ 
+ 
+### 2026.07.11 TRAST VALLET PER PRELEVARE
+      Maksim M
+      11 Jul, 06:40
+
+          Stive Junior T
+          Per favore vorrei sapere se sia possibile cambiare il numero di telefono del suo conto?
+           
+
+      Sì, è assolutamente possibile cambiare il numero di telefono associato al tuo profilo sulla piattaforma. Se hai ancora accesso al tuo account, puoi effettuare la modifica autonomamente accedendo alle impostazioni del tuo profilo e inserendo un nuovo numero, che verrà attivato immediatamente. Vai su Profilo/Profilo e clicca sul numero.
+       
+       
+      Pietro R
+      11 Jul, 11:55
+      Ciao Maksim oltre Binance x prelevare che mi consigli ?
+ 
+ 
+      Maksim M
+      11 Jul, 12:10
+
+          Pietro R
+          Ciao Maksim oltre Binance x prelevare che mi consigli ?
+           
+
+      Se cercate un'alternativa sicura ed efficiente a Binance, una delle soluzioni più consigliate per l'Europa è l'utilizzo di piattaforme globali come OKX o il trasferimento diretto verso i principali e-wallet supportati dal sistema. (Trust wallet Toonkeper, My Ton wallet)
+ 
+ 
+### 2026.07.11 BINANCE NON DISPONIBILE
+      Maksim M
+      12 Jul, 11:40
+      Questa funzione si configura nel pannello di controllo del tuo profilo, in un'apposita sezione dedicata alle notifiche. Puoi gestire tutti i flussi di informazioni in entrata attivando o disattivando avvisi e notizie. Se le caselle di controllo sono selezionate ma le email non arrivano comunque, è il momento di verificare le impostazioni dei filtri nella tua casella di posta.
+       
+       1
+       
+      Francesco P
+      12 Jul, 14:59
+      Buongiorno, io vorrei prelevare ma ora che binance non è più disponibile in italia non so che piattaforma usare, qualcuno sa darmi qualche consiglio?
+       
+       
+      Maksim M
+      12 Jul, 15:02
+
+          Francesco P
+          Buongiorno, io vorrei prelevare ma ora che binance non è più disponibile in italia non so che piattaforma usare, qualcuno sa darmi qualche consiglio?
+           
+
+      Se cercate un'alternativa sicura ed efficiente a Binance, una delle soluzioni più consigliate per l'Europa è l'utilizzo di piattaforme globali come OKX o il trasferimento diretto verso i principali e-wallet supportati dal sistema. (Trust wallet Toonkeper, My Ton wallet)
+       
+### 2026.07.11 ALTERNATIVA A BINACE
+         Pietro R
+         11 Jul, 11:55
+         Ciao Maksim oltre Binance x prelevare che mi consigli ?
+          
+          
+         Maksim M
+         11 Jul, 12:10
+
+             Pietro R
+             Ciao Maksim oltre Binance x prelevare che mi consigli ?
+              
+
+         Se cercate un'alternativa sicura ed efficiente a Binance, una delle soluzioni più consigliate per l'Europa è l'utilizzo di piattaforme globali come OKX o il trasferimento diretto verso i principali e-wallet supportati dal sistema. (Trust wallet Toonkeper, My Ton wallet)
+
+         L'utilizzo di portafogli crittografici non custoditi come Trust Wallet, Tonkeeper o MyTonWallet rappresenta una scelta eccellente e sicura per la ricezione dei fondi nel circuito blockchain. Potete inserire comodamente l'indirizzo del vostro wallet nella sezione delle finanze, ricordando che tutte le verifiche sui prelievi vengono effettuate dal reparto di sicurezza in modalità manuale e l'accredito si completa nel termine standard da 3-5 a 14 giorni lavorativi.
+ 
+CONSIGLI DI INVESTIMENTO MAX 3%
+         Maksim M
+         14 Jul, 10:36
+         💎 Consigli su disciplina e gestione del rischio.
+         ➡️ Dimensione della posizione: Investi non più dell'1-3% del tuo saldo attuale in una singola operazione. Questo è importante per la gestione del tuo conto a lungo termine.
+         ➡️ Limiti di sessione: Se hai tre operazioni in perdita consecutive, fai una pausa di qualche ora. Questo ti aiuta a ritrovare l'obiettività ed evitare decisioni impulsive.
+         ➡️ Obiettivi giornalieri: Stabilisci un limite chiaro sia per il profitto desiderato che per la perdita massima accettabile. Una volta raggiunto uno dei due obiettivi, interrompi il trading per la giornata. In questo modo, avrai capitale a disposizione per il giorno di trading successivo.
+         ➡️ Sovratrading: Evita di effettuare troppe operazioni in una singola sessione. Un'attività eccessiva porta a una perdita di concentrazione e a errori. La qualità delle tue operazioni è sempre più importante della quantità.
+         ➡️ Diario di trading: Registra ogni sessione di trading. Tieni traccia dei tuoi guadagni, dei risultati e delle emozioni (avidità, paura, ecc.). Questo ti aiuterà a identificare ed eliminare i tuoi fattori scatenanti personali.
+         ➡️ Disciplina: non fare mai trading per vendetta contro il mercato, guidato dalle emozioni o cercando di recuperare le perdite il più rapidamente possibile. Attieniti al tuo piano di trading, non agli impulsi del momento.
+          
+          
+          
+         BINANCE PER RICARICARE BLOCCATO
+         Marina B
+         14 Jul, 17:55
+         buonasera ero solita ricaricare il conto con binance che però ora è stato bloccato per problemi con autorizzazione mica avete da consigliarmi un alternativa valida di deposito che poi non mi crei problemi con il prelievo? grazie mille. Marina
+          
+          
+         Simone L
+         14 Jul, 17:56
+
+             Marina B
+             buonasera ero solita ricaricare il conto con binance che però ora è stato bloccato per problemi con autorizzazione mica avete da consigliarmi un alternativa valida di deposito che poi non mi crei problemi con il prelievo? grazie mille. Marina
+              
+
+         ciao bybit e la miglior alternativa per quanto mi riguardi
+          
+          
+         Maksim M
+         14 Jul, 17:58
+
+             Marina B
+             buonasera ero solita ricaricare il conto con binance che però ora è stato bloccato per problemi con autorizzazione mica avete da consigliarmi un alternativa valida di deposito che poi non mi crei problemi con il prelievo? grazie mille. Marina
+              
+
+         Se cercate un'alternativa sicura ed efficiente a Binance, una delle soluzioni più consigliate per l'Europa è l'utilizzo di piattaforme globali come OKX o il trasferimento diretto verso i principali e-wallet supportati dal sistema. (Trust wallet Toonkeper, My Ton wallet)
+
+ 
+ 
+### 2026.07.11 DEPOSITO DAL CONTO CORRENTE SU POCKET OPTION AMMISSIBILE
+      Maksim M
+      11 Jul, 13:25
+
+          Andrei D
+          Chiedo scusa c'è qualcuno che a fatto depozito dal conto corrente direttamente nella piattaforma grazie
+           
+
+      Il deposito tramite bonifico bancario diretto dal proprio conto corrente è una modalità pienamente supportata e disponibile all'interno della piattaforma per tutta la community. Vi basterà accedere al vostro pannello di controllo nella sezione delle finanze, selezionare l'opzione relativa al trasferimento bancario e seguire le istruzioni stampando i dati per il pagamento; i fondi verranno accreditati non appena l'istituto finanziario completerà l'operazione.Puoi ricaricare il tuo conto utilizzando uno qualsiasi dei metodi di pagamento disponibili nella sezione Finanze/Ricarica.
+ 
+ 
+### 2026.07.14  BIBYT ECCELLENTE
+         Maksim M
+         14 Jul, 18:00
+         L'utilizzo di portafogli crittografici non custoditi come Trust Wallet, Tonkeeper o MyTonWallet rappresenta una scelta eccellente e sicura per la ricezione dei fondi nel circuito blockchain. Potete inserire comodamente l'indirizzo del vostro wallet nella sezione delle finanze, ricordando che tutte le verifiche sui prelievi vengono effettuate dal reparto di sicurezza in modalità manuale e l'accredito si completa nel termine standard da 3-5 a 14 giorni lavorativi.
+          
+          
+         Maksim M
+         14 Jul, 18:01
+
+             Simone L
+             ciao bybit e la miglior alternativa per quanto mi riguardi
+              
+
+         Bybit è davvero una scelta eccellente e altamente affidabile, alla pari con le altre principali piattaforme internazionali.
+          
+         Simone L
+         14 Jul, 18:02
+         sisin io uso bybit mi trovo benissimo
+ 
+
+         sto valutando la differenza e l'utilita di utilizzare Bybit, oKX, Trust wallet per pagare su pocket option con il cripto valuta Theter e poi recuperare denaro da pocket a bybit o okx o trust quali sono le tue valutazioni per i parametri di sicurezza, facilita di utilizzo, e costi?
+          
+         Ecco il mio ragionamento completo in formato testo semplice e copiabile:
+          
+         Valutazione: Bybit vs OKX vs Trust Wallet per uso con Pocket Option (USDT)
+          
+         Flusso considerato: Depositare USDT su Pocket Option → Fare trading → Prelievo USDT indietro sul wallet/exchange.
+          
+         1. Tabella Riassuntiva
+         Parametro   Bybit    OKX   Trust Wallet   Vincitore
+         Sicurezza   Alta  Alta  Media    Bybit / OKX
+         Facilità di utilizzo    Molto Alta  Alta  Media-Alta  Bybit
+         Costi (fee totali)   Bassi    Bassi    Bassi (solo gas)  Pareggio
+         Velocità trasferimenti  Molto veloce   Molto veloce   Veloce   Pareggio
+         Raccomandazione   Migliore scelta   Ottima alternativa   Solo piccole somme   Bybit
+          
+          
+         2. Analisi Dettagliata
+         Sicurezza
+          
+         
+             Bybit e OKX: Exchange affidabili, fondi in cold storage, Proof of Reserves, buona regolamentazione. Più sicuri per somme medie/grandi.
+             Trust Wallet: Non-custodial (tu controlli le chiavi). Sicuro se usato bene, ma alto rischio di errori umani (phishing, rete sbagliata, smart contract). Non ideale per grandi importi.
+         
+         Facilità di utilizzo
+          
+         
+             Bybit: App molto intuitiva, processi chiari, buon supporto P2P.
+             OKX: Interfaccia buona, tanti network supportati.
+             Trust Wallet: Più manuale (gestisci indirizzi e reti da solo). Più rischio di sbagliare.
+         
+         Costi
+          
+         
+             Pocket Option supporta bene USDT TRC20 (Tron) → la rete più economica e veloce.
+             Fee di trasferimento:
+                 Bybit → spesso molto basse o gratuite su alcuni network.
+                 OKX → tra le più economiche (TRC20 circa 0,8–1,5$).
+                 Trust Wallet → paghi solo fee di rete Tron (generalmente <1$).
+             Costo totale andata + ritorno su importi medi: circa 1–4$.
+         
+         3. Raccomandazione Finale
+         Migliore scelta: Bybit Motivi: migliore bilanciamento tra sicurezza, facilità e costi. Ideale per chi fa avanti-indietro con Pocket Option.
+          
+         Seconda scelta: OKX Molto simile a Bybit, ottima se già la usi o preferisci la sua piattaforma.
+          
+         Trust Wallet Usalo solo per piccole quantità (massimo poche centinaia di euro). Per somme più grandi è rischioso.
+          
+         4. Avvertenza Importante
+         Pocket Option è una piattaforma di binary options ad alto rischio (molto speculativa, simile al gioco d’azzardo). Ha regolamentazione debole e diversi reclami su prelievi. Usa solo soldi che puoi permetterti di perdere completamente.
+          
+          
+          
 
 
 
