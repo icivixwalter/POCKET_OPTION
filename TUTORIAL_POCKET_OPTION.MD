@@ -6346,7 +6346,7 @@ CONSIGLI DI INVESTIMENTO MAX 3%
       Il deposito tramite bonifico bancario diretto dal proprio conto corrente è una modalità pienamente supportata e disponibile all'interno della piattaforma per tutta la community. Vi basterà accedere al vostro pannello di controllo nella sezione delle finanze, selezionare l'opzione relativa al trasferimento bancario e seguire le istruzioni stampando i dati per il pagamento; i fondi verranno accreditati non appena l'istituto finanziario completerà l'operazione.Puoi ricaricare il tuo conto utilizzando uno qualsiasi dei metodi di pagamento disponibili nella sezione Finanze/Ricarica.
  
  
-### 2026.07.14  BIBYT ECCELLENTE
+### 2026.07.14 BIBYT ECCELLENTE
          Maksim M
          14 Jul, 18:00
          L'utilizzo di portafogli crittografici non custoditi come Trust Wallet, Tonkeeper o MyTonWallet rappresenta una scelta eccellente e sicura per la ricezione dei fondi nel circuito blockchain. Potete inserire comodamente l'indirizzo del vostro wallet nella sezione delle finanze, ricordando che tutte le verifiche sui prelievi vengono effettuate dal reparto di sicurezza in modalità manuale e l'accredito si completa nel termine standard da 3-5 a 14 giorni lavorativi.
@@ -6420,6 +6420,24 @@ CONSIGLI DI INVESTIMENTO MAX 3%
           
           
 
+
+
+### 2026.09.14 DEPISTO IN CRIPTO NESSUNA VERIFICA DELLA CARTA BANCARIA MA VERICIA DELLA CARTA IDENTITA
+   Ciro M
+      
+      14 Sep, 16:19
+      Se deposito in crypto non mi chiedono la verifica di nessuna carta giusto ?
+
+
+   Maksim M
+         14 Sep, 16:31
+         Ciro M
+         Se deposito in crypto non mi chiedono la verifica di nessuna carta giusto ?
+         
+      Nel caso in cui il deposito venga effettuato esclusivamente tramite criptovalute, la verifica della carta bancaria non è richiesta.
+      È importante ricordare che le regole generali richiedono comunque il completamento della verifica dell'identità nel profilo per eseguire i prelievi in modalità manuale.
+      
+      Se hai già ricevuto una richiesta dall'assistenza per la verifica della tua carta, devi completarla.
 
 
 ### MODELLO 2025.0X.01 TITOLO.,,
